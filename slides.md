@@ -163,10 +163,10 @@ source image:  "The new world map" © Azzam Daaboul
 <!-- .slide: class="hover"-->
 
 ## Le problème ontologique de la représentation
-
+* Quelle est la relation entre le réel, la vérité, et cette image ?
 
 ===
-problèmes ontologiques : concernent l’être et sa représentation. Qu’est-ce que cette image nous dit de la réalité ? nous touche-t-elle parce que ce qui est montré ici a vraiment été, ou bien parce que cet enfant, à l’image, et le vautour qui semble attendre sa mort nous choquent pour ce qu’ils nous évoque : notre propre enfant, la faiblesse de l’homme face à l’animal ? Quelle est la réalité de cette image, quand on sait que la photo est aisément manipulable, et que la photographe lui-même a procédé au cadrage, au réglage de son appareil pour prendre une belle image, image frappante, attendant près de 20 minutes pour que l’oiseau déploie ses ailes et semble prêt à se jeter sur l’enfant squelettique ? Sans même parler des retouches par logiciel, aujourd’hui très courants.
+problèmes ontologiques : concernent l’être et sa représentation. Qu’est-ce que cette image nous dit de la réalité ? nous touche-t-elle parce que ce qui est montré ici a vraiment été, ou bien parce que cet enfant, à l’image, et le vautour qui semble attendre sa mort nous choquent pour ce qu’ils nous évoque : notre propre enfant ? Quelle est la réalité de cette image, quand on sait que la photo est aisément manipulable, et que la photographe lui-même a procédé au cadrage, au réglage de son appareil pour prendre une belle image, image frappante, attendant près de 20 minutes pour que l’oiseau déploie ses ailes et semble prêt à se jeter sur l’enfant squelettique ? Sans même parler des retouches par logiciel, aujourd’hui très courants.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/aylan3.jpeg" data-background-size="contain" -->
@@ -267,6 +267,5 @@ source image: À Rabat, une manifestation pour dénoncer le sort des migrants en
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
 
 ## Bon semestre !
