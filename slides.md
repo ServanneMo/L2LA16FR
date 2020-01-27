@@ -1,8 +1,8 @@
 <!-- .slide: data-background-image="img/arton1267.gif" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
-# Medias et représentations : la construction médiatique du réel
-* (à l'époque numérique)
+# Medias et représentations
+La construction médiatique du réel à l'époque numérique
 
 <br/>Servanne Monjour (servanne.monjour@paris-sorbonne.fr)
 
