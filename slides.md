@@ -276,7 +276,14 @@ source image: À Rabat, une manifestation pour dénoncer le sort des migrants en
 
 ## Imiter. Représentation, trahison ?
 
-* Le procès permanent des media, de l'antiquité à l'époque numérique
+* Le procès permanent des nouveaux media, de l'antiquité à l'époque numérique
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/arton1406.jpg" data-background-size="contain" -->
+
+## Introduction : vrai ou faux ?
+
+Toute mediation, parce qu’elle facilite la transmission (dans l’espace et dans le temps) de ce qui n’est pas accessible immédiatement - tout en reconditionnant nécessairement le réel (aucun acte de communication, de médiation, n’est en effet neutre) - est habitée par les paradoxes de la représentation.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/arton1406.jpg" data-background-size="contain" -->
@@ -287,12 +294,39 @@ source image: À Rabat, une manifestation pour dénoncer le sort des migrants en
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/5029169425_2fe6f607c1_b.jpg" data-background-size="contain" -->
 
-## Vrai ou Faux ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/livre.jpeg" data-background-size="contain" -->
+
+
+===
+
+En tant qu’authentiques artifices, les medias ont en effet toujours déterminé le réel ainsi que notre conception de la vérité. Or dans notre contexte contemporain de remédiation numérique, les frontières entre le réel et l’imaginaire sont plus poreuses que jamais, tout comme les codes que nous avions jusque là construits pour les distinguer l’un de l’autre.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-video="img/Qu_est-ce_que_l_hologramme_de_Melenchon.mp4" data-background-size="contain" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Problématique : le statut ontologique de la représentation
+* Qu'est-ce que l'*être* (et le non-être) ?
+* Des formes d'*être* ont-elles plus de valeur que d'autres ?
+* À l'époque du numérique, sommes-nous en train de passer du monde de la représentation vers un monde "virtuel" (*vs* réel), où la médiation serait première ?
+
+
+===
+
+Toute mediation, parce qu’elle facilite la transmission (dans l’espace et dans le temps) de ce qui n’est pas accessible immédiatement - tout en reconditionnant nécessairement le réel (aucun acte de communication, de médiation, n’est en effet neutre) - est habitée par les paradoxes de la représentation. En tant qu’authentiques artifices, les medias ont en effet toujours déterminé le réel ainsi que notre conception de la vérité. Or dans notre contexte contemporain de remédiation numérique, les frontières entre le réel et l’imaginaire sont plus poreuses que jamais, tout comme les codes que nous avions jusque là construits pour les distinguer l’un de l’autre.
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/arton1406.jpg" data-background-size="contain" -->
 
-## La mimesis
+## Au origines du problème : la mimesis
 * μίμησις (mímêsis), du verbe μιμεῖσθαι (mīmeisthai, « imiter ») et de μῖμος (mimos, « imitateur, acteur »)
 * Un concept fondateur de la pensée occidentale, à l'origine des théories de la représentation, de notre compréhension du vrai et du faux
 * Une interprétation variable : vraisemblance, illusion, référentialité, tromperie...
@@ -318,17 +352,8 @@ Mais ce qui est intéressant ici, c’est le principe du tableau-mot : on trava
 <!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
-### Le problème ontologique de la représentation
-* Qu'est-ce qu'un problème ontologique ?
-* Qu'est-ce que l'*être* ? (et le non-être)
-* Des formes d'*être* ont-elles plus de valeur que d'autres ?
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
-
 ### L'influence platonicienne
-* théorie des idées platonicienne (Athènes, IV-Ve siècle avant JC)
+* Théorie des idées platonicienne (Athènes, IV-Ve siècle avant JC)
 * Mimesis comme imitation
 * *La République*, livre X
 
@@ -349,7 +374,9 @@ Premier problème, il va d’abord parler de la peinture, puis du théâtre.
 <!-- .slide: class="hover"-->
 
 ### La forme (Idée), l'objet, l'image
-
+* La forme (idée du lit, idéal, sans existence sensible)
+* L'objet (dans le monde sensible, un objet "lit")
+* L'image (la représentation du lit)
 
 ===
 
@@ -364,42 +391,35 @@ Nous sommes alors dans le monde des apparences, où se perd l’essence de la ch
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/platon.png" data-background-size="contain" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ### Le réalisme de Platon
-
-===
-
 La théorie des idées met donc en place deux niveaux de réalité :
     • monde intelligible avec l’idée pure (eidos / Forme)
     • monde sensible = idée dégradée (Objet)
 
-L’Eidos n’en reste pas moins problématique : Contrairement au réalisme du sens commun auquel adhère l’empirisme, le réalisme idéaliste affirme que la véritable réalité est celle des Idées des choses, et non pas les choses elles-mêmes que nous rencontrons dans notre expérience sensible de tous les jours. Problème ici ontologique : le réel est-il seulement accessible, qu’est-ce qui définit le réel ?
+Le réel est-il seulement accessible ?
+
+===
+L’Eidos n’en reste pas moins problématique : Contrairement au réalisme du sens commun auquel adhère l’empirisme, le réalisme idéaliste affirme que la véritable réalité est celle des Idées des choses, et non pas les choses elles-mêmes que nous rencontrons dans notre expérience sensible de tous les jours.
+
+Problème ici ontologique : le réel est-il seulement accessible, qu’est-ce qui définit le réel ?
 = Pour Platon, la pipe que je vais fumer n’est pas la véritable pipe, l’idée de la chose. C’est déjà une imitation.
 
 Au-delà des apparences sensibles se trouvent la réalité et la vérité. C’est pourquoi aussi l’idéalisme de Platon est qualifié de «réalisme», puisque ce qui est véritablement réel ce sont les Idées.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
-
-### Le pharmakon
-
-> Voici […] une connaissance qui rendra les Égyptiens plus savants, et leur donnera plus de mémoire : mémoire et science ont trouvé un remède.
-
->[L’écriture] développera l’oubli dans les âmes de ceux qui l’auront acquise par la négligence de la mémoire ; se fiant à l’écrit, c’est du dehors […], et non du dedans, et grâce à l’effort personnel, que l’on rappellera ses souvenirs.
-===
-
-De l’écriture, Platon fait dire à Socrate, dans le Phèdre, qu’elle est un pharmakon : à la fois une drogue, dangereuse, aux effets imprévisibles, et un remède, capable par conséquent de pallier les insuffisances ou les défaillances de la pensée.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/tram.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
-### L'origine de la condamnation des media
+### L'origine de la condamnation des media : le mythe de Theuth
 
-* Oral et immédiateté vs médiation de l'écrit
+* Oral et immédiateté **vs** médiation de l'écrit
 
 >Une fois écrit, chaque discours s’en va rouler de tous côtés […] ; si des voix discordantes se font entendre […], il a toujours besoin du secours de son père. À lui seul, en effet, il est incapable de repousser une attaque et de se défendre lui-même. (Platon)
 
@@ -407,9 +427,23 @@ De l’écriture, Platon fait dire à Socrate, dans le Phèdre, qu’elle est un
 
 Le philosophe plaide contre l’écrit en faveur de l’oral. La parole vive – ou vivante – peut seule, selon lui, servir la pensée.
 
->Les mêmes arguments seront inlassablement repris, depuis ce dialogue, dès qu’un nouveau média apparaîtra ou qu’une nouvelle technique, fière de ses prouesses, prendra le risque de s’imposer face à ses devancières. Ainsi, l’essor de la télévision a-t-il ouvert la polémique entre l’écrit et l’« audiovisuel ». Pourquoi, cependant, la télévision serait-elle condamnée à ne pas penser, à ne jamais donner à penser ? Pourquoi l’émotion, qu’on l’accuse de privilégier, ne serait-elle pas une forme de la pensée, le point de départ d’une réflexion ? Le débat rebondit avec l’arrivée du Web. Les images virtuelles, par exemple, n’ouvrent-elles pas des voies nouvelles pour l’action, pour la création, pour la connaissance ?
 
 >Le constat s’impose : l’arrivée d’un nouveau média représente toujours un défi, non seulement pour ceux qu’il vient concurrencer, mais également pour l’ordre que ces médias finissent par imposer, dans l’information, dans le divertissement, dans les savoirs et les conditions de leur divulgation. La reprise des mêmes arguments qui plaidaient, jadis, en faveur de l’oral contre l’écrit désigne, avant toute autre chose, l’irrésistible orgueil des hommes. Ils préfèrent dénigrer les médias plutôt que d’avouer à quel point ces derniers leur sont utiles, pour juger ou pour rêver, pour apprendre ou pour créer quelque chose.
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Le media comme pharmakon : poison et remède
+
+> Voici […] une connaissance qui rendra les Égyptiens plus savants, et leur donnera plus de mémoire : mémoire et science ont trouvé un remède.
+
+>[L’écriture] développera l’oubli dans les âmes de ceux qui l’auront acquise par la négligence de la mémoire ; se fiant à l’écrit, c’est du dehors […], et non du dedans, et grâce à l’effort personnel, que l’on rappellera ses souvenirs.
+===
+
+De l’écriture, Platon fait dire à Socrate, dans le Phèdre, qu’elle est un pharmakon : à la fois une drogue, dangereuse, aux effets imprévisibles, et un remède, capable par conséquent de pallier les insuffisances ou les défaillances de la pensée.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/tram.png" data-background-size="contain" -->
@@ -421,14 +455,14 @@ Le philosophe plaide contre l’écrit en faveur de l’oral. La parole vive –
 
 ### Monde numérique, monde virtuel ?
 
->Les mêmes arguments seront inlassablement repris, depuis ce dialogue, dès qu’un nouveau média apparaîtra ou qu’une nouvelle technique, fière de ses prouesses, prendra le risque de s’imposer face à ses devancières. Ainsi, l’essor de la télévision a-t-il ouvert la polémique entre l’écrit et l’« audiovisuel ». Pourquoi, cependant, la télévision serait-elle condamnée à ne pas penser, à ne jamais donner à penser ? Pourquoi l’émotion, qu’on l’accuse de privilégier, ne serait-elle pas une forme de la pensée, le point de départ d’une réflexion ? Le débat rebondit avec l’arrivée du Web. Les images virtuelles, par exemple, n’ouvrent-elles pas des voies nouvelles pour l’action, pour la création, pour la connaissance ?
+>Les mêmes arguments seront inlassablement repris, depuis ce dialogue, dès qu’un nouveau média apparaîtra ou qu’une nouvelle technique, fière de ses prouesses, prendra le risque de s’imposer face à ses devancières. Ainsi, l’essor de la télévision a-t-il ouvert la polémique entre l’écrit et l’« audiovisuel ». Pourquoi, cependant, la télévision serait-elle condamnée à ne pas penser, à ne jamais donner à penser ? Pourquoi l’émotion, qu’on l’accuse de privilégier, ne serait-elle pas une forme de la pensée, le point de départ d’une réflexion ? Le débat rebondit avec l’arrivée du Web. Les images virtuelles, par exemple, n’ouvrent-elles pas des voies nouvelles pour l’action, pour la création, pour la connaissance ? Francis Balle, *Les Médias*, 2014
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/Civic-Tech-2-696x453.jpg" data-background-size="contain" -->
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/virtuel.jpeg" data-background-size="contain" -->
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -436,14 +470,11 @@ Le philosophe plaide contre l’écrit en faveur de l’oral. La parole vive –
 <!-- .slide: class="hover"-->
 
 ### Le mythe de la dématérialisation
-* Virtuel
+* Virtuel *vs* actuel (le réel n'a rien à voir là-dedans)
+* Les infrastructures du numérique (et leur risque écologique !)
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
-
-### Les infrastructures du numérique
-* Un risque avant tout écologique
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
@@ -451,12 +482,15 @@ Le philosophe plaide contre l’écrit en faveur de l’oral. La parole vive –
 
 ### Réalité virtuelle
 
+Technique informatique simulant la présence physique d'un utilisateur dans un environnement artificiellement généré par des logiciels. La réalité virtuelle crée un environnement avec lequel l'utilisateur peut interagir. La réalité virtuelle reproduit donc artificiellement une expérience sensorielle, qui peut inclure la vue, le toucher, l'ouïe et l'odorat (visuelle, sonore ou haptique).
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ### Réalité augmentée
 
+Technique permettant de superposer à notre réalité physique immédiate des éléments (sons, images 2D, 3D, vidéos, etc.) calculés par un système informatique en temps réel.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
