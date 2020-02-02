@@ -283,7 +283,7 @@ source image: À Rabat, une manifestation pour dénoncer le sort des migrants en
 
 ## Introduction : vrai ou faux ?
 
-Toute mediation, parce qu’elle facilite la transmission (dans l’espace et dans le temps) de ce qui n’est pas accessible immédiatement - tout en reconditionnant nécessairement le réel (aucun acte de communication, de médiation, n’est en effet neutre) - est habitée par les paradoxes de la représentation.
+Toute médiation, parce qu’elle facilite la transmission (dans l’espace et dans le temps) de ce qui n’est pas accessible immédiatement - tout en reconditionnant nécessairement le réel (aucun acte de communication, de médiation, n’est en effet neutre) - est habitée par les paradoxes de la représentation (qui cherche à *rendre présent*).
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/arton1406.jpg" data-background-size="contain" -->
@@ -313,9 +313,9 @@ En tant qu’authentiques artifices, les medias ont en effet toujours détermin�
 <!-- .slide: class="hover"-->
 
 ### Problématique : le statut ontologique de la représentation
-* Qu'est-ce que l'*être* (et le non-être) ?
-* Des formes d'*être* ont-elles plus de valeur que d'autres ?
-* À l'époque du numérique, sommes-nous en train de passer du monde de la représentation vers un monde "virtuel" (*vs* réel), où la médiation serait première ?
+* Qu'est-ce que l'*être* (et le non-être) ? Des formes d'*être* ont-elles plus de valeur que d'autres ?
+* Que perd-on, que gagne-t-on dans une représentation ?
+* À l'époque du numérique, sommes-nous en train de passer du monde de la représentation vers un monde "virtuel" (*vs* réel), où la médiation serait un artifice permanent ?
 
 
 ===
@@ -414,10 +414,15 @@ Problème ici ontologique : le réel est-il seulement accessible, qu’est-ce q
 Au-delà des apparences sensibles se trouvent la réalité et la vérité. C’est pourquoi aussi l’idéalisme de Platon est qualifié de «réalisme», puisque ce qui est véritablement réel ce sont les Idées.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/Platonschema.jpg" data-background-size="contain" -->
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/tram.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
-### L'origine de la condamnation des media : le mythe de Theuth
+### L'origine de la condamnation des media de la représentation : le mythe de Theuth
 
 * Oral et immédiateté **vs** médiation de l'écrit
 
@@ -440,7 +445,7 @@ Le philosophe plaide contre l’écrit en faveur de l’oral. La parole vive –
 
 > Voici […] une connaissance qui rendra les Égyptiens plus savants, et leur donnera plus de mémoire : mémoire et science ont trouvé un remède.
 
->[L’écriture] développera l’oubli dans les âmes de ceux qui l’auront acquise par la négligence de la mémoire ; se fiant à l’écrit, c’est du dehors […], et non du dedans, et grâce à l’effort personnel, que l’on rappellera ses souvenirs.
+>[L’écriture] développera l’oubli dans les âmes de ceux qui l’auront acquise par la négligence de la mémoire ; se fiant à l’écrit, c’est du dehors […], et non du dedans, et grâce à l’effort personnel, que l’on rappellera ses souvenirs. (Platon)
 ===
 
 De l’écriture, Platon fait dire à Socrate, dans le Phèdre, qu’elle est un pharmakon : à la fois une drogue, dangereuse, aux effets imprévisibles, et un remède, capable par conséquent de pallier les insuffisances ou les défaillances de la pensée.
@@ -466,15 +471,20 @@ De l’écriture, Platon fait dire à Socrate, dans le Phèdre, qu’elle est un
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/cable.jpeg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ### Le mythe de la dématérialisation
 * Virtuel *vs* actuel (le réel n'a rien à voir là-dedans)
+* Un vocabulaire trompeur : nuage, sans fil, surfer...
 * Les infrastructures du numérique (et leur risque écologique !)
 
+===
+
+L’Internet « sans fil » ne l’est pas : tous nos échanges reposent sur la fiabilité de quelques centaines de câbles sous-marins, posés au fond de l’océan
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/carte.jpeg" data-background-size="contain" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
