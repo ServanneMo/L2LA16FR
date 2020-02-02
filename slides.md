@@ -269,3 +269,237 @@ source image: À Rabat, une manifestation pour dénoncer le sort des migrants en
 <!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
 
 ## Bon semestre !
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/arton1406.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+## Imiter. Représentation, trahison ?
+
+* Le procès permanent des media, de l'antiquité à l'époque numérique
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/arton1406.jpg" data-background-size="contain" -->
+
+
+===
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/5029169425_2fe6f607c1_b.jpg" data-background-size="contain" -->
+
+## Vrai ou Faux ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/arton1406.jpg" data-background-size="contain" -->
+
+## La mimesis
+* μίμησις (mímêsis), du verbe μιμεῖσθαι (mīmeisthai, « imiter ») et de μῖμος (mimos, « imitateur, acteur »)
+* Un concept fondateur de la pensée occidentale, à l'origine des théories de la représentation, de notre compréhension du vrai et du faux
+* Une interprétation variable : vraisemblance, illusion, référentialité, tromperie...
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/Magritte-La-trahison-de-image-1024x707.jpg" data-background-size="contain" -->
+===
+
+Magritte a développé ce discours de l’écart entre l’objet, son identification et sa représentation dans une large partie de son œuvre.
+Mais ce qui est intéressant ici, c’est le principe du tableau-mot : on travaille autant le langage (comme représentation), que l’image. Le mot écrit « pipe » n’est pas non plus une pipe. Si je vous dis « chaise », vous ne pourrez vous asseoir dessus. Tout comme « Le mot "chien" ne mord pas»
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/Magritte-La-trahison-de-image-1024x707.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Une représentation :
+* En image (médiation par le tableau, la peinture)
+* En texte (médiation par l'écriture, image graphique du mot)
+  * Image et texte sont-ils des formes de la représentation vraiment équivalentes ?
+  * Dire ici que le mot pipe, que l’image de la pipe sont des représentations, et qu’on ne peut fumer avec, doit-il signifier que l’image et le mot pipe sont moins *vrais* que l'objet ? Ont-ils moins de *valeur* ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Le problème ontologique de la représentation
+* Qu'est-ce qu'un problème ontologique ?
+* Qu'est-ce que l'*être* ? (et le non-être)
+* Des formes d'*être* ont-elles plus de valeur que d'autres ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### L'influence platonicienne
+* théorie des idées platonicienne (Athènes, IV-Ve siècle avant JC)
+* Mimesis comme imitation
+* *La République*, livre X
+
+
+===
+
+Chez Platon, mimesis sera traduit par « imitation », dans le cadre d’une conception négative, condamnation de la mimesis.
+
+La mimesis est l’une des premières inventions de la théorie de l’art, d’autant plus drôle que le concept a servi la condamnation de l’art.
+
+Du terme au concept : mimêsis [μίμηὓιὖ] se rattache au substantif mimos [μιμοὖ]. Au départ, ce terme ne se référait qu'au mime, à la danse, à la musique, en d'autres termes à des activités visant à exprimer la réalité intérieure et non à reproduire une réalité extérieure. Son application aux arts visuels est corollaire du changement sémantique qui s'opère à partir du cinquième siècle où il commence à désigner la reproduction du monde extérieur. Ce nouvel usage va jouer un rôle déterminant dans l'orientation donnée par Platon à la problématique de la mimêsis.
+
+Platon va donc proposer une définition très pragmatique du concept, en prenant exemple sur les formes artistiques déjà existantes.
+Premier problème, il va d’abord parler de la peinture, puis du théâtre.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### La forme (Idée), l'objet, l'image
+
+
+===
+
+Propos général : Pour Platon, il existe trois niveaux ontologiques différents, qu’il vient expliquer à travers l’exemple du lit.
+La Forme : l’idée de lit. Sorte de lit idéal, qui n’a pas d’existence sensible, qu’on ne peut toucher, mais qui sert d’exemple à n’importe que lit.
+l’Objet, dans le monde sensible : le lit où l’on va se coucher ce soir
+l’Image de l’objet (sa représentation).
+
+Propos général : imitation = production éloignée de la nature de trois degrés
+Modèle secondaire, représentation de représentation. Modèle n’est plus la Forme, l’idée (la chose elle-même, ontologiquement pure), mais l’objet tiré de cette idée. La peinture est donc un fragment d’un fragment.
+Nous sommes alors dans le monde des apparences, où se perd l’essence de la chose.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Le réalisme de Platon
+
+===
+
+La théorie des idées met donc en place deux niveaux de réalité :
+    • monde intelligible avec l’idée pure (eidos / Forme)
+    • monde sensible = idée dégradée (Objet)
+
+L’Eidos n’en reste pas moins problématique : Contrairement au réalisme du sens commun auquel adhère l’empirisme, le réalisme idéaliste affirme que la véritable réalité est celle des Idées des choses, et non pas les choses elles-mêmes que nous rencontrons dans notre expérience sensible de tous les jours. Problème ici ontologique : le réel est-il seulement accessible, qu’est-ce qui définit le réel ?
+= Pour Platon, la pipe que je vais fumer n’est pas la véritable pipe, l’idée de la chose. C’est déjà une imitation.
+
+Au-delà des apparences sensibles se trouvent la réalité et la vérité. C’est pourquoi aussi l’idéalisme de Platon est qualifié de «réalisme», puisque ce qui est véritablement réel ce sont les Idées.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Le pharmakon
+
+> Voici […] une connaissance qui rendra les Égyptiens plus savants, et leur donnera plus de mémoire : mémoire et science ont trouvé un remède.
+
+>[L’écriture] développera l’oubli dans les âmes de ceux qui l’auront acquise par la négligence de la mémoire ; se fiant à l’écrit, c’est du dehors […], et non du dedans, et grâce à l’effort personnel, que l’on rappellera ses souvenirs.
+===
+
+De l’écriture, Platon fait dire à Socrate, dans le Phèdre, qu’elle est un pharmakon : à la fois une drogue, dangereuse, aux effets imprévisibles, et un remède, capable par conséquent de pallier les insuffisances ou les défaillances de la pensée.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/tram.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### L'origine de la condamnation des media
+
+* Oral et immédiateté vs médiation de l'écrit
+
+>Une fois écrit, chaque discours s’en va rouler de tous côtés […] ; si des voix discordantes se font entendre […], il a toujours besoin du secours de son père. À lui seul, en effet, il est incapable de repousser une attaque et de se défendre lui-même. (Platon)
+
+===
+
+Le philosophe plaide contre l’écrit en faveur de l’oral. La parole vive – ou vivante – peut seule, selon lui, servir la pensée.
+
+>Les mêmes arguments seront inlassablement repris, depuis ce dialogue, dès qu’un nouveau média apparaîtra ou qu’une nouvelle technique, fière de ses prouesses, prendra le risque de s’imposer face à ses devancières. Ainsi, l’essor de la télévision a-t-il ouvert la polémique entre l’écrit et l’« audiovisuel ». Pourquoi, cependant, la télévision serait-elle condamnée à ne pas penser, à ne jamais donner à penser ? Pourquoi l’émotion, qu’on l’accuse de privilégier, ne serait-elle pas une forme de la pensée, le point de départ d’une réflexion ? Le débat rebondit avec l’arrivée du Web. Les images virtuelles, par exemple, n’ouvrent-elles pas des voies nouvelles pour l’action, pour la création, pour la connaissance ?
+
+>Le constat s’impose : l’arrivée d’un nouveau média représente toujours un défi, non seulement pour ceux qu’il vient concurrencer, mais également pour l’ordre que ces médias finissent par imposer, dans l’information, dans le divertissement, dans les savoirs et les conditions de leur divulgation. La reprise des mêmes arguments qui plaidaient, jadis, en faveur de l’oral contre l’écrit désigne, avant toute autre chose, l’irrésistible orgueil des hommes. Ils préfèrent dénigrer les médias plutôt que d’avouer à quel point ces derniers leur sont utiles, pour juger ou pour rêver, pour apprendre ou pour créer quelque chose.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/tram.png" data-background-size="contain" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/Civic-Tech-2-696x453.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Monde numérique, monde virtuel ?
+
+>Les mêmes arguments seront inlassablement repris, depuis ce dialogue, dès qu’un nouveau média apparaîtra ou qu’une nouvelle technique, fière de ses prouesses, prendra le risque de s’imposer face à ses devancières. Ainsi, l’essor de la télévision a-t-il ouvert la polémique entre l’écrit et l’« audiovisuel ». Pourquoi, cependant, la télévision serait-elle condamnée à ne pas penser, à ne jamais donner à penser ? Pourquoi l’émotion, qu’on l’accuse de privilégier, ne serait-elle pas une forme de la pensée, le point de départ d’une réflexion ? Le débat rebondit avec l’arrivée du Web. Les images virtuelles, par exemple, n’ouvrent-elles pas des voies nouvelles pour l’action, pour la création, pour la connaissance ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/Civic-Tech-2-696x453.jpg" data-background-size="contain" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Le mythe de la dématérialisation
+* Virtuel
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Les infrastructures du numérique
+* Un risque avant tout écologique
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Réalité virtuelle
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Réalité augmentée
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Le "fake"
+* *Fake*-news
+* Deep-*fake*
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+## Conclusion
+La question de la "vérité" des media fait partie de l'histoire des media. À chaque nouvelle révolution technologique, les mêmes craintes. Ce discours est notamment l'héritage d'une pensée platonicienne qui a grandement influencé notre culture, et établi les bases de notre système ontologique. Méfiance accrue l'égard de toutes les formes de représentation. Évolution de la frontière entre réel et imaginaire. Aujourd'hui, émergence de nouvelles formes de réalité.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+## Présentifier. La valeur heuristique de la représentation
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+## Medier. Existe-t-il des formes médiatiques plus “réalistes” que d’autres ?
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+## Incarner. La fonction auctoriale
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+## Transmettre. L’énonciation éditoriale
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+## Détourner. L’autorité médiatique
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+## Censurer. Peut-on tout représenter ?
