@@ -283,7 +283,7 @@ source image: À Rabat, une manifestation pour dénoncer le sort des migrants en
 
 ## Introduction : vrai ou faux ?
 
-Toute médiation, parce qu’elle facilite la transmission (dans l’espace et dans le temps) de ce qui n’est pas accessible immédiatement - tout en reconditionnant nécessairement le réel (aucun acte de communication, de médiation, n’est en effet neutre) - est habitée par les paradoxes de la représentation (qui cherche à *rendre présent*).
+Toute médiation, parce qu’elle facilite la transmission (dans l’espace et dans le temps) de ce qui n’est pas accessible immédiatement - tout en reconditionnant nécessairement le réel (aucun acte de communication, de médiation, n’est en effet neutre) - est habitée par les paradoxes de la représentation (qui cherche à *rendre présent*). Pourtant, la médiation apparaît toujours comme un "mal nécessaire". Tour d'horizon...
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/arton1406.jpg" data-background-size="contain" -->
@@ -298,6 +298,12 @@ Toute médiation, parce qu’elle facilite la transmission (dans l’espace et d
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/livre.jpeg" data-background-size="contain" -->
 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/livre.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+En tant qu’authentiques artifices, les medias ont en effet toujours déterminé le réel ainsi que notre conception de la vérité. Or dans notre contexte contemporain de remédiation numérique, les frontières entre le réel et l’imaginaire sont plus poreuses que jamais, tout comme les codes que nous avions jusque là construits pour les distinguer l’un de l’autre.
 
 ===
 
@@ -469,6 +475,9 @@ De l’écriture, Platon fait dire à Socrate, dans le Phèdre, qu’elle est un
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/virtuel.jpeg" data-background-size="contain" -->
 
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/cretinDigital.jpeg" data-background-size="contain" -->
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/cable.jpeg" data-background-size="contain" -->
@@ -492,7 +501,12 @@ L’Internet « sans fil » ne l’est pas : tous nos échanges reposent sur la 
 
 ### Réalité virtuelle
 
-Technique informatique simulant la présence physique d'un utilisateur dans un environnement artificiellement généré par des logiciels. La réalité virtuelle crée un environnement avec lequel l'utilisateur peut interagir. La réalité virtuelle reproduit donc artificiellement une expérience sensorielle, qui peut inclure la vue, le toucher, l'ouïe et l'odorat (visuelle, sonore ou haptique).
+Technique informatique simulant la présence physique d'un utilisateur dans un environnement artificiellement généré par des logiciels. La réalité virtuelle crée un environnement avec lequel l'utilisateur peut interagir. Elle reproduit artificiellement une expérience sensorielle, qui peut inclure la vue, le toucher, l'ouïe et l'odorat (visuelle, sonore ou haptique).
+= transport direct vers un autre monde
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/biblioLaNuit.mp4" data-background-size="contain" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
@@ -501,6 +515,11 @@ Technique informatique simulant la présence physique d'un utilisateur dans un e
 ### Réalité augmentée
 
 Technique permettant de superposer à notre réalité physique immédiate des éléments (sons, images 2D, 3D, vidéos, etc.) calculés par un système informatique en temps réel.
+= repose sur l'utilisation directe de la réalité, sur laquelle on appose des éléments nouveaux
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/pokemon.jpeg" data-background-size="contain" -->
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
