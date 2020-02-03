@@ -280,6 +280,7 @@ source image: À Rabat, une manifestation pour dénoncer le sort des migrants en
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/arton1406.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
 
 ## Introduction : vrai ou faux ?
 
@@ -324,6 +325,7 @@ En tant qu’authentiques artifices, les medias ont en effet toujours détermin�
 <!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
+
 ### Problématique : le statut ontologique de la représentation
 * Qu'est-ce que l'*être* (et le non-être) ? Des formes d'*être* ont-elles plus de valeur que d'autres ?
 * Que perd-on, que gagne-t-on dans une représentation ?
@@ -338,6 +340,8 @@ Toute mediation, parce qu’elle facilite la transmission (dans l’espace et da
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/arton1406.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
 
 ## Au origines du problème : la mimesis
 * μίμησις (mímêsis), du verbe μιμεῖσθαι (mīmeisthai, « imiter ») et de μῖμος (mimos, « imitateur, acteur »)
@@ -365,7 +369,7 @@ Mais ce qui est intéressant ici, c’est le principe du tableau-mot : on trava
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/Magritte-La-trahison-de-image-1024x707.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ### L'influence platonicienne
@@ -386,7 +390,7 @@ Platon va donc proposer une définition très pragmatique du concept, en prenant
 Premier problème, il va d’abord parler de la peinture, puis du théâtre.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/Magritte-La-trahison-de-image-1024x707.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ### La forme (Idée), l'objet, l'image
@@ -411,13 +415,13 @@ Nous sommes alors dans le monde des apparences, où se perd l’essence de la ch
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/Magritte-La-trahison-de-image-1024x707.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ### Le réalisme de Platon
 La théorie des idées met donc en place deux niveaux de réalité :
-    • monde intelligible avec l’idée pure (eidos / Forme)
-    • monde sensible = idée dégradée (Objet)
+    * monde intelligible avec l’idée pure (eidos / Forme)
+    *  monde sensible = idée dégradée (Objet)
 
 Le réel est-il seulement accessible ?
 
@@ -457,7 +461,7 @@ Le philosophe plaide contre l’écrit en faveur de l’oral. La parole vive –
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/tram.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ### Le media comme pharmakon : poison et remède
@@ -493,7 +497,7 @@ De l’écriture, Platon fait dire à Socrate, dans le Phèdre, qu’elle est un
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/virtuel.jpeg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/casque.jpeg" data-background-size="contain" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/cretinDigital.jpeg" data-background-size="contain" -->
@@ -528,7 +532,7 @@ Technique informatique simulant la présence physique d'un utilisateur dans un e
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/biblioLaNuit.mp4" data-background-size="contain" -->
+<!-- .slide: data-background-video="img/biblioLaNuit.mp4" data-background-size="contain" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
@@ -543,7 +547,7 @@ Technique permettant de superposer à notre réalité physique immédiate des é
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-video="img/pokemon.jpeg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/pokemon.jpeg" data-background-size="contain" -->
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
