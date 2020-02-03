@@ -518,7 +518,7 @@ Technique permettant de superposer à notre réalité physique immédiate des é
 = repose sur l'utilisation directe de la réalité, sur laquelle on appose des éléments nouveaux
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/pokemon.jpeg" data-background-size="contain" -->
+<!-- .slide: data-background-video="img/pokemon.jpeg" data-background-size="contain" -->
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
