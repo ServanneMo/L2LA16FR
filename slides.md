@@ -285,6 +285,9 @@ source image: À Rabat, une manifestation pour dénoncer le sort des migrants en
 
 Toute médiation, parce qu’elle facilite la transmission (dans l’espace et dans le temps) de ce qui n’est pas accessible immédiatement - tout en reconditionnant nécessairement le réel (aucun acte de communication, de médiation, n’est en effet neutre) - est habitée par les paradoxes de la représentation (qui cherche à *rendre présent*). Pourtant, la médiation apparaît toujours comme un "mal nécessaire". Tour d'horizon...
 
+<!-- .element: style="font-size:1.8rem" -->
+
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/arton1406.jpg" data-background-size="contain" -->
 
@@ -305,6 +308,9 @@ Toute médiation, parce qu’elle facilite la transmission (dans l’espace et d
 
 En tant qu’authentiques artifices, les medias ont en effet toujours déterminé le réel ainsi que notre conception de la vérité. Or dans notre contexte contemporain de remédiation numérique, les frontières entre le réel et l’imaginaire sont plus poreuses que jamais, tout comme les codes que nous avions jusque là construits pour les distinguer l’un de l’autre.
 
+<!-- .element: style="font-size:1.8rem" -->
+
+
 ===
 
 En tant qu’authentiques artifices, les medias ont en effet toujours déterminé le réel ainsi que notre conception de la vérité. Or dans notre contexte contemporain de remédiation numérique, les frontières entre le réel et l’imaginaire sont plus poreuses que jamais, tout comme les codes que nous avions jusque là construits pour les distinguer l’un de l’autre.
@@ -323,6 +329,7 @@ En tant qu’authentiques artifices, les medias ont en effet toujours détermin�
 * Que perd-on, que gagne-t-on dans une représentation ?
 * À l'époque du numérique, sommes-nous en train de passer du monde de la représentation vers un monde "virtuel" (*vs* réel), où la médiation serait un artifice permanent ?
 
+<!-- .element: style="font-size:1.8rem" -->
 
 ===
 
@@ -353,6 +360,9 @@ Mais ce qui est intéressant ici, c’est le principe du tableau-mot : on trava
 * En texte (médiation par l'écriture, image graphique du mot)
   * Image et texte sont-ils des formes de la représentation vraiment équivalentes ?
   * Dire ici que le mot pipe, que l’image de la pipe sont des représentations, et qu’on ne peut fumer avec, doit-il signifier que l’image et le mot pipe sont moins *vrais* que l'objet ? Ont-ils moins de *valeur* ?
+
+<!-- .element: style="font-size:1.8rem" -->
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
@@ -434,6 +444,9 @@ Au-delà des apparences sensibles se trouvent la réalité et la vérité. C’e
 
 >Une fois écrit, chaque discours s’en va rouler de tous côtés […] ; si des voix discordantes se font entendre […], il a toujours besoin du secours de son père. À lui seul, en effet, il est incapable de repousser une attaque et de se défendre lui-même. (Platon)
 
+<!-- .element: style="font-size:1.8rem" -->
+
+
 ===
 
 Le philosophe plaide contre l’écrit en faveur de l’oral. La parole vive – ou vivante – peut seule, selon lui, servir la pensée.
@@ -452,6 +465,10 @@ Le philosophe plaide contre l’écrit en faveur de l’oral. La parole vive –
 > Voici […] une connaissance qui rendra les Égyptiens plus savants, et leur donnera plus de mémoire : mémoire et science ont trouvé un remède.
 
 >[L’écriture] développera l’oubli dans les âmes de ceux qui l’auront acquise par la négligence de la mémoire ; se fiant à l’écrit, c’est du dehors […], et non du dedans, et grâce à l’effort personnel, que l’on rappellera ses souvenirs. (Platon)
+
+<!-- .element: style="font-size:1.8rem" -->
+
+
 ===
 
 De l’écriture, Platon fait dire à Socrate, dans le Phèdre, qu’elle est un pharmakon : à la fois une drogue, dangereuse, aux effets imprévisibles, et un remède, capable par conséquent de pallier les insuffisances ou les défaillances de la pensée.
@@ -467,6 +484,9 @@ De l’écriture, Platon fait dire à Socrate, dans le Phèdre, qu’elle est un
 ### Monde numérique, monde virtuel ?
 
 >Les mêmes arguments seront inlassablement repris, depuis ce dialogue, dès qu’un nouveau média apparaîtra ou qu’une nouvelle technique, fière de ses prouesses, prendra le risque de s’imposer face à ses devancières. Ainsi, l’essor de la télévision a-t-il ouvert la polémique entre l’écrit et l’« audiovisuel ». Pourquoi, cependant, la télévision serait-elle condamnée à ne pas penser, à ne jamais donner à penser ? Pourquoi l’émotion, qu’on l’accuse de privilégier, ne serait-elle pas une forme de la pensée, le point de départ d’une réflexion ? Le débat rebondit avec l’arrivée du Web. Les images virtuelles, par exemple, n’ouvrent-elles pas des voies nouvelles pour l’action, pour la création, pour la connaissance ? Francis Balle, *Les Médias*, 2014
+
+<!-- .element: style="font-size:1.8rem" -->
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/Civic-Tech-2-696x453.jpg" data-background-size="contain" -->
@@ -504,6 +524,8 @@ L’Internet « sans fil » ne l’est pas : tous nos échanges reposent sur la 
 Technique informatique simulant la présence physique d'un utilisateur dans un environnement artificiellement généré par des logiciels. La réalité virtuelle crée un environnement avec lequel l'utilisateur peut interagir. Elle reproduit artificiellement une expérience sensorielle, qui peut inclure la vue, le toucher, l'ouïe et l'odorat (visuelle, sonore ou haptique).
 = transport direct vers un autre monde
 
+<!-- .element: style="font-size:1.8rem" -->
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/biblioLaNuit.mp4" data-background-size="contain" -->
@@ -517,6 +539,9 @@ Technique informatique simulant la présence physique d'un utilisateur dans un e
 Technique permettant de superposer à notre réalité physique immédiate des éléments (sons, images 2D, 3D, vidéos, etc.) calculés par un système informatique en temps réel.
 = repose sur l'utilisation directe de la réalité, sur laquelle on appose des éléments nouveaux
 
+<!-- .element: style="font-size:1.8rem" -->
+
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-video="img/pokemon.jpeg" data-background-size="contain" -->
 
@@ -526,15 +551,36 @@ Technique permettant de superposer à notre réalité physique immédiate des é
 <!-- .slide: class="hover"-->
 
 ### Le "fake"
-* *Fake*-news
-* Deep-*fake*
+La culture numérique a vu proliférer les termes composés à partir du "*fake*", qui désigne globalement quelque chose de frauduleux, de truqué. Il est à différentier du *false*, qui désigne plus formellement quelque chose de faux, d'incorrect.
+  * *Fake*-news
+  * Deep-*fake*
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Deepfake
+Grâce aux progrès de l’intelligence artificielle des programmes sont aujourd’hui capables d’utiliser des images existantes pour générer d’autres images. Par exemple, on peut désormais animer un visage, lui donner des expressions, l’insérer dans une autre image. Il s'agit d'un procédé largement utilisé dans la diffusion des *fakenews*.
+
+<!-- .element: style="font-size:1.8rem" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/Deepfake_example.gif" data-background-size="contain" -->
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ## Conclusion
-La question de la "vérité" des media fait partie de l'histoire des media. À chaque nouvelle révolution technologique, les mêmes craintes. Ce discours est notamment l'héritage d'une pensée platonicienne qui a grandement influencé notre culture, et établi les bases de notre système ontologique. Méfiance accrue l'égard de toutes les formes de représentation. Évolution de la frontière entre réel et imaginaire. Aujourd'hui, émergence de nouvelles formes de réalité.
+Tout au long de leur histoire, les media ont toujours dû négocier leur légitimité et prouver qu'ils n'étaient pas "en-deça" du réel, mais participaient bien à la construction de celui-ci. À chaque nouvelle révolution technologique, cependant, la question de la "vérité" médiatique ressurgit. Il faut y voir, notamment, l'héritage d'une pensée ontologique platonicienne qui a grandement influencé notre culture, encourageant la méfiance à l'égard de toutes les formes de représentation ou de médiation. Cependant, parce que les media participent à l'édification de ce que nous appelons "réalité", nous pouvons constater que la frontière entre réel et imaginaire est sans cesse en train d'évoluer. Aujourd'hui, notre culture numérique fait ainsi émerger de nouvelles formes de réalité.
+
+<!-- .element: style="font-size:1.8rem" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/nuageImiter.png" data-background-size="contain" -->
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
