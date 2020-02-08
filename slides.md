@@ -587,9 +587,108 @@ Tout au long de leur histoire, les media ont toujours dû négocier leur légiti
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
 
 ## Présentifier. La valeur heuristique de la représentation
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-video="img/Valse_Avec_Bachir_2008.mp4" data-background-size="contain" -->
+
+source image: _Valse avec Bachir_, film documentaire d'animation d'Ari Folman, 2008
+
+<!-- .element: class="source" -->
+
+===
+
+film d’animation documentaire par l’israélien Ari Folman. Fin : confrontation images d’animation et images d’archives télévisuelles. Dans le roman graphique Valse avec Bachir, ce sont les photographies de Robin Moyer qui ont été choisies pour jouer ce rôle d’archive dans la séquence finale.
+Au début du film, Ari Folman (version animée) rencontre son vieil ami Boaz, qui lui raconte un cauchemar récurrent (les chiens qu’il a tué pendant la guerre / invasion du sud du Liban par les israéliens, opération « Paix en Galilée »). Ari réalise qu’il a complètement enfoui cette partie de sa vie ans sa mémoire. Il commence un travail mémoriel, pour tenter de se souvenir de ce qu’il fait. Seul souvenir, qui va venir structurer le film : il est en train de se baigner dans la baie de Beyrouth, et voit le ville la nuit sous la lumière des fusées éclairantes. Il sort de l’eau, s’engage dans les rues de la ville. Plusieurs fois la séquence revient, avec des ajouts. On va plus loin dans le souvenir. Femmes viennent vers lui. Finalement, Ari découvre qu’il s’agit des souvenirs du massacre des camps de Sabra et Chatila, deux camps de réfugiés palestiniens que les chrétiens libanais sont allés massacrés en 1982, couverts par l’armée israélienne, qui a même éclairé les camps…
+Fin du film : encore cette séquence qui se répète, puis la résurgence du souvenir (reconnaissance de sa présence, d’une forme de culpabilité), et passage aux images d’archives.
+Changement des modes de représentation : besoin de passer par l’image animée pour mener le travail de réminiscence travail d’investigation.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/bachir.jpeg" data-background-size="contain" -->
+
+### Re-présenter pour trouver la vérité
+
+* 17 septembre 1982 : massacre des réfugiés palestiniens dans les camps Sabra et Shatila (Beyrouth, Liban) par les milices phalangistes - non-intervention des forces israéliennes.
+
+<!-- .element: style="font-size:1.5rem; text-align:center" -->
+
+* 2006 : Ari Folman, réalisateur, se remémore cette période où, en tant que soldat, il a été témoin et participant indirect au massacre.
+
+* *Valse avec Bachir* est un récit d'animation introspectif ; travail d'anamnèse de réalisateur qui cherche à retrouver des souvenirs traumatiques enfouis, rétablir la vérité.
+
+<!-- .element: style="font-size:1.5rem; text-align:center" -->
+
+===
+
+film d’animation documentaire par l’israélien Ari Folman. Fin : confrontation images d’animation et images d’archives télévisuelles. Dans le roman graphique Valse avec Bachir, ce sont les photographies de Robin Moyer qui ont été choisies pour jouer ce rôle d’archive dans la séquence finale.
+
+Au début du film, Ari Folman (version animée) rencontre son vieil ami Boaz, qui lui raconte un cauchemar récurrent (les chiens qu’il a tué pendant la guerre / invasion du sud du Liban par les israéliens, opération « Paix en Galilée »). Ari réalise qu’il a complètement enfoui cette partie de sa vie ans sa mémoire. Il commence un travail mémoriel, pour tenter de se souvenir de ce qu’il fait. Seul souvenir, qui va venir structurer le film : il est en train de se baigner dans la baie de Beyrouth, et voit le ville la nuit sous la lumière des fusées éclairantes. Il sort de l’eau, s’engage dans les rues de la ville. Plusieurs fois la séquence revient, avec des ajouts. On va plus loin dans le souvenir. Femmes viennent vers lui. Finalement, Ari découvre qu’il s’agit des souvenirs du massacre des camps de Sabra et Chatila, deux camps de réfugiés palestiniens que les chrétiens libanais sont allés massacrés en 1982, couverts par l’armée israélienne, qui a même éclairé les camps…
+
+Fin du film : encore cette séquence qui se répète, puis la résurgence du souvenir (reconnaissance de sa présence, d’une forme de culpabilité), et passage aux images d’archives.
+
+Changement des modes de représentation : besoin de passer par l’image animée pour mener le travail de réminiscence travail d’investigation.
+
+Folman : fiasco du réel, qui achoppe et qui échappe à notre mémoire.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/bachir.jpeg" data-background-size="contain" -->
+
+## De Platon à Aristote : deux conception de la mimesis
+
+Pour Platon, de même que l’artiste est un imitateur, l’art ne peut être qu’imitation. C’est le sens de sa mimésis. Platon considérait l'activité artistique comme imitation des choses ou plutôt de leur apparence – les choses elles-mêmes n'offrant qu'un reflet dégradé de l'Idée, l'œuvre d'art serait une imitation au second degré, « imitation d'imitation ». Avec Aristote, nous découvrons d’autres façon de traduire ce terme, débarrassé de toute idée de copie du réel, ou reproduction du réel : représentation, création, fiction mais surtout médiation.
+
+
+===
+
+Pour Platon, de même que l’artiste est un imitateur, l’art ne peut être qu’imitation. C’est le sens de sa mimésis. Platon considérait l'activité artistique comme imitation des choses ou plutôt de leur apparence – les choses elles-mêmes n'offrant qu'un reflet dégradé de l'Idée, l'œuvre d'art serait une imitation au second degré, « imitation d'imitation ». Au livre X de La République, il justifie sa condamnation des poètes au motif que « l'art d'imiter est bien éloigné du vrai ».
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+
+## *République* vs *Poétique*
+
+Tandis que chez Platon l’accent était mis sur le défaut d’être du représentant (eidos > objet > peinture), Aristote va prendre le problème à l’envers, et montrer plutôt la déficience du représenté. La représentation est alors reconnue comme une médiation nécessaire pour atteindre le représenté.
+
+===
+
+Le film de Folman montre bien formellement ce cheminement épistémologique de la représentation vers le représenté, à travers le changement médiatique. Il montre le potentiel de médiation propre à la représentation.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/TheEnemy.mp4" data-background-size="contain" -->
+
+source image: _The Enemy_ Karim Ben Khelifa
+
+<!-- .element: class="source" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+
+## Conclusion
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+
+===
+Nuage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
