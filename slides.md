@@ -656,6 +656,8 @@ Pour Platon, de même que l’artiste est un imitateur, l’art ne peut être qu
 
 ===
 
+Comment traduire la représentation : Qu'est-ce qui la distingue de la ressemblance, de la copie, de la reproduction, de l' illusion ?
+
 Pour Platon, de même que l’artiste est un imitateur, l’art ne peut être qu’imitation. C’est le sens de sa mimésis. Platon considérait l'activité artistique comme imitation des choses ou plutôt de leur apparence – les choses elles-mêmes n'offrant qu'un reflet dégradé de l'Idée, l'œuvre d'art serait une imitation au second degré, « imitation d'imitation ». Au livre X de La République, il justifie sa condamnation des poètes au motif que « l'art d'imiter est bien éloigné du vrai ».
 
 Mais pour Aristote, la mimesis n’est pas dévalorisée comme pour Platon, elle n’est pas vue comme un éloignement de l’être. Le terme de « représentation » convient mieux que celui « d’imitation » car Aristote traite de la tragédie, il ne considère pas le rapport au modèle mais plutôt les techniques de représentation à l’œuvre dans la tragédie
@@ -729,7 +731,7 @@ Chez Aristote, il y a aussi deux types de mimésis, qui toutes deux procèdent d
 
 ### La mimesis d'action
 
->la fable doit être composée de telle sorte que, même sans les voir, celui qui entend raconter les fait en frémisse d’effroi et en soit pris de pitié. Mais produire cet effet par le spectacle est plus étranger à l’art et ne demande que des ressources matérielles.
+>la fable doit être composée de telle sorte que, même sans les voir, **celui qui entend raconter les fait en frémisse d’effroi et en soit pris de pitié. Mais produire cet effet par le spectacle est plus étranger à l’art et ne demande que des ressources matérielles.**
 
 ===
 
@@ -744,12 +746,20 @@ Or, si l’on en croit Aristote, le muthos doit prévaloir sur tout autre chose,
 <!-- .slide: class="hover"-->
 
 ### La mimesis de caractère
->Puisque ceux qui représentent des personnages en action, et que nécessairement ces personnages sont nobles ou bas […], c'est-à-dire soit meilleurs, soit pires que nous, soit semblables — comme le font les peintres : Polygnote peint ses personnages meilleurs, Pauson pires, Dionysos semblables — il est évident que chacune des représentations dont j'ai parlé comportera aussi ces différences et sera autre parce qu'elle représentera des objets autres sous le rapport qu'on vient d'indiquer.
+>Puisque ceux qui représentent des personnages en action, et que **nécessairement ces personnages sont nobles ou bas […], c'est-à-dire soit meilleurs, soit pires que nous, soit semblables** — comme le font les peintres : Polygnote peint ses personnages meilleurs, Pauson pires, Dionysos semblables — il est évident que chacune des représentations dont j'ai parlé comportera aussi ces différences et sera autre parce qu'elle représentera des objets autres sous le rapport qu'on vient d'indiquer.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
+### Le plaisir mimétique
+
+Aristote introduit l’idée d’une fonction cognitive que procurerait le plaisir de la mimésis : Il existe un plaisir de la reconnaissance lié à un principe de reconnaissance, lui-même producteur de connaissance. Aussi, pour Aristote, il est dans la nature de l’homme d’imiter.
+
+===
+
+Ainsi, Aristote introduit l’idée d’une fonction cognitive que procurerait le plaisir de la mimésis : Il existe pour Aristote un plaisir de la reconnaissance lié à un principe de reconnaissance, lui-même producteur de connaissance. Aussi, pour Aristote, il est dans la nature de l’homme d’imiter.
+Et comme pour faire un pied de nez à Platon, ce pont établit entre l’acquisition des connaissances et la ressemblance mimétique, c’est justement l’image : (passage non transmis) « En effet, si l'on aime à voir des images c'est qu'en les regardant on apprend à connaître et on conclut ce qu'est chaque chose comme lorsqu'on dit : celui-là, c'est lui ».
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/TheEnemy.mp4" data-background-size="contain" -->
