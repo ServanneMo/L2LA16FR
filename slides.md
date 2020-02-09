@@ -591,6 +591,19 @@ Tout au long de leur histoire, les media ont toujours dû négocier leur légiti
 
 ## Présentifier. La valeur heuristique de la représentation
 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-img="img/" data-background-size="contain" -->
+
+## Introduction : entre le "vrai" et le "faux", le large spectre des régimes de vérité
+Entre les catégories du "vrai" et du "faux", s'étend un large spectre de notions reliées à la représentation, dont la valeur ontologique, éthique ou même heuristique est généralement discutable : copie, illusion, tromperie, fiction, vraisemblable, reproduction, imaginaire, réel... Avec parfois des surprises de taille : plus une représentation s'éloigne de l'objet représenté (en termes référentiels et médiatiques, notamment), plus elle s'avère efficace. Exemple avec un documentaire hors-norme : _Valse avec Bachir_ d'Ari Folman.
+
+<!-- .element: style="font-size:1.8rem" -->
+
+===
+
+"De la vérité à l’erreur, à l’imagination ou à l’imaginaire, de l’authenticité à l’imitation, du réel à l’illusion ou à l’utopie, de l’original à la copie, du vrai au faux, au faux-semblant, au fictionnel, au vraisemblable, au mensonger, se déploie un large éventail de mots, de discours, de pratiques qui occupent les vastes territoires situés « entre le vrai et le faux ». On les appellera des programmes ou régimes de vérité, en écho aux analyses de Michel Foucault, implicites ou explicites, que seule une analyse historique peut rendre manifestes dans leurs fondements, leurs fonctionnements et leurs variations au sein de contextes précis." Bonnet
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-video="img/Valse_Avec_Bachir_2008.mp4" data-background-size="contain" -->
 
@@ -635,7 +648,7 @@ Changement des modes de représentation : besoin de passer par l’image animé
 Folman : fiasco du réel, qui achoppe et qui échappe à notre mémoire.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/bachir.jpeg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/plato.jpeg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ### Problématique et plan :
@@ -644,8 +657,11 @@ Folman : fiasco du réel, qui achoppe et qui échappe à notre mémoire.
 * Catharsis et performativité
 * Documentaire, fiction, réalité virtuelle...
 
+<!-- .element: style="font-size:1.8rem" -->
+
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/bachir.jpeg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/plato.jpeg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 
@@ -653,22 +669,26 @@ Folman : fiasco du réel, qui achoppe et qui échappe à notre mémoire.
 
 Pour Platon, de même que l’artiste est un imitateur, l’art ne peut être qu’imitation. C’est le sens de sa mimésis. Platon considérait l'activité artistique comme imitation des choses ou plutôt de leur apparence – les choses elles-mêmes n'offrant qu'un reflet dégradé de l'Idée, l'œuvre d'art serait une imitation au second degré, « imitation d'imitation ». Avec Aristote, nous découvrons d’autres façon de traduire ce terme, débarrassé de toute idée de copie du réel, ou reproduction du réel : représentation, création, fiction mais surtout médiation.
 
+<!-- .element: style="font-size:1.8rem" -->
+
 
 ===
 
-Comment traduire la représentation : Qu'est-ce qui la distingue de la ressemblance, de la copie, de la reproduction, de l' illusion ?
 
 Pour Platon, de même que l’artiste est un imitateur, l’art ne peut être qu’imitation. C’est le sens de sa mimésis. Platon considérait l'activité artistique comme imitation des choses ou plutôt de leur apparence – les choses elles-mêmes n'offrant qu'un reflet dégradé de l'Idée, l'œuvre d'art serait une imitation au second degré, « imitation d'imitation ». Au livre X de La République, il justifie sa condamnation des poètes au motif que « l'art d'imiter est bien éloigné du vrai ».
 
 Mais pour Aristote, la mimesis n’est pas dévalorisée comme pour Platon, elle n’est pas vue comme un éloignement de l’être. Le terme de « représentation » convient mieux que celui « d’imitation » car Aristote traite de la tragédie, il ne considère pas le rapport au modèle mais plutôt les techniques de représentation à l’œuvre dans la tragédie
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/5666755.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ## *République* vs *Poétique*
 
 Tandis que chez Platon l’accent était mis sur le défaut d’être du représentant (eidos > objet > peinture), Aristote va prendre le problème à l’envers, et montrer plutôt la déficience du représenté. La représentation est alors reconnue comme une médiation nécessaire pour atteindre le représenté.
+
+<!-- .element: style="font-size:1.8rem" -->
+
 
 ===
 
@@ -676,7 +696,7 @@ Le film de Folman montre bien formellement ce cheminement épistémologique de l
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/5666755.jpg" data-background-size="contain" -->
 
 ### La _Poétique_ d'Aristote (_Περὶ ποιητικῆς_) :
 * Un ouvrage incomplet : une introduction générale + une étude de la tragédie (cf. Platon) + une étude de l’épopée.
@@ -684,6 +704,7 @@ Le film de Folman montre bien formellement ce cheminement épistémologique de l
 * "Poétique" : approche esthétique, formelle et thématique (et moins ontologique ou éthique) pour un **système des genres**
 * Perspective : Objet de la représentation plutôt qu'objet représenté
 
+<!-- .element: style="font-size:1.8rem" -->
 
 ===
 
@@ -696,7 +717,7 @@ Platon définissait certes la mimesis à partir d’une réflexion sur la nature
 Aristote établit d’abord un système de genres, basés sur des considérations formelles et thématiques. Il réfléchit davantage sur l’objet de la représentation que l’objet représenté, objet de la représentation en tant que médium doté de ses propres spécificités formelles. Son texte s’inscrit donc davantage dans le cadre d’une réflexion esthétique.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/5666755.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 
@@ -726,12 +747,12 @@ Chez Platon, on avait relevé le problème de la double filiation du concept : 
 Chez Aristote, il y a aussi deux types de mimésis, qui toutes deux procèdent d’une comparaison distincte avec la peinture et les arts visuels.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/5666755.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ### La mimesis d'action
 
->la fable doit être composée de telle sorte que, même sans les voir, **celui qui entend raconter les fait en frémisse d’effroi et en soit pris de pitié. Mais produire cet effet par le spectacle est plus étranger à l’art et ne demande que des ressources matérielles.**
+>la fable doit être composée de telle sorte que, même sans les voir, **celui qui entend raconter les fait en frémisse d’effroi et en soit pris de pitié. Mais produire cet effet par le spectacle est plus étranger à l’art et ne demande que des ressources matérielles.** (Aristote, _Poétique_)
 
 ===
 
@@ -742,27 +763,121 @@ Représenter l'action signifie d’abord représenter l'histoire (Oedipos muthos
 Or, si l’on en croit Aristote, le muthos doit prévaloir sur tout autre chose, y compris la représentation théâtrale. P. 48 : « la fable doit être composée de telle sorte que, même sans les voir, celui qui entend raconter les fait en frémisse d’effroi et en soit pris de pitié. Mais produire cet effet par le spectacle est plus étranger à l’art et ne demande que des ressources matérielles. »
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/5666755.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ### La mimesis de caractère
->Puisque ceux qui représentent des personnages en action, et que **nécessairement ces personnages sont nobles ou bas […], c'est-à-dire soit meilleurs, soit pires que nous, soit semblables** — comme le font les peintres : Polygnote peint ses personnages meilleurs, Pauson pires, Dionysos semblables — il est évident que chacune des représentations dont j'ai parlé comportera aussi ces différences et sera autre parce qu'elle représentera des objets autres sous le rapport qu'on vient d'indiquer.
+>Puisque ceux qui représentent des personnages en action, et que **nécessairement ces personnages sont nobles ou bas […], c'est-à-dire soit meilleurs, soit pires que nous, soit semblables** — comme le font les peintres : Polygnote peint ses personnages meilleurs, Pauson pires, Dionysos semblables — il est évident que chacune des représentations dont j'ai parlé comportera aussi ces différences et sera autre parce qu'elle représentera des objets autres sous le rapport qu'on vient d'indiquer. (Aristote, _Poétique_)
+
+<!-- .element: style="font-size:1.8rem" -->
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/5666755.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
-### Le plaisir mimétique
+### Le plaisir mimétique : du vrai au vraisemblable, le principe de reconnaissance
 
 Aristote introduit l’idée d’une fonction cognitive que procurerait le plaisir de la mimésis : Il existe un plaisir de la reconnaissance lié à un principe de reconnaissance, lui-même producteur de connaissance. Aussi, pour Aristote, il est dans la nature de l’homme d’imiter.
+
+>En effet, si l'on aime à voir des images c'est qu'en les regardant on apprend à connaître et on conclut ce qu'est chaque chose comme lorsqu'on dit : celui-là, c'est lui.(Aristote, _Poétique_)
 
 ===
 
 Ainsi, Aristote introduit l’idée d’une fonction cognitive que procurerait le plaisir de la mimésis : Il existe pour Aristote un plaisir de la reconnaissance lié à un principe de reconnaissance, lui-même producteur de connaissance. Aussi, pour Aristote, il est dans la nature de l’homme d’imiter.
+
 Et comme pour faire un pied de nez à Platon, ce pont établit entre l’acquisition des connaissances et la ressemblance mimétique, c’est justement l’image : (passage non transmis) « En effet, si l'on aime à voir des images c'est qu'en les regardant on apprend à connaître et on conclut ce qu'est chaque chose comme lorsqu'on dit : celui-là, c'est lui ».
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/TheEnemy.mp4" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/5666755.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### La _catharsis_
+>La tragédie est l'imitation d'une action de caractère élevé et complète, d’une certaine étendue, dans un langage relevés d’assaisonnements d’une espèce particulière suivant les diverses parties, imitation qui est faite par des personnages en action, et non au moyen d'un récit, et qui, suscitant la pitié et la crainte opère la purgation propre à pareilles émotions. (Aristote, _Poétique_)
+
+<!-- .element: style="font-size:1.8rem" -->
+
+
+===
+
+Catharsis : Débarrasser le spectateur de ses troubles personnels par l’identification au personnage qui opère une sorte de transfert et de purgation. Influence du théâtre grec comme acte rituel, social, politique et civique (avant même de penser à la psychanalyse).
+Contresens dans la catharsis depuis 2000 ans : les passions dont parle Aristote, seulement pitié et crainte. Or, nous traduisons cela par purgation des passions. Aristote, fils de médecin, entend surtout dans un sens physiologique (quasi médical), que psychologique ou moral ou même religieux. Concept cité ici mais surtout développé dans la Politique :
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/5666755.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Catharsis ou puissance heuristique de la représentation
+>Nous voyons ces mêmes personnes, quand elles ont eu recours aux mélodies qui transportent l'âme hors d'elle-même, remises d'aplomb comme si elles avaient pris un remède et une purgation. C'est à ce même traitement, dès lors, que doivent être nécessairement soumis à la fois ceux qui sont enclins à la pitié et ceux qui sont enclins à la terreur, et tous les autres qui, d'une façon générale, sont sous l'empire d'une émotion quelconque pour autant qu'il y a en chacun d'eux tendance à de telles émotions, et pour tous il se produit une certaine purgation et un allègement accompagné de plaisir. Or, c'est de la même façon aussi que les mélodies purgatrices procurent à l'homme une joie inoffensive. (Aristote, _Politique_)
+
+<!-- .element: style="font-size:1.8rem" -->
+
+
+===
+Ce que veut dire Aristote, c’est qu’il est dans la nature humaine d’éprouver des émotions comme la crainte et la pitié. Or, comme ces émotions sont dommageables, mieux vaut les faire passer et les expurger dans le cadre d’une représentation théâtrale, que dans le cadre de la vie publique. Ce qui se passe à l’intérieur de l’enceinte théâtrale permet d’éviter les débordements de la vie publique. Fonction heuristique de la représentation.
+
+Au sens strict, la mimêsis poétique n'est pas référée par Aristote à la nature mais à l'histoire (muthos); elle est une imitation des actions humaines. Que l’on parle ici du muthos ou des caractères, il s’agit de représenter les passions humaines, les mœurs, ses états de crise (ne pas opposer deux ennemis mais des amis : voilà ce que Platon ne trouverait pas convenable pour sa cité idéale).
+Mais, en raison notamment de cette double tutelle muthos / peinture (où prédomine l’idée de ressemblance), il s’est construit à partir du Moyen Âge une idée de la mimésis comme imitation de la Nature.
+
+Et à la Renaissance, nous allons voir l’émergence d’une véritable théorie de l'imitation, où l'idée d'art s’intrique étroitement à celle de règle, de canons de beauté.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/5666755.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+La catharsis est l’expression de la puissance de médiation de la mimesis : une représentation qui facilite la relation entre le sujet et le monde, un intermédiaire bénéfique et nécessaire.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/5666755.jpg" data-background-size="contain" -->
+
+### De la catharsis à la performativité
+>[D'après la théorie d'Austin, en parlant d'une catégorie de verbes] Les verbes performatifs seraient ceux qui non seulement décrivent l'action de celui qui les utilise, mais aussi, et en même temps, qui impliqueraient cette action elle-même. Ainsi, les formules « Je te conseille de... », « Je jure que... », « Je t'ordonne de... », réaliseraient l'action qu'elles expriment au moment même de l'énonciation (Greimas-Courtés1979). CNRTL
+
+<!-- .element: style="font-size:1.8rem" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/5666755.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+
+La représentation est performative, elle conditionne le réel avant même de s’en faire le reflet. Dès lors que l’on
+reconnaît cette performativité de l’image, la révélation se conçoit comme une production, une transformation de la
+réalité qu’elle était censée représenter jusqu’à présent.
+
+<!-- .element: style="font-size:1.8rem" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/5666755.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### La mimesis aristotélicienne comme fiction ? (Paul Ricoeur)
+>Il ne faut pas entendre […] quelque redoublement de présence, comme on pourrait encore l'entendre de la mimêsis platonicienne, mais la coupure qui ouvre l'espace de la fiction. (Paul Ricoeur, _Temps et Récit_)
+
+Si la mimesis, par sa dimension cathartique, renvoie à cette capacité performative d'action sur le réel, alors la fiction, et plus généralement l'art, ont aussi cette capacité à transformer le réel. Le schéma platonicien est quasiment inversé.
+
+<!-- .element: style="font-size:1.8rem" -->
+
+
+===
+Au XXe siècle, tendance à réinterpréter la mimésis aristotélicienne, en faisant abstraction de son caractère prescriptif qui avait prévalu à la Renaissance, à l’Âge classique, par exemple.
+Exemple de Ricœur : Temps et Récit
+
+Ricœur a consacré ses recherches à l’étude du signe et de la représentation, des codes qui nous relient au réel.
+Pour Ricœur, comme la métaphore, la mimesis est le lieu du déchiffrement, une figure de liaison entre le monde et le moi.
+
+« Il ne faut pas entendre […] quelque redoublement de présence, comme on pourrait encore l'entendre de la mimêsis platonicienne, mais la coupure qui ouvre l'espace de la fiction. »
+
+Toute mimésis, toute mise en récit, n’est pas un simple redoublement du réel, du monde, mais une façon d’ajouter du sens au réel, en le remettant en forme. Le film d’Ari Folman est un exemple parfait de ce principe.
+C’est pour cela que toute mimésis est une fiction.
+
+De fait, la rupture ontologique, le défaut d’être retenu par Platon (parti pris négatif), n’est plus un problème.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-video="img/TheEnemy.mp4" data-background-size="contain" -->
 
 source image: _The Enemy_ Karim Ben Khelifa
 
@@ -773,6 +888,10 @@ source image: _The Enemy_ Karim Ben Khelifa
 <!-- .slide: data-background-image="img/" data-background-size="contain" -->
 
 ## Conclusion
+Toute mimésis, toute mise en récit, n’est pas un simple redoublement du réel, du monde, mais une façon d’ajouter du sens au réel, en le remettant en forme. L'imitation ne restitue pas le réel, elle construit une représentation qui produit de la réalité. Nous croyons en cette représentation et lui prêtons un effet de réel. C’est en cela que la représentation artistique peut trouver une forme d’efficacité.
+
+<!-- .element: style="font-size:1.8rem" -->
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/" data-background-size="contain" -->
