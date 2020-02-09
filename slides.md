@@ -607,8 +607,10 @@ Changement des modes de représentation : besoin de passer par l’image animé
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/bachir.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
 
-### Re-présenter pour trouver la vérité
+
+### Représenter : la valeur heuristique de la *RE*-présentation
 
 * 17 septembre 1982 : massacre des réfugiés palestiniens dans les camps Sabra et Shatila (Beyrouth, Liban) par les milices phalangistes - non-intervention des forces israéliennes.
 
@@ -616,7 +618,7 @@ Changement des modes de représentation : besoin de passer par l’image animé
 
 * 2006 : Ari Folman, réalisateur, se remémore cette période où, en tant que soldat, il a été témoin et participant indirect au massacre.
 
-* *Valse avec Bachir* est un récit d'animation introspectif ; travail d'anamnèse de réalisateur qui cherche à retrouver des souvenirs traumatiques enfouis, rétablir la vérité.
+* *Valse avec Bachir* est un documentaire d'animation introspectif ; travail d'anamnèse de réalisateur qui cherche à retrouver des souvenirs traumatiques enfouis, rétablir la vérité.
 
 <!-- .element: style="font-size:1.5rem; text-align:center" -->
 
@@ -634,8 +636,20 @@ Folman : fiasco du réel, qui achoppe et qui échappe à notre mémoire.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/bachir.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
 
-## De Platon à Aristote : deux conception de la mimesis
+### Problématique et plan :
+* Dans quelle mesure la représentation (comprise selon une acception littérale : "présenter à nouveau"), peut-elle démontrer une valeur heuristique, c'est-à-dire une capacité à _révéler_, _découvrir_ et _comprendre_ le réel pour, éventuellement, agir sur celui-ci ?
+* La mimesis de Platon *vs* Aristote
+* Catharsis et performativité
+* Documentaire, fiction, réalité virtuelle...
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/bachir.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+
+## De Platon à Aristote : deux conception de la _mimesis_
 
 Pour Platon, de même que l’artiste est un imitateur, l’art ne peut être qu’imitation. C’est le sens de sa mimésis. Platon considérait l'activité artistique comme imitation des choses ou plutôt de leur apparence – les choses elles-mêmes n'offrant qu'un reflet dégradé de l'Idée, l'œuvre d'art serait une imitation au second degré, « imitation d'imitation ». Avec Aristote, nous découvrons d’autres façon de traduire ce terme, débarrassé de toute idée de copie du réel, ou reproduction du réel : représentation, création, fiction mais surtout médiation.
 
@@ -644,8 +658,11 @@ Pour Platon, de même que l’artiste est un imitateur, l’art ne peut être qu
 
 Pour Platon, de même que l’artiste est un imitateur, l’art ne peut être qu’imitation. C’est le sens de sa mimésis. Platon considérait l'activité artistique comme imitation des choses ou plutôt de leur apparence – les choses elles-mêmes n'offrant qu'un reflet dégradé de l'Idée, l'œuvre d'art serait une imitation au second degré, « imitation d'imitation ». Au livre X de La République, il justifie sa condamnation des poètes au motif que « l'art d'imiter est bien éloigné du vrai ».
 
+Mais pour Aristote, la mimesis n’est pas dévalorisée comme pour Platon, elle n’est pas vue comme un éloignement de l’être. Le terme de « représentation » convient mieux que celui « d’imitation » car Aristote traite de la tragédie, il ne considère pas le rapport au modèle mais plutôt les techniques de représentation à l’œuvre dans la tragédie
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
 
 ## *République* vs *Poétique*
 
@@ -659,17 +676,80 @@ Le film de Folman montre bien formellement ce cheminement épistémologique de l
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/" data-background-size="contain" -->
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+### La _Poétique_ d'Aristote (_Περὶ ποιητικῆς_) :
+* Un ouvrage incomplet : une introduction générale + une étude de la tragédie (cf. Platon) + une étude de l’épopée.
+* Forme du texte : un "cahier de cours", document didactique
+* "Poétique" : approche esthétique, formelle et thématique (et moins ontologique ou éthique) pour un **système des genres**
+* Perspective : Objet de la représentation plutôt qu'objet représenté
+
+
+===
+
+Un ouvrage incomplet : ne contient qu’une introduction générale (le programme n’est pas rempli) + une étude de la tragédie (cf. Platon) + une étude de l’épopée. Fameux livre manquant sur la comédie (cf. Umberto Eco, Le Nom de la rose).
+
+Forme du texte : Platon peut-être plus facile à lire, car ici nous avons plutôt un cahier de cours, document didactique, faut de retours en arrière, de digressions de précisions, ajouts qui ne sont pas nécessairement reliés aux éléments précédents et suivants (vs d’autres traités clairement plus soignés).
+
+Platon définissait certes la mimesis à partir d’une réflexion sur la nature et les fonctions de l’art (peinture et tragédie), mais il restait dans le cadre d’une pensée ontologique (défaut d’être des arts visuels)  ou éthique (effets corrupteurs du produit de la mimésis). La grande différence : république = programme pour la cité // Poétique = programme pour la Poésie.
+
+Aristote établit d’abord un système de genres, basés sur des considérations formelles et thématiques. Il réfléchit davantage sur l’objet de la représentation que l’objet représenté, objet de la représentation en tant que médium doté de ses propres spécificités formelles. Son texte s’inscrit donc davantage dans le cadre d’une réflexion esthétique.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+
+### L'artiste, la _technè_
+* Technè = connaissance et l’application réfléchie de règles déterminées.
+* Technè = Art ?
+* Forgée au moyen d'une _technè_, la mimésis n’est plus "imitation" comme _copie_ mais déjà comme _création_
+* Deux mimesis : d'action et de caractère
+
+===
+
+Il reconnaît aux artistes une technè, qu’il tente de systématiser, d’intégrer dans sa typologie des genres. Vs Platon et le poète inspiré, séducteur, menteur (représente que les choses partiellement // miroir de Glaucon).
+
+Technè = connaissance et l’application réfléchie de règles déterminées.
+Cette importance qu’Aristote accorde au concept de technè, et qui occupe toute La Poétique, est à l’origine d’une nouvelle conception de la mimésis, qui n’est plus imitation comme copie mais déjà comme création.
+
+On le trouvera traduit par « Art » (p. 1). Mais ce terme est trompeur pour le lecteur contemporain (œuvre d’Art).
+
+Comme chez Platon, comparaison avec la peinture, mais une comparaison qui ne sert pas les mêmes arguments.
+
+Chez Platon, on avait relevé le problème de la double filiation du concept : le sens de mimesis s'est constitué à partir d'une double référence, picturale et théâtral. Ces deux filiations déterminent en effet deux manières différentes d'envisager l'objet de la mimêsis :
+
+- A partir d’un réflexion picturale, la mimésis est rapportée à son modèle, à ce que Platon considère comme un objet affecté, un objet dont la peinture redouble la présence sur un mode illusoire – le lit représentation de l’objet lit, représentation de la Forme (eidos) du lit.
+
+- A partir du spectacle qu’est la tragédie, l'activité mimétique est rapportée plutôt à son produit, ses effets, jugés corrupteurs par Platon.
+
+Chez Aristote, il y a aussi deux types de mimésis, qui toutes deux procèdent d’une comparaison distincte avec la peinture et les arts visuels.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### La mimesis d'action
+
+>la fable doit être composée de telle sorte que, même sans les voir, celui qui entend raconter les fait en frémisse d’effroi et en soit pris de pitié. Mais produire cet effet par le spectacle est plus étranger à l’art et ne demande que des ressources matérielles.
+
+===
+
+La mimêsis poétique, telle qu'elle est définie par Aristote, est une mimêsis d'action : elle concerne « ceux qui représentent des personnages en action » (prattontas, p. 31, chap2).
+
+Représenter l'action signifie d’abord représenter l'histoire (Oedipos muthos [μῦθοὖ], p.48, chap. 14). Cette corrélation entre mimêsis et muthos par le biais de l'action aboutit à donner la primauté à l'histoire sur les caractères dans la définition de la tragédie : c’est tout l’objet des pages 48 et 49.
+
+Or, si l’on en croit Aristote, le muthos doit prévaloir sur tout autre chose, y compris la représentation théâtrale. P. 48 : « la fable doit être composée de telle sorte que, même sans les voir, celui qui entend raconter les fait en frémisse d’effroi et en soit pris de pitié. Mais produire cet effet par le spectacle est plus étranger à l’art et ne demande que des ressources matérielles. »
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### La mimesis de caractère
+>Puisque ceux qui représentent des personnages en action, et que nécessairement ces personnages sont nobles ou bas […], c'est-à-dire soit meilleurs, soit pires que nous, soit semblables — comme le font les peintres : Polygnote peint ses personnages meilleurs, Pauson pires, Dionysos semblables — il est évident que chacune des représentations dont j'ai parlé comportera aussi ces différences et sera autre parce qu'elle représentera des objets autres sous le rapport qu'on vient d'indiquer.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/TheEnemy.mp4" data-background-size="contain" -->
