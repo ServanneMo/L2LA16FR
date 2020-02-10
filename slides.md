@@ -587,13 +587,15 @@ Tout au long de leur histoire, les media ont toujours dû négocier leur légiti
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/5666755.jpg" data-background-size="contain" -->
 
 ## Présentifier. La valeur heuristique de la représentation
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-img="img/" data-background-size="contain" -->
+<!-- .slide: data-background-img="img/5666755.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
 
 ## Introduction : entre le "vrai" et le "faux", le large spectre des régimes de vérité
 Entre les catégories du "vrai" et du "faux", s'étend un large spectre de notions reliées à la représentation, dont la valeur ontologique, éthique ou même heuristique est généralement discutable : copie, illusion, tromperie, fiction, vraisemblable, reproduction, imaginaire, réel... Avec parfois des surprises de taille : plus une représentation s'éloigne de l'objet représenté (en termes référentiels et médiatiques, notamment), plus elle s'avère efficace. Exemple avec un documentaire hors-norme : _Valse avec Bachir_ d'Ari Folman.
@@ -606,6 +608,7 @@ Entre les catégories du "vrai" et du "faux", s'étend un large spectre de notio
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-video="img/Valse_Avec_Bachir_2008.mp4" data-background-size="contain" -->
+
 
 source image: _Valse avec Bachir_, film documentaire d'animation d'Ari Folman, 2008
 
@@ -630,6 +633,7 @@ Changement des modes de représentation : besoin de passer par l’image animé
 <!-- .element: style="font-size:1.5rem; text-align:center" -->
 
 * 2006 : Ari Folman, réalisateur, se remémore cette période où, en tant que soldat, il a été témoin et participant indirect au massacre.
+<!-- .element: style="font-size:1.5rem; text-align:center" -->
 
 * *Valse avec Bachir* est un documentaire d'animation introspectif ; travail d'anamnèse de réalisateur qui cherche à retrouver des souvenirs traumatiques enfouis, rétablir la vérité.
 
@@ -697,6 +701,8 @@ Le film de Folman montre bien formellement ce cheminement épistémologique de l
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/5666755.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
 
 ### La _Poétique_ d'Aristote (_Περὶ ποιητικῆς_) :
 * Un ouvrage incomplet : une introduction générale + une étude de la tragédie (cf. Platon) + une étude de l’épopée.
@@ -752,7 +758,7 @@ Chez Aristote, il y a aussi deux types de mimésis, qui toutes deux procèdent d
 
 ### La mimesis d'action
 
->la fable doit être composée de telle sorte que, même sans les voir, **celui qui entend raconter les fait en frémisse d’effroi et en soit pris de pitié. Mais produire cet effet par le spectacle est plus étranger à l’art et ne demande que des ressources matérielles.** (Aristote, _Poétique_)
+>La fable doit être composée de telle sorte que, même sans les voir, **celui qui entend raconter les fait en frémisse d’effroi et en soit pris de pitié. Mais produire cet effet par le spectacle est plus étranger à l’art et ne demande que des ressources matérielles.** (Aristote, _Poétique_)
 
 ===
 
@@ -781,6 +787,8 @@ Or, si l’on en croit Aristote, le muthos doit prévaloir sur tout autre chose,
 Aristote introduit l’idée d’une fonction cognitive que procurerait le plaisir de la mimésis : Il existe un plaisir de la reconnaissance lié à un principe de reconnaissance, lui-même producteur de connaissance. Aussi, pour Aristote, il est dans la nature de l’homme d’imiter.
 
 >En effet, si l'on aime à voir des images c'est qu'en les regardant on apprend à connaître et on conclut ce qu'est chaque chose comme lorsqu'on dit : celui-là, c'est lui.(Aristote, _Poétique_)
+
+<!-- .element: style="font-size:1.8rem" -->
 
 ===
 
@@ -830,6 +838,8 @@ La catharsis est l’expression de la puissance de médiation de la mimesis : u
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/5666755.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
 
 ### De la catharsis à la performativité
 >[D'après la théorie d'Austin, en parlant d'une catégorie de verbes] Les verbes performatifs seraient ceux qui non seulement décrivent l'action de celui qui les utilise, mais aussi, et en même temps, qui impliqueraient cette action elle-même. Ainsi, les formules « Je te conseille de... », « Je jure que... », « Je t'ordonne de... », réaliseraient l'action qu'elles expriment au moment même de l'énonciation (Greimas-Courtés1979). CNRTL
@@ -885,7 +895,7 @@ source image: _The Enemy_ Karim Ben Khelifa
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/nuage-de-mots.png" data-background-size="contain" -->
 
 ## Conclusion
 Toute mimésis, toute mise en récit, n’est pas un simple redoublement du réel, du monde, mais une façon d’ajouter du sens au réel, en le remettant en forme. L'imitation ne restitue pas le réel, elle construit une représentation qui produit de la réalité. Nous croyons en cette représentation et lui prêtons un effet de réel. C’est en cela que la représentation artistique peut trouver une forme d’efficacité.
@@ -894,10 +904,8 @@ Toute mimésis, toute mise en récit, n’est pas un simple redoublement du rée
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/nuage-de-mots.png" data-background-size="contain" -->
 
-===
-Nuage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
