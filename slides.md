@@ -896,6 +896,7 @@ source image: _The Enemy_ Karim Ben Khelifa
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/nuage-de-mots.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
 
 ## Conclusion
 Toute mimésis, toute mise en récit, n’est pas un simple redoublement du réel, du monde, mais une façon d’ajouter du sens au réel, en le remettant en forme. L'imitation ne restitue pas le réel, elle construit une représentation qui produit de la réalité. Nous croyons en cette représentation et lui prêtons un effet de réel. C’est en cela que la représentation artistique peut trouver une forme d’efficacité.
