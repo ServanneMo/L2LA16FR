@@ -593,7 +593,7 @@ Tout au long de leur histoire, les media ont toujours dû négocier leur légiti
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-img="img/5666755.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/5666755.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 
