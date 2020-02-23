@@ -909,9 +909,395 @@ Toute mimésis, toute mise en récit, n’est pas un simple redoublement du rée
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/corinnevionnet_photoopportunities_800px_120-8405f.jpg" data-background-size="contain" -->
 
 
 ## Medier. Existe-t-il des formes médiatiques plus “réalistes” que d’autres ?
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/corinnevionnet_photoopportunities_800px_120-8405f.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Introduction
+* Les images du réel... face au réel
+* L'imaginaire des media... face aux media
+
+===
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/corinnevionnet_photoopportunities_800px_120-8405f.jpg" data-background-size="contain" -->
+
+source image: _Photo Opportunities_ Corine Vionnet
+
+<!-- .element: class="source" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+
+### Problématique
+* Existe-t-il vraiment des formes médiatiques plus réalistes que d'autres, ou le "réalisme" n'est-il pas lui-même, finalement, une construction médiatique ? Si tel est le cas, comment s'érige cette construction ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Rappel : qu'est-ce qu'un media ?
+Du latin "media" = *Ce qui est entre*
+  * M**é**dias
+  * Medium
+  * Media
+
+
+===
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/journaux.jpeg"  -->
+<!-- .slide: class="hover"-->
+
+
+### Médias
+
+>Dans le domaine des communications, le nom média, qui désigne un moyen de communication et d’information, est la forme consacrée en français pour nommer ce que l’anglais américain a d’abord désigné sous l’appellation mass media. Cet emprunt est maintenant complètement intégré en français. C'est pourquoi on met un accent aigu sur le e et qu'on ajoute le 's' au pluriel : des médias.
+
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+===
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/journaux.jpeg"  -->
+
+### Médias et représentation
+* L'information n'est pas un élément neutre : il s'agit d'une construction [du réel]
+* De quoi les médias se font-ils le reflet : du réel, ou d'une conception du réel ?
+* Quelle capacité d'influence ? [dimension performative]
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/proj.jpeg"  -->
+<!-- .slide: class="hover"-->
+
+
+### Médium
+
+>Désigne le support technique de la médiation, dans sa dimension la plus matérielle, physique. Selon le TLFI : "Ce qui sert de support et de véhicule à un élément de connaissance&nbsp;; ce qui sert d'intermédiaire, ce qui produit une médiation entre émetteur et récepteur"
+
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+===
+
+Jusque dans les années 90, les films étaient tournés et projetés grâce au support physique qu'est la pellicule.
+
+Le numérique s'impose au tournant du XXIe, grâce à la baisse du coût des matériels de projection, à des aides du CNC et de sociétés.
+
+Le nombre de films tournés en numérique a aussi grandement augmenté jusqu’à concerner la majorité des productions aujourd’hui.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/difference-pellicule-et-numerique.png"  -->
+<!-- .slide: class="hover"-->
+
+
+### Medium et représentation
+* Une dimension technique / support (métonymie trompeuse du media ?) [le cinéma n'est pas seulement une série de photogrammes qui se succèdent sur une pellicule... c'est un espace, un activité sociale, une industrie, un art...]
+* L'histoire des "progrès" techniques : entre tentation téléologique et mythe de la fin
+* Une transformation du medium (mutation technologique) entraîne-t-elle la disparition du media ?
+
+===
+
+Le changement de medium au cinéma affecte-t-il la nature du cinéma lui-même ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/difference-pellicule-et-numerique.png"  -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/corinnevionnet_photoopportunities_800px_120-8405f.jpg"  -->
+<!-- .slide: class="hover"-->
+
+
+### Media
+
+>Le media (sans accent) est utilisé pour désigner un moyen de communication (le cinéma, la télévision, le livre, le journal, la radio, la photographie...) lui-même conçu comme une construction plurielle : à la fois technique, discursive, pratiques (définie par des usages), sociologique, politique, esthétique, institutionnelle... Il s'agit d'une définition non essentialiste, qui vient figurer un processus, une construction permanente, plutôt qu'un objet/support immuable.
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/corinnevionnet_photoopportunities_800px_120-8405f.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Media et représentation / représentation des media
+* Des usages médiatiques - usages sociaux, institutionnels, etc.
+* Un imaginaire des media (constitué de discours industriels, commerciaux, sociaux, institutionnels, littéraires)
+* Comment nos représentations [notre imaginaire] des media influencent-elles la valeur mimétique et l'exigence mimétique attribuée au media ?
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/cbvinci-a-cc3a8ne-1498.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Les media et la structuration du réel
+* Évolution du concept de réalisme en fonction de l'évolution des media
+* Éducation de nos sens en fonction de notre culture technique et mediatique
+
+===
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/cbvinci-a-cc3a8ne-1498.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### L'exemple de la perspective
+* Erwin Panofsky : *La perspective comme forme symbolique* : l'invention d'un nouveau regard
+* L’invention de la perspective à la Renaissance procède d’une rationalisation du regard qui, faisant complètement abstraction des conditions réelles de l’expérience perceptive, remplace l’espace psychophysiologique de la perception en un espace mathématique, régulé par les règles de la géométrie. Le regard est alors construit comme un « œil » unique et immobile – à vrai dire, une certaine conception idéalisée des facultés perceptives de l’œil.
+
+===
+
+Parvenue à faire
+oublier qu’elle n’est qu’un instrument mimétique conven-
+tionnel supplémentaire (qui plus est, davantage régulateur
+que les précédents), la perspective linéaire deviendra même
+un critère d’objectivation du monde, parvenant à convaincre
+le spectateur qu’il existe des images plus belles, plus justes,
+mais aussi plus naturelles que d’autres. Non seulement cette
+perspective fait abstraction de la complexité de la réalité
+perceptive, mais, en la rationalisant, elle vient du même
+coup imposer au spectateur un point de vue. Le regard est
+alors construit comme un « œil » unique et immobile – à
+vrai dire, une certaine conception idéalisée des facultés
+perceptives de l’œil.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/800px-Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/plato.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Les media et la construction des sens
+* La culture technique des médias joue sur nos sens et influence notre compréhension du monde
+* Le réalisme est le fruit d'une modélisation du réel, notamment effectuée par notre culture médiatique
+
+===
+
+Dans notre culture, tendance à une opposition entre le régime représentatif de l'art – défendant le principe de vraisemblance, de mimésis
+(sans toujours reconnaître que ces principes sont fondés sur une modélisation préalable du réel) – et le régime esthétique de l’art (Rancière, 2003) qui privilégie au contraire l’expérience sensible (la réalité, c’est d’abord ce que l’on perçoit). Avec ces manipulations de l’image, Fontcuberta prend évidemment parti pour cette seconde conception. Mais il n’adhère pas complètement non plus à l’approche phénoménologique, car il montre que notre perception ne saurait être complètement « naturelle » : nos sens sont eux aussi le produit d’une modélisation, à laquelle les médias ont largement pris part.
+
+parler d'archéologie des media et de Kittler ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/02-verne.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Le regard photographique : que signifie voir ?
+* Fantasme mimétique et référentiel (scientisme)
+* Voir "au-delà" des capacités de l'oeil (Photographie spirite)
+* L'oeil comme objectif (imaginaire technique)
+* Le nouveaux paradigme du détail (temps capté, "saisi")
+* Un panoptisme (tout voir)
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/00-024725PhotographieSpiriteAnonyme1910RMN4.jpg" data-background-size="contain" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/memento.jpeg" data-background-size="contain" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/02-verne.png" data-background-size="contain" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/Great_Globe.png" data-background-size="contain" -->
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/typingsmall.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+
+## La remédiation et les paradoxes du réalisme
+* Un ouvrage de référence : *Remediation: Understanding New Media*, MIT press, 1998
+* Une relation intermédiale dans la logique évolutive des medias
+* Effet de mimétisme, de "vampirisation", d'emprunt voire de plagiat
+* Un media "familier" a plus de chance d'être adopté
+
+===
+Ouvrage de référence : Jay David Bolter, Richard Grusin,*Remediation : Understanding New Media*. Bolter et Grusin ont vu dans la relation intermédiale une logique évolutive des médias. C’est-à-dire que c’est dans la nature de tout nouveau média que de plagier son aîné.
+
+Le concept de remédiation souligne d’abord une répétition, la trace d’un ancien médium dans un nouveau = il s’agit de vampiriser les formes connues, familières, quotidiennes, pour mieux s’intégrer auprès du public contemporain.
+
+Besson : "L’émergence d’un nouveau média conduit également à une transformation de la forme prise par les médias existants. Pour comprendre cela, il est important de ne pas adopter une définition essentialiste de ce que sont les médias. Au contraire, il s’agit de les considérer comme des formes modulable sans cesse en cours de (re)configuration."
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/typingsmall.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+## La *mimesis* médiatique : comment mieux "médier" le réel
+* L'utopie de l'effacement du médium
+* Un effacement qui procède aussi d'une sécularisation des media
+
+===
+
+L'origine de la remédiation est en fait la problématique première de la médiation : comment médier le monde ?
+Comment donner accès au réel ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/typingsmall.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+## La remédiation : deux stratégies possibles
+* Immédiateté (*immediacy*)
+* Hypermédiateté (*hypermediacy*)
+
+===
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/typingsmall.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+
+### 1. Immediacy : la logique de la "transparence"
+
+>What designers often say they want is an “interfaceless” interface, in which there will be no recognizable electronic tools—no buttons, windows, scroll bars, or even icons as such. Instead the user will move through the space interacting with the objects “naturally,” as she does in the physical world. Virtual reality, threedimensional graphics, and graphical interface design are all seeking to make digital technology “transparent.” In this sense, a transparent interface would be one that erases itself, so that the user is no longer aware of confronting a medium, but instead stands in an immediate relationship to the contents of that medium.
+
+<!-- .element: style="font-size:1.6rem; text-align:justify" -->
+
+===
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/typingsmall.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### 2. Hypermediacy : la logique de l'emprunte médiatique (car "Le médium, c'est le message")
+
+>If the paintbox software is ‘intuitive,’ it is only intuitive because the paintbox is a culturally
+familiar object. In fact, the graphical interface referred not only to culturally familiar objects, but specifically to prior media, such as painting, typewriting, and handwriting. In making such references,
+computer designers were in fact creating a more complex system in which iconic and arbitrary forms of representation interact.
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+===
+
+Il s'agit cette fois de surjouer la présence du media, généralement d'un ancien media, dont on reprend des codes graphiques, sonores, kinésiques...
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/proj.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### La remédiation au cinéma : une double naissance du media
+* Le "cas" de la double invention du cinéma
+* Les frères Lumière - un courrant "documentaire"
+* Georges Meliès - un courant fictionnel
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-video="img/Ciotat.mp4" data-background-size="contain" -->
+
+
+===
+
+Lumière
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-video="img/Melies.mp4" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+
+===
+
+Melies
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/virtuel.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Que signifie voir à l'époque numérique ?
+* L'héritage du fantasme mimétique : injonction "haute résolution" et "HD"
+* Les paradoxes d'un nouveau flou (LO-FI, etc.)
+* Un nouveau paradigme du détail : l'échelle du pixel
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/hd.jpeg" data-background-size="contain" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/lunettes-ordi.jpg" data-background-size="contain" -->
+
+
+===
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/gearthWeb.png" data-background-size="contain" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/gearthWeb.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+>Une obsession panoptique et démocratique de transparence, d’étalage, d’ouverture, de mise en lumière
+et en circulation (tout le monde peut voir tout le monde), s’instaure. (Hamon, 1989, p. 72)
+===
+
+À compter du xviii e siècle, des dispositifs de vision de plus
+en plus spectaculaires voient le jour, en même temps
+qu’émerge un nouveau paradigme du regard : les panoramas
+(Daguerre lui-même fut décorateur avant de se lancer dans
+une carrière de photographe), les dioramas ou les géoramas
+investissent l’utopie moderne du tout voir, dont la photogra-
+phie va profiter dès sa naissance (voir chapitre 1). Ces dispositifs ont la particularité de susciter un effet de réel sans précédent, en faisant vivre à leur spectateur une expérience de l’ordre de la simulation et de l’immersion : l’illusion ne touche plus seulement l’œil, elle engage le corps. Mais le divertissement n’est pas leur seule fonction : comme le note Philippe Hamon, ces machines traduisent une « obsession panoptique et démocratique de transparence, d’étalage, d’ouverture, de mise en lumière et en circulation (tout le monde peut voir tout le monde) » (Hamon, 1989, p. 72).
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/Googlegrammes.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Réinventer le flou
+* Valeur heuristique du flou
+* Phénoménologie plutôt que réalisme mimétique
+* Hommage à l'imaginaire et à l'esthétique du media (et des vieux mediums)
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/Googlegrammes.png" data-background-size="contain" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/6_definition05.jpg" data-background-size="contain" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/corinnevionnet_photoopportunities_800px_120-8405f.jpg" data-background-size="contain" -->
+
+
+===
+
+redéfinition du flou
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/corinnevionnet_photoopportunities_800px_120-8405f.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Conclusion
+La notion de "réalisme" est chargée médiatiquement : chaque media impose ses propres critères formels mais aussi théoriques de réalisme. Aussi, le réalisme voit bouger ses frontières en même temps que les progrès techniques font évoluer les media. Davantage, les media ont de fait un effet structurant sur notre perception du réel, sur notre manière d'exercer nos sens, de percevoir le réel : de faire l'expérience de la réalité. Les notions de "flou", de "détail", de "vitesse" sont par exemple forts relatives. Cela étant, l'authenticité accordée au media (via un imaginaire qui dépasse la seule réalité technique), a tendance à créer des paradoxes.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+
+===
+Nuage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
