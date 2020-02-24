@@ -1055,6 +1055,9 @@ Le changement de medium au cinéma affecte-t-il la nature du cinéma lui-même ?
 
 >L’invention de la perspective à la Renaissance procède d’une rationalisation du regard qui, faisant complètement abstraction des conditions réelles de l’expérience perceptive, remplace l’espace psychophysiologique de la perception en un espace mathématique, régulé par les règles de la géométrie. Le regard est alors construit comme un « œil » unique et immobile – à vrai dire, une certaine conception idéalisée des facultés perceptives de l’œil.
 
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
 ===
 
 Parvenue à faire
