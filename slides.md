@@ -912,7 +912,7 @@ Toute mimésis, toute mise en récit, n’est pas un simple redoublement du rée
 <!-- .slide: data-background-image="img/corinnevionnet_photoopportunities_800px_120-8405f.jpg" data-background-size="contain" -->
 
 
-## Medier. Existe-t-il des formes médiatiques plus “réalistes” que d’autres ?
+## Médier. Existe-t-il des formes médiatiques plus “réalistes” que d’autres ?
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -969,6 +969,7 @@ Du latin "media" = *Ce qui est entre*
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/journaux.jpeg"  -->
+<!-- .slide: class="hover"-->
 
 ### Médias et représentation
 * L'information n'est pas un élément neutre : il s'agit d'une construction [du réel]
@@ -1051,7 +1052,8 @@ Le changement de medium au cinéma affecte-t-il la nature du cinéma lui-même ?
 
 ### L'exemple de la perspective
 * Erwin Panofsky : *La perspective comme forme symbolique* : l'invention d'un nouveau regard
-* L’invention de la perspective à la Renaissance procède d’une rationalisation du regard qui, faisant complètement abstraction des conditions réelles de l’expérience perceptive, remplace l’espace psychophysiologique de la perception en un espace mathématique, régulé par les règles de la géométrie. Le regard est alors construit comme un « œil » unique et immobile – à vrai dire, une certaine conception idéalisée des facultés perceptives de l’œil.
+
+>L’invention de la perspective à la Renaissance procède d’une rationalisation du regard qui, faisant complètement abstraction des conditions réelles de l’expérience perceptive, remplace l’espace psychophysiologique de la perception en un espace mathématique, régulé par les règles de la géométrie. Le regard est alors construit comme un « œil » unique et immobile – à vrai dire, une certaine conception idéalisée des facultés perceptives de l’œil.
 
 ===
 
@@ -1071,8 +1073,10 @@ perceptives de l’œil.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/800px-Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg" data-background-size="contain"-->
-<!-- .slide: class="hover"-->
 
+source image: _Les ambassadeurs_ Holbein
+
+<!-- .element: class="source" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/plato.jpeg" data-background-size="contain" -->
@@ -1104,17 +1108,30 @@ parler d'archéologie des media et de Kittler ?
 <!-- .slide: data-background-image="img/00-024725PhotographieSpiriteAnonyme1910RMN4.jpg" data-background-size="contain" -->
 
 
+source image: Photographie spirite (Anonyme, 1910)
+
+<!-- .element: class="source" -->
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/memento.jpeg" data-background-size="contain" -->
 
+source image: Memento mori, anonyme
+
+<!-- .element: class="source" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/02-verne.png" data-background-size="contain" -->
 
+source image: Georges Roux, illustration du roman _Les Frères Kip_ de Jules Verne
+
+<!-- .element: class="source" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/Great_Globe.png" data-background-size="contain" -->
 
+source image: Géorama. « The Giant Globe, unknown. Interior of Wyld’s Great Globe, _The Illustrated London News_, 1851
+
+<!-- .element: class="source" -->
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
