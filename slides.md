@@ -1212,11 +1212,15 @@ Il s'agit cette fois de surjouer la présence du media, généralement d'un anci
 
 ### La remédiation au cinéma : une double naissance du media
 * Le "cas" de la double invention du cinéma
-* Les frères Lumière - un courrant "documentaire"
-* Georges Meliès - un courant fictionnel
+* Les frères Lumière - un courant "documentaire" (1895)
+* Georges Meliès - un courant fictionnel (1902)
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-video="img/Ciotat.mp4" data-background-size="contain" -->
+
+Source: Lumière, _Entrée d'un train en gare de La Ciotat_ (1895)
+
+<!-- .element: class="source" -->
 
 
 ===
@@ -1226,7 +1230,10 @@ Lumière
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-video="img/Melies.mp4" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
+
+Source: Mélies, _Le voyage vers la Lune_, 1902
+
+<!-- .element: class="source" -->
 
 
 ===
@@ -1287,14 +1294,23 @@ phie va profiter dès sa naissance (voir chapitre 1). Ces dispositifs ont la par
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/Googlegrammes.png" data-background-size="contain" -->
 
+Source: Joan Fontcuberta, _Googlegrammes_, 2005
 
+<!-- .element: class="source" -->
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/6_definition05.jpg" data-background-size="contain" -->
+
+Source: Virginie Otth, _Petites définitions_, 2009
+
+<!-- .element: class="source" -->
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/corinnevionnet_photoopportunities_800px_120-8405f.jpg" data-background-size="contain" -->
 
+source image: _Photo Opportunities_ Corine Vionnet
+
+<!-- .element: class="source" -->
 
 ===
 
@@ -1307,10 +1323,10 @@ redéfinition du flou
 ### Conclusion
 La notion de "réalisme" est chargée médiatiquement : chaque media impose ses propres critères formels mais aussi théoriques de réalisme. Aussi, le réalisme voit bouger ses frontières en même temps que les progrès techniques font évoluer les media. Davantage, les media ont de fait un effet structurant sur notre perception du réel, sur notre manière d'exercer nos sens, de percevoir le réel : de faire l'expérience de la réalité. Les notions de "flou", de "détail", de "vitesse" sont par exemple forts relatives. Cela étant, l'authenticité accordée au media (via un imaginaire qui dépasse la seule réalité technique), a tendance à créer des paradoxes.
 
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
+<!-- .slide: data-background-image="img/Mediernuage-de-mots.png" data-background-size="contain" -->
 
 
 ===
