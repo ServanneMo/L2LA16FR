@@ -6,7 +6,6 @@ La construction médiatique du réel à l'époque numérique
 
 <br/>Servanne Monjour (servanne.monjour@paris-sorbonne.fr)
 
-
 ![WTFPL](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/WTFPL_logo.svg/280px-WTFPL_logo.svg.png) <!-- .element: class="logo" -->
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -16,14 +15,12 @@ La construction médiatique du réel à l'époque numérique
 <!-- .slide: data-background-image="img/images.jpeg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
-
 ## La vérité est-elle en crise ?
 * Une nouvelle ère du soupçon
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/trump.jpeg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
-
 
 ## La menace des *fakenews*
 * Infos, fausses nouvelles
@@ -78,8 +75,6 @@ La construction médiatique du réel à l'époque numérique
 source image: Libération, "Aylan, 4 ans, enfant de Kobané", 3 septembre 2015
 
 <!-- .element: class="source" -->
-
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/aylan2.jpeg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
@@ -138,8 +133,6 @@ le second terme clé de ma question serait donc le terme « vous » : qu’es
 source image: Les Unes consacrée à Aylan et à l'immigration syrienne en 2015
 
 <!-- .element: class="source" -->
-
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/aylanCarte.jpeg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
@@ -157,7 +150,6 @@ le dernier mot clé porte alors sur la nature de la représentation. Qu’est-ce
 source image:  "The new world map" © Azzam Daaboul
 
 <!-- .element: class="source" -->
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/aylan3.jpeg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
@@ -184,14 +176,12 @@ source image: Murale Aylan
 ===
 2) Ce qui nous amène tout naturellement au second problème majeur, le problème éthique. Qui est ici le vautour ? Le journal devait-il publier cette image ? Le public occidental n’est-il pas condescendant ? Toute représentation est-elle justifiée. Existe-t-il des choses, des faits, des événement que l’on ne peut / ne doit pas dire ou montrer ? Doit-on établir des frontières ?
 
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/aylan.jpeg" data-background-size="contain" -->
 
 source image: Kichka
 
 <!-- .element: class="source" -->
-
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/AYlanCollectif.jpeg" data-background-size="contain" -->
@@ -200,10 +190,7 @@ source image: Kichka
 ## Le problème épistémologique de la représentation
 
 ===
-3) Enfin, troisième problème, d’ordre épistémologique. Qu’est-ce qu’une telle image nous enseigne ? À l’inverse, à partir de quel enseignement peut-on lire cette image ? À partir de son récit génétique, comme je viens de le faire ? oui mais déjà, là, on touchait à la mythologie de l’image, indissociable de ce pathos, cet affect, cette tragédie à laquelle elle est liée. En fin de compte, une telle image ne nous apprendrait-elle pas plus sur nous-mêmes, sur notre rapport au monde, que sur le monde lui-même ?
-
-
-Ces trois ordres de réflexion, ontologiques, éthiques et épistémologiques, s’entremêlent étroitement, pourtant nous tenterons de bien les identifier à chaque étape de ce cours. Les critiques émises à l’égard de la représentation, au nom de ces trois principes, sont souvent bien loin d’être justifiées. C’est pourquoi il est important de bien identifier les questions en jeu ici, qui débordent parfois sur des jugements et des condamnations sévères à l’égard des artistes, de la production artistiques, de la diffusion des informations. Comprendre les problèmes ontologiques, éthiques et épistémologiques de la représentation doit nous permettre de mieux réfléchir à la censure.
+3) Enfin, troisième problème, d’ordre épistémologique. Qu’est-ce qu’une telle image nous enseigne ? À l’inverse, à partir de quel enseignement peut-on lire cette image ? À partir de son récit génétique, comme je viens de le faire ? oui mais déjà, là, on touchait à la mythologie de l’image, indissociable de ce pathos, cet affect, cette tragédie à laquelle elle est liée. En fin de compte, une telle image ne nous apprendrait-elle pas plus sur nous-mêmes, sur notre rapport au monde, que sur le monde lui-même ? Ces trois ordres de réflexion, ontologiques, éthiques et épistémologiques, s’entremêlent étroitement, pourtant nous tenterons de bien les identifier à chaque étape de ce cours. Les critiques émises à l’égard de la représentation, au nom de ces trois principes, sont souvent bien loin d’être justifiées. C’est pourquoi il est important de bien identifier les questions en jeu ici, qui débordent parfois sur des jugements et des condamnations sévères à l’égard des artistes, de la production artistiques, de la diffusion des informations. Comprendre les problèmes ontologiques, éthiques et épistémologiques de la représentation doit nous permettre de mieux réfléchir à la censure.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/AYlanCollectif.jpeg" data-background-size="contain" -->
@@ -211,7 +198,6 @@ Ces trois ordres de réflexion, ontologiques, éthiques et épistémologiques, s
 source image: À Rabat, une manifestation pour dénoncer le sort des migrants en Méditerranée
 
 <!-- .element: class="source" -->
-
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/plato.jpeg" data-background-size="contain" -->
@@ -225,14 +211,12 @@ source image: À Rabat, une manifestation pour dénoncer le sort des migrants en
 <!-- .slide: data-background-image="img/influenceur.jpeg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
-
 ## Axe 2 : Crise de la vérité ou crise de l'autorité ?
 * Valeur(s) de la représentation et légitimité des media
 * Transformation de l'autorité à l'époque numérique
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/influenceur.jpeg" data-background-size="contain" -->
-
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/6a00d8341c622e53ef0240a4adcceb200d-500wi.jpg" data-background-size="contain" -->
@@ -244,8 +228,6 @@ source image: À Rabat, une manifestation pour dénoncer le sort des migrants en
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/6a00d8341c622e53ef0240a4adcceb200d-500wi.jpg" data-background-size="contain" -->
-
-
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
@@ -288,20 +270,16 @@ Toute médiation, parce qu’elle facilite la transmission (dans l’espace et d
 
 <!-- .element: style="font-size:1.8rem" -->
 
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/arton1406.jpg" data-background-size="contain" -->
-
 
 ===
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/5029169425_2fe6f607c1_b.jpg" data-background-size="contain" -->
 
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/livre.jpeg" data-background-size="contain" -->
-
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/livre.jpeg" data-background-size="contain" -->
@@ -311,20 +289,16 @@ En tant qu’authentiques artifices, les medias ont en effet toujours détermin�
 
 <!-- .element: style="font-size:1.8rem" -->
 
-
 ===
 
 En tant qu’authentiques artifices, les medias ont en effet toujours déterminé le réel ainsi que notre conception de la vérité. Or dans notre contexte contemporain de remédiation numérique, les frontières entre le réel et l’imaginaire sont plus poreuses que jamais, tout comme les codes que nous avions jusque là construits pour les distinguer l’un de l’autre.
 
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-video="img/Qu_est-ce_que_l_hologramme_de_Melenchon.mp4" data-background-size="contain" -->
-
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
-
 
 ### Problématique : le statut ontologique de la représentation
 * Qu'est-ce que l'*être* (et le non-être) ? Des formes d'*être* ont-elles plus de valeur que d'autres ?
@@ -337,11 +311,9 @@ En tant qu’authentiques artifices, les medias ont en effet toujours détermin�
 
 Toute mediation, parce qu’elle facilite la transmission (dans l’espace et dans le temps) de ce qui n’est pas accessible immédiatement - tout en reconditionnant nécessairement le réel (aucun acte de communication, de médiation, n’est en effet neutre) - est habitée par les paradoxes de la représentation. En tant qu’authentiques artifices, les medias ont en effet toujours déterminé le réel ainsi que notre conception de la vérité. Or dans notre contexte contemporain de remédiation numérique, les frontières entre le réel et l’imaginaire sont plus poreuses que jamais, tout comme les codes que nous avions jusque là construits pour les distinguer l’un de l’autre.
 
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/arton1406.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
-
 
 ## Au origines du problème : la mimesis
 * μίμησις (mímêsis), du verbe μιμεῖσθαι (mīmeisthai, « imiter ») et de μῖμος (mimos, « imitateur, acteur »)
@@ -377,17 +349,13 @@ Mais ce qui est intéressant ici, c’est le principe du tableau-mot : on trava
 * Mimesis comme imitation
 * *La République*, livre X
 
-
 ===
 
-Chez Platon, mimesis sera traduit par « imitation », dans le cadre d’une conception négative, condamnation de la mimesis.
-
-La mimesis est l’une des premières inventions de la théorie de l’art, d’autant plus drôle que le concept a servi la condamnation de l’art.
+Chez Platon, mimesis sera traduit par « imitation », dans le cadre d’une conception négative, condamnation de la mimesis. La mimesis est l’une des premières inventions de la théorie de l’art, d’autant plus drôle que le concept a servi la condamnation de l’art.
 
 Du terme au concept : mimêsis [μίμηὓιὖ] se rattache au substantif mimos [μιμοὖ]. Au départ, ce terme ne se référait qu'au mime, à la danse, à la musique, en d'autres termes à des activités visant à exprimer la réalité intérieure et non à reproduire une réalité extérieure. Son application aux arts visuels est corollaire du changement sémantique qui s'opère à partir du cinquième siècle où il commence à désigner la reproduction du monde extérieur. Ce nouvel usage va jouer un rôle déterminant dans l'orientation donnée par Platon à la problématique de la mimêsis.
 
-Platon va donc proposer une définition très pragmatique du concept, en prenant exemple sur les formes artistiques déjà existantes.
-Premier problème, il va d’abord parler de la peinture, puis du théâtre.
+Platon va donc proposer une définition très pragmatique du concept, en prenant exemple sur les formes artistiques déjà existantes. Premier problème, il va d’abord parler de la peinture, puis du théâtre.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/Magritte-La-trahison-de-image-1024x707.jpg" data-background-size="contain" -->
@@ -409,10 +377,8 @@ Propos général : imitation = production éloignée de la nature de trois degr�
 Modèle secondaire, représentation de représentation. Modèle n’est plus la Forme, l’idée (la chose elle-même, ontologiquement pure), mais l’objet tiré de cette idée. La peinture est donc un fragment d’un fragment.
 Nous sommes alors dans le monde des apparences, où se perd l’essence de la chose.
 
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/platon.png" data-background-size="contain" -->
-
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/Magritte-La-trahison-de-image-1024x707.jpg" data-background-size="contain" -->
@@ -430,13 +396,10 @@ L’Eidos n’en reste pas moins problématique : Contrairement au réalisme d
 
 Problème ici ontologique : le réel est-il seulement accessible, qu’est-ce qui définit le réel ?
 = Pour Platon, la pipe que je vais fumer n’est pas la véritable pipe, l’idée de la chose. C’est déjà une imitation.
-
 Au-delà des apparences sensibles se trouvent la réalité et la vérité. C’est pourquoi aussi l’idéalisme de Platon est qualifié de «réalisme», puisque ce qui est véritablement réel ce sont les Idées.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/Platonschema.jpg" data-background-size="contain" -->
-
-
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/tram.png" data-background-size="contain" -->
@@ -450,15 +413,11 @@ Au-delà des apparences sensibles se trouvent la réalité et la vérité. C’e
 
 <!-- .element: style="font-size:1.8rem" -->
 
-
 ===
 
 Le philosophe plaide contre l’écrit en faveur de l’oral. La parole vive – ou vivante – peut seule, selon lui, servir la pensée.
 
-
 >Le constat s’impose : l’arrivée d’un nouveau média représente toujours un défi, non seulement pour ceux qu’il vient concurrencer, mais également pour l’ordre que ces médias finissent par imposer, dans l’information, dans le divertissement, dans les savoirs et les conditions de leur divulgation. La reprise des mêmes arguments qui plaidaient, jadis, en faveur de l’oral contre l’écrit désigne, avant toute autre chose, l’irrésistible orgueil des hommes. Ils préfèrent dénigrer les médias plutôt que d’avouer à quel point ces derniers leur sont utiles, pour juger ou pour rêver, pour apprendre ou pour créer quelque chose.
-
-
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/tram.png" data-background-size="contain" -->
@@ -472,14 +431,11 @@ Le philosophe plaide contre l’écrit en faveur de l’oral. La parole vive –
 
 <!-- .element: style="font-size:1.8rem" -->
 
-
 ===
-
 De l’écriture, Platon fait dire à Socrate, dans le Phèdre, qu’elle est un pharmakon : à la fois une drogue, dangereuse, aux effets imprévisibles, et un remède, capable par conséquent de pallier les insuffisances ou les défaillances de la pensée.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/tram.png" data-background-size="contain" -->
-
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/Civic-Tech-2-696x453.jpg" data-background-size="contain" -->
@@ -491,17 +447,14 @@ De l’écriture, Platon fait dire à Socrate, dans le Phèdre, qu’elle est un
 
 <!-- .element: style="font-size:1.8rem" -->
 
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/Civic-Tech-2-696x453.jpg" data-background-size="contain" -->
-
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/casque.jpeg" data-background-size="contain" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/cretinDigital.jpeg" data-background-size="contain" -->
-
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/cable.jpeg" data-background-size="contain" -->
@@ -530,7 +483,6 @@ Technique informatique simulant la présence physique d'un utilisateur dans un e
 
 <!-- .element: style="font-size:1.8rem" -->
 
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-video="img/biblioLaNuit.mp4" data-background-size="contain" -->
 
@@ -545,10 +497,8 @@ Technique permettant de superposer à notre réalité physique immédiate des é
 
 <!-- .element: style="font-size:1.8rem" -->
 
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/pokemon.jpeg" data-background-size="contain" -->
-
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
@@ -571,7 +521,6 @@ Grâce aux progrès de l’intelligence artificielle des programmes sont aujourd
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/Deepfake_example.gif" data-background-size="contain" -->
 
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
@@ -581,21 +530,17 @@ Tout au long de leur histoire, les media ont toujours dû négocier leur légiti
 
 <!-- .element: style="font-size:1.8rem" -->
 
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/nuageImiter.png" data-background-size="contain" -->
-
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/5666755.jpg" data-background-size="contain" -->
 
 ## Présentifier. La valeur heuristique de la représentation
 
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/5666755.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
-
 
 ## Introduction : entre le "vrai" et le "faux", le large spectre des régimes de vérité
 Entre les catégories du "vrai" et du "faux", s'étend un large spectre de notions reliées à la représentation, dont la valeur ontologique, éthique ou même heuristique est généralement discutable : copie, illusion, tromperie, fiction, vraisemblable, reproduction, imaginaire, réel... Avec parfois des surprises de taille : plus une représentation s'éloigne de l'objet représenté (en termes référentiels et médiatiques, notamment), plus elle s'avère efficace. Exemple avec un documentaire hors-norme : _Valse avec Bachir_ d'Ari Folman.
@@ -603,19 +548,16 @@ Entre les catégories du "vrai" et du "faux", s'étend un large spectre de notio
 <!-- .element: style="font-size:1.8rem" -->
 
 ===
-
 "De la vérité à l’erreur, à l’imagination ou à l’imaginaire, de l’authenticité à l’imitation, du réel à l’illusion ou à l’utopie, de l’original à la copie, du vrai au faux, au faux-semblant, au fictionnel, au vraisemblable, au mensonger, se déploie un large éventail de mots, de discours, de pratiques qui occupent les vastes territoires situés « entre le vrai et le faux ». On les appellera des programmes ou régimes de vérité, en écho aux analyses de Michel Foucault, implicites ou explicites, que seule une analyse historique peut rendre manifestes dans leurs fondements, leurs fonctionnements et leurs variations au sein de contextes précis." Bonnet
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-video="img/Valse_Avec_Bachir_2008.mp4" data-background-size="contain" -->
-
 
 source image: _Valse avec Bachir_, film documentaire d'animation d'Ari Folman, 2008
 
 <!-- .element: class="source" -->
 
 ===
-
 film d’animation documentaire par l’israélien Ari Folman. Fin : confrontation images d’animation et images d’archives télévisuelles. Dans le roman graphique Valse avec Bachir, ce sont les photographies de Robin Moyer qui ont été choisies pour jouer ce rôle d’archive dans la séquence finale.
 Au début du film, Ari Folman (version animée) rencontre son vieil ami Boaz, qui lui raconte un cauchemar récurrent (les chiens qu’il a tué pendant la guerre / invasion du sud du Liban par les israéliens, opération « Paix en Galilée »). Ari réalise qu’il a complètement enfoui cette partie de sa vie ans sa mémoire. Il commence un travail mémoriel, pour tenter de se souvenir de ce qu’il fait. Seul souvenir, qui va venir structurer le film : il est en train de se baigner dans la baie de Beyrouth, et voit le ville la nuit sous la lumière des fusées éclairantes. Il sort de l’eau, s’engage dans les rues de la ville. Plusieurs fois la séquence revient, avec des ajouts. On va plus loin dans le souvenir. Femmes viennent vers lui. Finalement, Ari découvre qu’il s’agit des souvenirs du massacre des camps de Sabra et Chatila, deux camps de réfugiés palestiniens que les chrétiens libanais sont allés massacrés en 1982, couverts par l’armée israélienne, qui a même éclairé les camps…
 Fin du film : encore cette séquence qui se répète, puis la résurgence du souvenir (reconnaissance de sa présence, d’une forme de culpabilité), et passage aux images d’archives.
@@ -624,7 +566,6 @@ Changement des modes de représentation : besoin de passer par l’image animé
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/bachir.jpeg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
-
 
 ### Représenter : la valeur heuristique de la *RE*-présentation
 
@@ -663,11 +604,9 @@ Folman : fiasco du réel, qui achoppe et qui échappe à notre mémoire.
 
 <!-- .element: style="font-size:1.8rem" -->
 
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/plato.jpeg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
-
 
 ## De Platon à Aristote : deux conception de la _mimesis_
 
@@ -675,10 +614,7 @@ Pour Platon, de même que l’artiste est un imitateur, l’art ne peut être qu
 
 <!-- .element: style="font-size:1.8rem" -->
 
-
 ===
-
-
 Pour Platon, de même que l’artiste est un imitateur, l’art ne peut être qu’imitation. C’est le sens de sa mimésis. Platon considérait l'activité artistique comme imitation des choses ou plutôt de leur apparence – les choses elles-mêmes n'offrant qu'un reflet dégradé de l'Idée, l'œuvre d'art serait une imitation au second degré, « imitation d'imitation ». Au livre X de La République, il justifie sa condamnation des poètes au motif que « l'art d'imiter est bien éloigné du vrai ».
 
 Mais pour Aristote, la mimesis n’est pas dévalorisée comme pour Platon, elle n’est pas vue comme un éloignement de l’être. Le terme de « représentation » convient mieux que celui « d’imitation » car Aristote traite de la tragédie, il ne considère pas le rapport au modèle mais plutôt les techniques de représentation à l’œuvre dans la tragédie
@@ -693,16 +629,13 @@ Tandis que chez Platon l’accent était mis sur le défaut d’être du représ
 
 <!-- .element: style="font-size:1.8rem" -->
 
-
 ===
 
 Le film de Folman montre bien formellement ce cheminement épistémologique de la représentation vers le représenté, à travers le changement médiatique. Il montre le potentiel de médiation propre à la représentation.
 
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/5666755.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
-
 
 ### La _Poétique_ d'Aristote (_Περὶ ποιητικῆς_) :
 * Un ouvrage incomplet : une introduction générale + une étude de la tragédie (cf. Platon) + une étude de l’épopée.
@@ -725,7 +658,6 @@ Aristote établit d’abord un système de genres, basés sur des considération
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/5666755.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
-
 
 ### L'artiste, la _technè_
 * Technè = connaissance et l’application réfléchie de règles déterminées.
@@ -777,7 +709,6 @@ Or, si l’on en croit Aristote, le muthos doit prévaloir sur tout autre chose,
 
 <!-- .element: style="font-size:1.8rem" -->
 
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/5666755.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
@@ -805,7 +736,6 @@ Et comme pour faire un pied de nez à Platon, ce pont établit entre l’acquisi
 
 <!-- .element: style="font-size:1.8rem" -->
 
-
 ===
 
 Catharsis : Débarrasser le spectateur de ses troubles personnels par l’identification au personnage qui opère une sorte de transfert et de purgation. Influence du théâtre grec comme acte rituel, social, politique et civique (avant même de penser à la psychanalyse).
@@ -829,7 +759,6 @@ Mais, en raison notamment de cette double tutelle muthos / peinture (où prédom
 
 Et à la Renaissance, nous allons voir l’émergence d’une véritable théorie de l'imitation, où l'idée d'art s’intrique étroitement à celle de règle, de canons de beauté.
 
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/5666755.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
@@ -840,24 +769,20 @@ La catharsis est l’expression de la puissance de médiation de la mimesis : u
 <!-- .slide: data-background-image="img/5666755.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
-
 ### De la catharsis à la performativité
 >[D'après la théorie d'Austin, en parlant d'une catégorie de verbes] Les verbes performatifs seraient ceux qui non seulement décrivent l'action de celui qui les utilise, mais aussi, et en même temps, qui impliqueraient cette action elle-même. Ainsi, les formules « Je te conseille de... », « Je jure que... », « Je t'ordonne de... », réaliseraient l'action qu'elles expriment au moment même de l'énonciation (Greimas-Courtés1979). CNRTL
 
 <!-- .element: style="font-size:1.8rem" -->
 
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/5666755.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
-
 
 La représentation est performative, elle conditionne le réel avant même de s’en faire le reflet. Dès lors que l’on
 reconnaît cette performativité de l’image, la révélation se conçoit comme une production, une transformation de la
 réalité qu’elle était censée représenter jusqu’à présent.
 
 <!-- .element: style="font-size:1.8rem" -->
-
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/5666755.jpg" data-background-size="contain" -->
@@ -869,7 +794,6 @@ réalité qu’elle était censée représenter jusqu’à présent.
 Si la mimesis, par sa dimension cathartique, renvoie à cette capacité performative d'action sur le réel, alors la fiction, et plus généralement l'art, ont aussi cette capacité à transformer le réel. Le schéma platonicien est quasiment inversé.
 
 <!-- .element: style="font-size:1.8rem" -->
-
 
 ===
 Au XXe siècle, tendance à réinterpréter la mimésis aristotélicienne, en faisant abstraction de son caractère prescriptif qui avait prévalu à la Renaissance, à l’Âge classique, par exemple.
@@ -885,14 +809,12 @@ C’est pour cela que toute mimésis est une fiction.
 
 De fait, la rupture ontologique, le défaut d’être retenu par Platon (parti pris négatif), n’est plus un problème.
 
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-video="img/TheEnemy.mp4" data-background-size="contain" -->
 
 source image: _The Enemy_ Karim Ben Khelifa
 
 <!-- .element: class="source" -->
-
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/nuage-de-mots.png" data-background-size="contain" -->
@@ -903,17 +825,13 @@ Toute mimésis, toute mise en récit, n’est pas un simple redoublement du rée
 
 <!-- .element: style="font-size:1.8rem" -->
 
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/nuage-de-mots.png" data-background-size="contain" -->
-
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/corinnevionnet_photoopportunities_800px_120-8405f.jpg" data-background-size="contain" -->
 
-
 ## Médier. Existe-t-il des formes médiatiques plus “réalistes” que d’autres ?
-
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/corinnevionnet_photoopportunities_800px_120-8405f.jpg" data-background-size="contain" -->
@@ -923,8 +841,6 @@ Toute mimésis, toute mise en récit, n’est pas un simple redoublement du rée
 * Les images du réel... face au réel
 * L'imaginaire des media... face aux media
 
-===
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/corinnevionnet_photoopportunities_800px_120-8405f.jpg" data-background-size="contain" -->
 
@@ -932,11 +848,9 @@ source image: _Photo Opportunities_ Corine Vionnet
 
 <!-- .element: class="source" -->
 
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
-
 
 ### Problématique
 * Existe-t-il vraiment des formes médiatiques plus réalistes que d'autres, ou le "réalisme" n'est-il pas lui-même, finalement, une construction médiatique ? Si tel est le cas, comment s'érige cette construction ?
@@ -951,21 +865,15 @@ Du latin "media" = *Ce qui est entre*
   * Medium
   * Media
 
-
-===
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/journaux.jpeg"  -->
 <!-- .slide: class="hover"-->
-
 
 ### Médias
 
 >Dans le domaine des communications, le nom média, qui désigne un moyen de communication et d’information, est la forme consacrée en français pour nommer ce que l’anglais américain a d’abord désigné sous l’appellation mass media. Cet emprunt est maintenant complètement intégré en français. C'est pourquoi on met un accent aigu sur le e et qu'on ajoute le 's' au pluriel : des médias.
 
-
 <!-- .element: style="font-size:1.7rem; text-align:justify" -->
-===
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/journaux.jpeg"  -->
@@ -980,36 +888,24 @@ Du latin "media" = *Ce qui est entre*
 <!-- .slide: data-background-image="img/proj.jpeg"  -->
 <!-- .slide: class="hover"-->
 
-
 ### Médium
 
 >Désigne le support technique de la médiation, dans sa dimension la plus matérielle, physique. Selon le TLFI : "Ce qui sert de support et de véhicule à un élément de connaissance&nbsp;; ce qui sert d'intermédiaire, ce qui produit une médiation entre émetteur et récepteur"
 
-
 <!-- .element: style="font-size:1.7rem; text-align:justify" -->
 
 ===
-
 Jusque dans les années 90, les films étaient tournés et projetés grâce au support physique qu'est la pellicule.
-
-Le numérique s'impose au tournant du XXIe, grâce à la baisse du coût des matériels de projection, à des aides du CNC et de sociétés.
-
-Le nombre de films tournés en numérique a aussi grandement augmenté jusqu’à concerner la majorité des productions aujourd’hui.
-
+Le numérique s'impose au tournant du XXIe, grâce à la baisse du coût des matériels de projection, à des aides du CNC et de sociétés. Le nombre de films tournés en numérique a aussi grandement augmenté jusqu’à concerner la majorité des productions aujourd’hui.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/difference-pellicule-et-numerique.png"  -->
 <!-- .slide: class="hover"-->
 
-
 ### Medium et représentation
 * Une dimension technique / support (métonymie trompeuse du media ?) [le cinéma n'est pas seulement une série de photogrammes qui se succèdent sur une pellicule... c'est un espace, un activité sociale, une industrie, un art...]
 * L'histoire des "progrès" techniques : entre tentation téléologique et mythe de la fin
 * Une transformation du medium (mutation technologique) entraîne-t-elle la disparition du media ?
-
-===
-
-Le changement de medium au cinéma affecte-t-il la nature du cinéma lui-même ?
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/difference-pellicule-et-numerique.png"  -->
@@ -1017,7 +913,6 @@ Le changement de medium au cinéma affecte-t-il la nature du cinéma lui-même ?
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/corinnevionnet_photoopportunities_800px_120-8405f.jpg"  -->
 <!-- .slide: class="hover"-->
-
 
 ### Media
 
@@ -1034,7 +929,6 @@ Le changement de medium au cinéma affecte-t-il la nature du cinéma lui-même ?
 * Un imaginaire des media (constitué de discours industriels, commerciaux, sociaux, institutionnels, littéraires)
 * Comment nos représentations [notre imaginaire] des media influencent-elles la valeur mimétique et l'exigence mimétique attribuée au media ?
 
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/cbvinci-a-cc3a8ne-1498.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
@@ -1042,9 +936,6 @@ Le changement de medium au cinéma affecte-t-il la nature du cinéma lui-même ?
 ### Les media et la structuration du réel
 * Évolution du concept de réalisme en fonction de l'évolution des media
 * Éducation de nos sens en fonction de notre culture technique et mediatique
-
-===
-
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/cbvinci-a-cc3a8ne-1498.jpg" data-background-size="contain" -->
@@ -1057,21 +948,11 @@ Le changement de medium au cinéma affecte-t-il la nature du cinéma lui-même ?
 
 <!-- .element: style="font-size:1.7rem; text-align:justify" -->
 
-
 ===
 
-Parvenue à faire
-oublier qu’elle n’est qu’un instrument mimétique conven-
-tionnel supplémentaire (qui plus est, davantage régulateur
-que les précédents), la perspective linéaire deviendra même
-un critère d’objectivation du monde, parvenant à convaincre
-le spectateur qu’il existe des images plus belles, plus justes,
-mais aussi plus naturelles que d’autres. Non seulement cette
-perspective fait abstraction de la complexité de la réalité
-perceptive, mais, en la rationalisant, elle vient du même
-coup imposer au spectateur un point de vue. Le regard est
-alors construit comme un « œil » unique et immobile – à
-vrai dire, une certaine conception idéalisée des facultés
+Parvenue à faire oublier qu’elle n’est qu’un instrument mimétique conventionnel supplémentaire (qui plus est, davantage régulateur que les précédents), la perspective linéaire deviendra même un critère d’objectivation du monde, parvenant à convaincre le spectateur qu’il existe des images plus belles, plus justes, mais aussi plus naturelles que d’autres. Non seulement cette perspective fait abstraction de la complexité de la réalité
+perceptive, mais, en la rationalisant, elle vient du même coup imposer au spectateur un point de vue. Le regard est
+alors construit comme un « œil » unique et immobile – à vrai dire, une certaine conception idéalisée des facultés
 perceptives de l’œil.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -1110,7 +991,6 @@ parler d'archéologie des media et de Kittler ?
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/00-024725PhotographieSpiriteAnonyme1910RMN4.jpg" data-background-size="contain" -->
 
-
 source image: Photographie spirite (Anonyme, 1910)
 
 <!-- .element: class="source" -->
@@ -1136,11 +1016,9 @@ source image: Géorama. « The Giant Globe, unknown. Interior of Wyld’s Great 
 
 <!-- .element: class="source" -->
 
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/typingsmall.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
-
 
 ## La remédiation et les paradoxes du réalisme
 * Un ouvrage de référence : *Remediation: Understanding New Media*, MIT press, 1998
@@ -1176,22 +1054,15 @@ Comment donner accès au réel ?
 * Immédiateté (*immediacy*)
 * Hypermédiateté (*hypermediacy*)
 
-===
-
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/typingsmall.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
-
 
 ### 1. Immediacy : la logique de la "transparence"
 
 >What designers often say they want is an “interfaceless” interface, in which there will be no recognizable electronic tools—no buttons, windows, scroll bars, or even icons as such. Instead the user will move through the space interacting with the objects “naturally,” as she does in the physical world. Virtual reality, threedimensional graphics, and graphical interface design are all seeking to make digital technology “transparent.” In this sense, a transparent interface would be one that erases itself, so that the user is no longer aware of confronting a medium, but instead stands in an immediate relationship to the contents of that medium.
 
 <!-- .element: style="font-size:1.6rem; text-align:justify" -->
-
-===
-
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/typingsmall.png" data-background-size="contain" -->
@@ -1226,24 +1097,12 @@ Source: Lumière, _Entrée d'un train en gare de La Ciotat_ (1895)
 <!-- .element: class="source" -->
 
 
-===
-
-Lumière
-
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-video="img/Melies.mp4" data-background-size="contain" -->
 
 Source: Mélies, _Le voyage vers la Lune_, 1902
 
 <!-- .element: class="source" -->
-
-
-===
-
-Melies
-
-
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/virtuel.jpeg" data-background-size="contain" -->
@@ -1257,16 +1116,11 @@ Melies
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/hd.jpeg" data-background-size="contain" -->
 
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/lunettes-ordi.jpg" data-background-size="contain" -->
 
-
-===
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/gearthWeb.png" data-background-size="contain" -->
-
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/gearthWeb.png" data-background-size="contain" -->
@@ -1276,14 +1130,9 @@ Melies
 et en circulation (tout le monde peut voir tout le monde), s’instaure. (Hamon, 1989, p. 72)
 ===
 
-À compter du xviii e siècle, des dispositifs de vision de plus
-en plus spectaculaires voient le jour, en même temps
-qu’émerge un nouveau paradigme du regard : les panoramas
-(Daguerre lui-même fut décorateur avant de se lancer dans
-une carrière de photographe), les dioramas ou les géoramas
-investissent l’utopie moderne du tout voir, dont la photogra-
-phie va profiter dès sa naissance (voir chapitre 1). Ces dispositifs ont la particularité de susciter un effet de réel sans précédent, en faisant vivre à leur spectateur une expérience de l’ordre de la simulation et de l’immersion : l’illusion ne touche plus seulement l’œil, elle engage le corps. Mais le divertissement n’est pas leur seule fonction : comme le note Philippe Hamon, ces machines traduisent une « obsession panoptique et démocratique de transparence, d’étalage, d’ouverture, de mise en lumière et en circulation (tout le monde peut voir tout le monde) » (Hamon, 1989, p. 72).
-
+À compter du xviii e siècle, des dispositifs de vision de plus en plus spectaculaires voient le jour, en même temps
+qu’émerge un nouveau paradigme du regard : les panoramas (Daguerre lui-même fut décorateur avant de se lancer dans
+une carrière de photographe), les dioramas ou les géoramas investissent l’utopie moderne du tout voir, dont la photographie va profiter dès sa naissance (voir chapitre 1). Ces dispositifs ont la particularité de susciter un effet de réel sans précédent, en faisant vivre à leur spectateur une expérience de l’ordre de la simulation et de l’immersion : l’illusion ne touche plus seulement l’œil, elle engage le corps. Mais le divertissement n’est pas leur seule fonction : comme le note Philippe Hamon, ces machines traduisent une « obsession panoptique et démocratique de transparence, d’étalage, d’ouverture, de mise en lumière et en circulation (tout le monde peut voir tout le monde) » (Hamon, 1989, p. 72).
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/Googlegrammes.png" data-background-size="contain" -->
@@ -1307,17 +1156,12 @@ Source: Virginie Otth, _Petites définitions_, 2009
 
 <!-- .element: class="source" -->
 
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/corinnevionnet_photoopportunities_800px_120-8405f.jpg" data-background-size="contain" -->
 
 source image: _Photo Opportunities_ Corine Vionnet
 
 <!-- .element: class="source" -->
-
-===
-
-redéfinition du flou
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/corinnevionnet_photoopportunities_800px_120-8405f.jpg" data-background-size="contain" -->
@@ -1331,31 +1175,26 @@ La notion de "réalisme" est chargée médiatiquement : chaque media impose ses 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/Mediernuage-de-mots.png" data-background-size="contain" -->
 
-
-===
-Nuage
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/stjerome.png" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
-
 
 ## Incarner. La fonction auctoriale
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/wattpad.png" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
 
 ### Introduction : de l'amateur au professionnel, question de talent ou de légitimité ?
+* La fanfiction littéraire : le sacre de l'amateur ?
+* L'auto-édition ou les "ratés" de l'édition traditionnelle
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/wattpad.png" data-background-size="contain" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/proust.png" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
 
 
 ===
-Amateur / auteur... le cas Fifty shades ?
-
 Général Instin : de la figure auctoriale partagée à la construction éditoriale
 
 Général Instin : du collectif à la forgerie éditoriale
@@ -1364,15 +1203,10 @@ Général Instin : du collectif à la forgerie éditoriale
 <!-- .slide: data-background-image="img/proust.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
-* L'autorité détermine la valeur (esthétique), la crédibilité et l'authenticité que nous accordons à un contenu
-* L'autorité est une production avant tout institutionnelle (elle peut s'appuyer sur des critères qui nous semblent justes, mais qui ne sont pas non plus absolus)
-* L'autorité est produite par une conjoncture d'éléments dont :
+L'autorité détermine la valeur (esthétique), la crédibilité et l'authenticité que nous accordons à un contenu. Elle est une production avant tout institutionnelle (elle peut s'appuyer sur des critères qui nous semblent justes, mais qui ne sont pas non plus absolus). L'autorité est produite par une conjoncture d'éléments dont :
   - des personnes (les *auteurs*)
   - des instances de production et de diffusion (*éditeurs*, au sens large)
   - des media (techniques et imaginaire)
-
-  <!-- .element: style="font-size:1.7rem; text-align:justify" -->
-
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/proust.png" data-background-size="contain" -->
@@ -1385,8 +1219,7 @@ Général Instin : du collectif à la forgerie éditoriale
 <!-- .slide: data-background-image="img/proust.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
-### Auteur : définition
-* TLFI :
+### Auteur : définition (TLFI)
 > [A] Celui ou celle qui est la cause première ou principale d'une chose. Synon. créateur, instigateur, inventeur, responsable. (Inventeur, initiateur ou responsable d'une chose ; Celui qui est à l'origine d'une chose, bonne ou mauvaise.)
 > [B]  Celui ou celle qui, par occasion ou par profession, écrit un ouvrage ou produit une œuvre de caractère artistique.
 
@@ -1633,7 +1466,7 @@ celle de Van Gogh,c'est sa folie, celle de Tchaikowsky, c'est son vice : l' expl
 
 ### Michel Foucault, critique de l'individuation des auteurs
 
->Le thème dont je voudrais partir, j'en emprunte la formulation à Beckett : « Qu'importe qui parle, quelqu'un a dit qu'importe qui parle. » Dans cette indifférence, je crois qu'il faut reconnaître un des principes éthiques fondamentaux de l'écriture contemporaine.
+>Le thème dont je voudrais partir, j'en emprunte la formulation à Beckett : « Qu'importe qui parle, quelqu'un a dit qu'importe qui parle. » Dans cette indifférence, je crois qu'il faut reconnaître un des principes éthiques fondamentaux de l'écriture contemporaine. ("Qu'est-ce qu'un auteur ?")
 
 <!-- .element: style="font-size:1.8rem" -->
 
@@ -1653,10 +1486,9 @@ Thomas Edison (Électricité et ampoule) vs Joseph Swan
 
 ### Foucault et la *fonction auteur*
 
->La fonction-auteur est liée au système juridique et institutionnel qui enserre, détermine, articule l'univers des discours ; elle ne s'exerce pas uniformément et de la même façon sur tous les discours, à toutes les époques et dans toutes les formes de civilisation ; elle n'est pas définie par l'attribution spontanée d'un discours à son producteur, mais par une série d'opérations spécifiques et complexes ; elle ne renvoie pas purement et simplement à un individu réel, elle peut donner lieu simultanément à plusieurs ego, à plusieurs positions-sujets que des classes différents d'individus peuvent venir occuper.
+>La fonction-auteur est liée au système juridique et institutionnel qui enserre, détermine, articule l'univers des discours ; elle ne s'exerce pas uniformément et de la même façon sur tous les discours, à toutes les époques et dans toutes les formes de civilisation ; elle n'est pas définie par l'attribution spontanée d'un discours à son producteur, mais par une série d'opérations spécifiques et complexes ; elle ne renvoie pas purement et simplement à un individu réel, elle peut donner lieu simultanément à plusieurs ego, à plusieurs positions-sujets que des classes différents d'individus peuvent venir occuper. ("Qu'est-ce qu'un auteur ?")
 
 <!-- .element: style="font-size:1.8rem" -->
-
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/nothomb.png" data-background-size="contain" -->
@@ -1669,32 +1501,16 @@ Thomas Edison (Électricité et ampoule) vs Joseph Swan
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/nothomb.png" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
-
-
-===
-
-Auteurs qui font vendre
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/bestsellers.jpg" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
-
-
-===
-
-Le jeu médiatique
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/ferante.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
-
-===
-La fascination pour l'auteur, le cas ferante
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/dsl-n-2-1325.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/nothomb.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ### Conclusion
