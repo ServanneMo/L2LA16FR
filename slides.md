@@ -1336,9 +1336,376 @@ La notion de "réalisme" est chargée médiatiquement : chaque media impose ses 
 Nuage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/stjerome.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
 
 
 ## Incarner. La fonction auctoriale
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/wattpad.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Introduction : de l'amateur au professionnel, question de talent ou de légitimité ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/proust.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+
+===
+Amateur / auteur... le cas Fifty shades ?
+
+Général Instin : de la figure auctoriale partagée à la construction éditoriale
+
+Général Instin : du collectif à la forgerie éditoriale
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/proust.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+* L'autorité détermine la valeur (esthétique), la crédibilité et l'authenticité que nous accordons à un contenu
+* L'autorité est une production avant tout institutionnelle (elle peut s'appuyer sur des critères qui nous semblent justes, mais qui ne sont pas non plus absolus)
+* L'autorité est produite par une conjoncture d'éléments dont :
+  - des personnes (les *auteurs*)
+  - des instances de production et de diffusion (*éditeurs*, au sens large)
+  - des media (techniques et imaginaire)
+
+  <!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/proust.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Problématique
+* La crise de la vérité ("post-vérité" ?) propre à notre époque contemporaine n'est-elle pas plutôt une crise de l'autorité ? Comment l'auteur, en tant que concept, s'est-il construit et pourquoi cette construction, aujourd'hui, est mise à mal (entraînant dans sa chute une crise de légitimité) ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/proust.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Auteur : définition
+* TLFI :
+> [A] Celui ou celle qui est la cause première ou principale d'une chose. Synon. créateur, instigateur, inventeur, responsable. (Inventeur, initiateur ou responsable d'une chose ; Celui qui est à l'origine d'une chose, bonne ou mauvaise.)
+> [B]  Celui ou celle qui, par occasion ou par profession, écrit un ouvrage ou produit une œuvre de caractère artistique.
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/auteurPolysemie.png" data-background-size="contain" -->
+
+
+===
+
+La notion d’auteur est vague, ou synonyme :
+- catégorie utile pour la documentation : fichier « Auteurs » de la bibliothèque, permet de ranger les livres, de les ordonner.
+- nom propre d’une personne qui a vécu ou vit encore
+- l’auteur est aussi une autorité : une valeur, un (plus ou moins) grand écrivain, un « classique », un « monument » (À Victor Hugo, en son avenue)
+- scripteur - celui qui écrit - métier d’écrivant vs écrivain
+- quelqu’un qui est protégé par le droit d’auteur (législation, qui cependant est à échelle variable en fonction des époques et des pays)
+- une fonction, en particulier pour le lecteur qui lit le livre en fonction de l’auteur, non seulement de ce qu’il en sait, de qu’on en sait, mais de ce que l’hypothèse de l’auteur permet comme opérations de lecture et d’interprétation, de ce que la codification juridique de la propriété intellectuelle permet comme utilisation (elle interdit la contrefaçon), etc.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/mise-en-abime-peinture.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Les paradoxes de l'auteur
+* Originarité et originalité ?
+* Étymologie : celui qui augmente (latin *augeo*)
+* La compétence professionnelle
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/mise-en-abime-peinture.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### L'auteur et ses controverses
+* Intention et intentionnalité (glorification, psychologisation, sacralisation du "génie")
+* Propriété (droit d'auteur)
+* Transgressions, plagiats, parodies, pastiche... hommage ou pratique illégale ? Sabotage ou oeuvre d'art ?
+
+===
+
+La question de la place à faire à l'auteur est l'une des plus controversées dans les études littéraires et à plus forte raison dans les pratiques littéraires - les écrivains étant les premiers à discuter cette notion parfois finalement plus encombrante qu’autre chose.
+
+- intention - qui est probablement la notion la plus importante et la plus difficile, renvoyant au rôle donné à l'auteur dans l'interprétation des textes (psychologisation, tendance à glorifier le « génie » de l’auteur)
+- propriété, droit d'auteur - signature qui marque l’appropriation - pour renvoyer cette fois au statut moderne de l'auteur depuis les Lumières - un droit qui ne satisfait pas la plupart des écrivains eux-mêmes.  
+- transgressions, plagiat, parodie, pastiche, qui font partie des pratiques courantes et qui parcourent un spectre allant de l’affront, de l’illégal, à l’hommage, le comique, l’oeuvre à nouveau - parodie et pastiches étant reconnus comme « artistiques ».
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/stjerome.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### De l'écrivain à l'auteur : émergence d'un concept
+Si les écrivains existent depuis l'invention de l'écriture, il n'en pas pas de même des auteurs. L'auteur est d'abord une réalité conceptuelle, formalisée afin de répondre à une série de problématiques (notamment économiques, juridiques et institutionnelles). Le concept d'auteur littéraire est donc relativement récent (XVIIIe siècle), et voit le jour au moment même où s'érige, en Europe, un système éditorial moderne. De fait, la définition de l'auteur et de son autorité n'est pas figée (c'est le propre de tout concept).
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/scribe.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Les écrivains publics
+* Un professionnel qui vend une *compétence* d'écriture, un savoir-faire
+* Pas d'implication de renommée, pas de signature, pas de propriété intellectuelle
+* Un métier faisant l'objet d'une professionnalisation constante ("Plume")
+* Une fonction sociale (administrative) plus qu'une fonction autoriale
+
+===
+
+*Le cas de l’écrivain public*
+L’écrivain, historiquement, renvoie d’abord à cette figure ancienne de l’écrivain public, celui-là même qui vendait une compétence d’écriture au service du public, sans aucune implication de renommée et sans signature – pas tant un « amateur » au sens strict, mais un professionnel, doté d’une compétence, d’un savoir-faire, d’un métier ou d’une activité (que l’on peut par conséquent pratiquer « en amateur »).
+
+Descendant du scribe antique et de l’écrivain de rue médiéval, l’écrivain public appartient en effet à un corps de métier ancien qui, ces dernières années, aura fait l’objet d’une professionnalisation constante – disposant de formations universitaires spécifiques – quand il ne s’est pas camouflé sous d’autres titres : le « nègre littéraire », les « plumes » des personnalités politiques ou même plus récemment le rédacteur de contenu Web – autant de titres révélateurs d’une hiérarchie pour le moins opaque.
+
+Traditionnellement spécialisé dans la rédaction de courriers administratifs, de discours ou de curriculum vitae, l’écrivain public prête depuis des siècles ses services aux analphabètes, aux illettrés. Si l’écrivain public peut se targuer d’une indéniable fonction sociale, c’est aux dépens de sa fonction auctoriale réduite à minima – et avec elle, le principe de propriété intellectuelle, la reconnaissance d’une créativité artistique.
+
+L’écrivain public doit avoir un talent pour l’écriture - il est payé pour ça -, mais il s’efface complètement. Il ne dit jamais « je ».
+
+Aujourd’hui l’écrivain public revient un peu sur le devant de la scène - avec des formations universitaires que l’on met en place.
+Dans nos sociétés, il n’avait jamais vraiment disparu, mais il était nommé autrement : « plume » / « nègre »
+- Dumas et Auguste Maquet
+
+Dans les sociétés orientales, mais aussi au Maghreb, l’écrivain public est une figure beaucoup plus reconnue, qui occupe une place importante dans la société, signe que notre conception de l’auctorialité est là aussi encore bien culturelle.
+
+Tahar Ben Jelloun - *L’écrivain public* (1983)
+Yasmina Khadra - *L’écrivain* (2001)
+Atiq Rahimi - *Le Retour imaginaire* (2003)
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/scribe.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+* Une tradition culturelle
+
+  - Tahar Ben Jelloun - *L’écrivain public* (1983)
+  - Yasmina Khadra - *L’écrivain* (2001)
+  - Atiq Rahimi - *Le Retour imaginaire* (2003)
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/gilga.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Le poète antique sous inspiration divine
+>Μῆνιν ἄειδε θεὰ Πηληϊάδεω Ἀχιλῆος
+οὐλομένην, ἣ μυρί᾿ Ἀχαιοῖς ἄλγε᾿ ἔθηκε,
+
+>Chante, déesse, la colère funeste d’Achille le Pélléen, qui causa une grande douleur aux Achéens.
+
+* Homère, Sapho... des constructions *a posteriori*
+===
+
+Dans l’antiquité, la notion d’auteur n’existe pas - ou du moins pas comme on peut l’entendre aujourd’hui. Dans la Grèce archaïque, la figure d’auteur est essentiellement une figure de l’oralité : il convient de garder à l’esprit que la poésie, qui a été la première forme de littérature des Grecs, est très longtemps restée dans le cadre de l’oral. On ne lisait pas *L’Iliade* et *l’Odyssée*, on les récitait - c’était l’aède, poète ou chanteur, qui en avait la charge.
+
+Pas d’auteur au sens où on l’entend, mais il existe pourtant une figure qui, dans le récit, se distingue : plusieurs siècles avant J.-C. déjà, le « Je » de l’auteur apparaît dans les textes, la figure auctoriale est présente en tant qu’instance textuelle.
+
+Ce « je » n’est pas un « ego », il est en fait implicite ou indirect, il relève du vocatif (l’adresse, l’interjection ou l’interpellation)
+
+Le poète s’adresse ici à la muse, qui porte pour le coup le récit - à la fois comme inspiration et comme entité légitimante. Le poète se place sous son autorité. Il s’agit d’une mise en scène dans son récit permet de légitimer ce récit. Aussi, dans l’épopée homérique, la parole de l’aède/poète est représentée comme provenant de la Muse : le poète s’adresse à elle en la considérant comme à l’origine du contenu de son chant.
+
+Si l’on a donné des noms aux auteurs littéraires antiques - Homère, Sapho, etc. ces figures n’ont rien à voir avec notre conception : souvent elles sont d’ailleurs construites a posteriori.
+
+Attention, cela ne signifie pas qu’il n’existait pas d’écrivains - mais que ceux-ci n’avaient pas de statut d’auteur comme on l’entend.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/Hmburgbiblen.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Le Moyen-âge : le temps de la responsabilité pénale
+* Anonymat généralisé mais :
+* Émergence d'un *auctor*
+* Responsabilité pénale, censure
+
+>Les textes ont commencé à avoir réellement des auteurs quand ceux-ci ont pu être punis, c’est-à-dire aussi quand les discours ont pu être transgressifs. Le discours a été un acte dans le monde “ du licite et de l’illicite, du religieux et du blaspématoire ”, un “ geste chargé de risques ”, avant de devenir un bien. ([Antoine Compagnon](https://aphelis.net/wp-content/uploads/2012/03/Compagnon-Auteur.pdf))
+
+<!-- .element: style="font-size:1.8rem" -->
+
+
+===
+Quant au Moyen-Âge, l’anonymat est la règle quasi exclusive. On connaît tous « Le roman arthurien », on n’en connaît pas l’auteur.
+
+Pb : des contres-exemples sur lesquels sont bâtis notre culture livresque car nous avons développé un culte de l’auteur - impossible pour nous de dire qu’une « oeuvre » n’a pas d’auteur. Ex : Chrétien de Troye, Marie de France.
+
+
+L'importance de l'attribution des textes a varié au cours du temps : on n'a pas toujours valorisé les mêmes formes d'autorité. Ainsi les textes « littéraires » (si on peut employer ce terme avant l’époque moderne), récits, contes, épopées, ont été longtemps reçus sans noms d’auteur et dans l’anonymat de leur énonciation, leur ancienneté leur étant une autorité suffisante : c’est l’exemple d’Homère, dont on ne sait pas s’il a existé, mais qui est devenu une figure aussi mythique que l’Iliade.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/la-premiere-imprimerie-bretonne.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### L’origine éditoriale du concept moderne d’auteur
+
+Le concept moderne d’auteur est le fruit du processus qui permet la professionnalisation des auteurs à la base du modèle économique de l’édition imprimée. En d’autres termes, la fonction fondamentale de l’auctorialité est la propriété. Cela signifie que la notion d’auteur n’a rien d’absolu et de nécessaire, elle est historique et, en outre, de formation relativement récente.
+
+===
+On a vu que le XVIIIe siècle est, en matière de librairie, le temps de la législation.
+À cette époque, les privilèges sont renouvelés régulièrement et restent parfois durant plus d'un siècle aux mains d'une même famille de libraires :
+- celle-ci réalise souvent des bénéfices importants,
+- tandis que les descendants de l'auteur, à qui l'œuvre en question a été achetée, se trouvent dans la misère.
+
+Cette situation, qui fait de plus en plus débat, va favoriser la mise en place d’un cadre législatif qui va définir les principaux acteurs de l’édition moderne, en institutionnalisant par des lois les pratiques éditoriales qui étaient, jusque là, génératrices de fortes inégalités.
+
+L’idée moderne d’auteur est donc née au début du XVIIIe siècle pour des raisons essentiellement économiques : il fallait un modèle économique pour l’édition papier en train de se généraliser. C’est à partir de ce besoin qu’une série d’ajustements légaux ont été mis en place pour parvenir à l’une des premières lois sur le copyright au Royaume Uni, Le statut d’Anne, en 1710.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/statuteofanne.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Du copyright au droit d'auteur : deux cultures de l'autorité
+
+* En Angleterre *Le Statut d’Anne (1710) - Copyright*
+  - un droit d’exclusivité (le copyright) par lequel « la seule liberté d’imprimer et réimprimer un livre» est attribuée à l’auteur (vs le libraire-imprimeur).
+  - une durée de la protection limitée (21 ans renouvelables) qui revient à créer un « domaine public »
+
+===
+
+Depuis le premier "Statut d'Anne", en 1710, le droit d'auteur est conçu comme un droit d'équilibre entre les intérêts de la société ("encourager les hommes éclairés à composer et écrire des livres utiles" disait le Statut d'Anne) et ceux des auteurs. Ces derniers disposent du monopole d'exploitation de leurs oeuvres, qui ne peuvent être éditées ou représentées sans leur consentement.
+Concrètement, l’originalité du statut repose sur deux points :
+•	Le droit d’exclusivité (le copyright), défini comme « la seule liberté d’imprimer et réimprimer un livre», était désormais formellement rattaché à l’auteur (vs le libraire-imprimeur).
+•	La durée de la protection était limitée (21 ans pour les livres existants, 14 pour les livres à venir, durée renouvelable une fois si l’auteur était encore vivant). *Le statut créait donc un « domaine public »*, avec comme conséquence qu’un ensemble de textes (et de livres) ne pourraient plus être soumis à des privilèges exclusifs d’impression.
+
+Comme le révèle l’expression « composer des livres utiles » - copyright, la loi est tournée du côté de l’exploitation de l’oeuvre. Elle défend d’abord un droit de copier (qui est un droit d'exploitant) lié à l'œuvre elle-même.
+Dans ce raisonnement, le texte est donc conçu comme une marchandise.
+
+Le copyright est une protection qui se limite à la sphère stricte de l’œuvre, sans considérer d’attribut moral à l’auteur en relation avec son œuvre, sauf sa paternité ; ce n’est plus l’auteur proprement dit, mais l’ayant-droit qui détermine les modalités de l’utilisation d’une œuvre.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/arretAuteur.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+* En France : *Arrêt de 1777- droit d’auteur*
+  - droit patrimonial (exploitation économique)
+  - droit moral (« intégrité » de l’oeuvre)
+
+===
+Inspiré par la situation anglaise, la France propose une série d'arrêts en 1777, pour revoir la législation : un auteur qui prendra lui-même son privilège et vendra son œuvre chez lui pourra transmettre à ses héritiers un droit perpétuel sur cette œuvre (//système anglais). Dans la foulée, une loi sur la propriété littéraire (1793) rendait hommage au « génie » de l’homme de lettres. C’est la naissance du Droit d’auteur.
+
+Cette double législation est complexe et aboutit à une notion d’auteur problématique puisque le droit d’auteur va recouvrir propriété et morale.
+
+C’est à dire qu’on insère avec ce droit moral (en fait très flou) un droit au respect de l’auteur, indépendant des droits patrimoniaux. Les droits moraux servent à protéger l’auteur en ce qui a trait au respect de l’intégrité de son œuvre et au respect de sa paternité sur son œuvre.   
+(NB : Par la loi, les droits moraux ne peuvent pas être cédés, mais ils peuvent toutefois faire l’objet d’une renonciation par contrat. Il faut donc bien lire le contrat offert par l’éditeur afin de s’assurer que vous conserviez le respect de vos droits moraux).
+
+Par opposition au système anglo-américain du copyright, qui privilégie le public, le code français, depuis les Lumières et la Révolution, avantage et sacralise l'auteur. Ce sont là deux conceptions rivales de la culture.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/arretAuteur.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Deux modèles auctoriaux, deux modèles culturels
+- Le copyright est une marchandise.
+- Le droit d’auteur protège le créateur.
+
+===
+Même si les deux régimes s’efforcent de répondre aux mêmes impératifs, ils le font de manière opposée, répondant à deux conceptions différentes de l’économie, l’une anglo-américaine et libérale, l’autre européenne et d’ascendance romaine.
+En gros, le copyright relève plus d’une logique économique et accorde un droit moral restreint, là où le droit d’auteur assure un droit moral fort en s’appuyant sur le lien entre l’auteur et son œuvre.
+Dans le droit d’auteur, le droit moral prime, ce qui place la création avant la logique économique, alors que dans le copyright, les droits patrimoniaux priment, ce qui place l’économie avant la création.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/barthes2.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+## La déconstruction du concept d’auteur par la Nouvelle critique (Barthes et Foucault)
+
+* Roland Barthes, "La mort de l'auteur"
+* Michel Foucault, "Qu'est-ce qu'un auteur ?" (la *fonction auctoriale*)
+
+===
+Dans la seconde moitié du XXe, les post-structuralistes vont critiquer la notion culturelle d’auteur, avec deux critiques phares : Michel Foucault, dans le texte « Qu'est-ce qu'un auteur ? », texte d'une conférence donnée en février 1969 à la Société française de Philosophie, écrit peu après un article non moins fameux de Roland Barthes, au titre plus polémique, « La mort de l'auteur », publié en 1968.
+
+Au départ, ces deux critiques étaient animés par un mouvement d'hostilité à l'égard de l'histoire littéraire, dont ils contestaient la domination dans les études littéraires à l'université. Ils s'opposaient à la littérature considérée en relation avec son auteur, ou comme expression de son auteur, suivant une doctrine résumée dans le titre courant des thèses de lettres : l'homme et l'oeuvre.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/barthes2.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Barthes, "La mort de l'auteur"
+
+>l'image de la littérature que l'on peut trouver dans la culture courante est tyranniquement centrée sur l'auteur, sa personne, son histoire, ses goûts, ses passions; 1a critique consiste encore, la plupart du temps, a dire que l'oeuvre de Baudelaire, c'est l'échec de l'homme Baudelaire.
+celle de Van Gogh,c'est sa folie, celle de Tchaikowsky, c'est son vice : l' explication de l'oeuvre est toujours cherchée du côté de celle qui l'a produite, comme si, à travers l'allégorie plus ou moins transparente de la fiction, c'était toujours finalement la voix d'une seule et même personne, l'auteur, qui livrait sa "confidence". (Barthes, La mort de l'auteur)
+
+<!-- .element: style="font-size:1.8rem" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/foucault.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Michel Foucault, critique de l'individuation des auteurs
+
+>Le thème dont je voudrais partir, j'en emprunte la formulation à Beckett : « Qu'importe qui parle, quelqu'un a dit qu'importe qui parle. » Dans cette indifférence, je crois qu'il faut reconnaître un des principes éthiques fondamentaux de l'écriture contemporaine.
+
+<!-- .element: style="font-size:1.8rem" -->
+
+
+===
+Foucault part donc d’une double critique :
+- Critique de l’individuation propre à notre conception de l’auteur, qui est une simplification de l’histoire (littéraire, mais aussi en général) et une réorientation de celle-ci à des fins parfois peu nobles.
+Christophe Colomb (Amérique)
+Niepce et Daguerre (Photographie) vs Hippolyte Bayard
+Thomas Edison (Électricité et ampoule) vs Joseph Swan
+
+- Critique de la tendance classificatoire et sacralisante de l’oeuvre.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/foucault.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Foucault et la *fonction auteur*
+
+>La fonction-auteur est liée au système juridique et institutionnel qui enserre, détermine, articule l'univers des discours ; elle ne s'exerce pas uniformément et de la même façon sur tous les discours, à toutes les époques et dans toutes les formes de civilisation ; elle n'est pas définie par l'attribution spontanée d'un discours à son producteur, mais par une série d'opérations spécifiques et complexes ; elle ne renvoie pas purement et simplement à un individu réel, elle peut donner lieu simultanément à plusieurs ego, à plusieurs positions-sujets que des classes différents d'individus peuvent venir occuper.
+
+<!-- .element: style="font-size:1.8rem" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/nothomb.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### La théorie face à la réalité de l'écosystème éditorial
+* Des "best sellers"
+* Des écrivains médiatisés
+* Un refus de l'anonymat
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/nothomb.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+
+===
+
+Auteurs qui font vendre
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/bestsellers.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+
+===
+
+Le jeu médiatique
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/ferante.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+
+===
+La fascination pour l'auteur, le cas ferante
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/dsl-n-2-1325.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Conclusion
+
+Le concept d’auteur est polymorphe et n'a rien d'absolu. Comme catégorie du droit, la notion d'auteur est soumise à interprétation. Le statut légal de l’auteur ne renvoie aucunement à une « Vérité » : il est culturel, et varie en fonction des sociétés dans lequel il est pensé. Ce statut légal de l’auteur - notamment dans sa version « latine », française, influence cependant profondément ce que nous faisons des oeuvres, la façon dont nous les lisons. À notre époque contemporaine, la démocratisation d'une publication en ligne (notamment) entraîne une crise du modèle d'autorité qui régissait jusque là les milieux littéraires (mais aussi les milieux journalistiques, par exemple, ou encore politiques). L'ère de la "post-vérité" est donc davantage une ère où se reconfigure les postures d'autorité et les systèmes de légitimation, qu'une époque où règne le mensonge.
+
+<!-- .element: style="font-size:1.8rem" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/nuage-de-motsAuteur.png" data-background-size="contain" -->
+
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
