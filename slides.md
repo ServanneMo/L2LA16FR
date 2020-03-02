@@ -1507,7 +1507,6 @@ Thomas Edison (Électricité et ampoule) vs Joseph Swan
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/ferante.png" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/nothomb.png" data-background-size="contain" -->
