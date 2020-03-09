@@ -1521,12 +1521,184 @@ Le concept d’auteur est polymorphe et n'a rien d'absolu. Comme catégorie du d
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/nuage-de-motsAuteur.png" data-background-size="contain" -->
 
-
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
 
 ## Transmettre. L’énonciation éditoriale
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/gallimard.jpg" data-background-size="contain" -->
+
+### Introduction : au premier coup d'oeil...
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/couv_us-france.jpg" data-background-size="contain" -->
+
+===
+Une culture visuelle différente : le cas français vs US
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/00-genealogie-livres-francais1-1.jpg" data-background-size="contain" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/1953_benoit_koenigsmark_1ere-folio.jpg" data-background-size="contain" -->
+
+===
+Le livre de poche / "culture de poche"
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/1971-1976-poche-folio.gif" data-background-size="contain" -->
+
+===
+différence entre le poche et la collection
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/figure_1_kbh_71a22_180r_low-res.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### L'origine graphique de l'écriture
+
+>prendre en compte la dimension graphique, visuelle de l’écriture, et plus généralement de l’information écrite, implique un autre regard, une attention autre que celle dévolue d’ordinaire au texte. Ce regard fait du lecteur habituel un sémiologue attentif, car le texte ainsi considéré présente une résistance physique, matérielle, une présence sociale et idéologique qui s’expriment à travers l’histoire et la culture. C’est toute cette épaisseur de l’écrit que convoque la notion d’énonciation éditoriale. (Souchier 1997)
+
+<!-- .element: style="font-size:1.8rem" -->
+
+===
+
+Étude des médiations : s'intéresser à la forme.
+Les contenus écrits ont tendance à être considérés et étudiés en dehors de leur réalité formelle.
+
+L'énonciation éditoriale, théorisée par Emmanüel Souchier, est une approche qui, à l'origine, s'intéressera à la dimension graphique des textes. En quoi les textes produisent-il du sens via leur forme graphique, leur incarnation éditoriale et médiatique ? Par extension, en quoi des formes d'autorité peuvent être produites via une dimension purement médiatique (notamment formelle, graphique)
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/figure_1_kbh_71a22_180r_low-res.jpg" data-background-size="contain" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/gallimard.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Le concept d'énonciation éditoriale (Emmanüel Souchier)
+* Énonciation : concept linguistique ("acte individuel d’utilisation de la langue") élargi pour appréhender différents champs sémiotiques : fabrique polyphonique/collective des produits culturels.
+* Édition : production, circulation et légitimation des textes. Implique des personnes dépositaires d'un savoir-faire et d'une autorité légale, des techniques et des media (soumis eux-mêmes à des discours, des connotations), des usages et des pratiques.
+* Éditer = trans-former, "terme qui se comprend à la fois comme une élaboration, une médiation et un changement" (Souchier)
+
+===
+>L’énonciation éditoriale présente deux caractéristiques essentielles. La première concerne la pluralité des instances d’énonciation intervenant dans la constitution du texte ; la seconde, le fait que les marques d’énonciation éditoriale disparaissent derrière la banalité quotidienne
+
+>éditeur, directeur de collection, secrétaire d’édition,
+correcteur, illustrateur, maquettiste, graphiste, typographe, claviste, imprimeur,
+partenaires officiels ou mécènes... auxquels il conviendrait d’ajouter le fabri-
+cant de papier, le façonneur, le relieur, sans parler du libraire ou du diffuseur
+qui interviennent parfois en amont de la chaîne de production 22 . Chacun de
+ces partenaires laisse une trace de son intervention ; laquelle est dûment codée,
+contractualisée ou répond plus simplement à des pratiques ou des usages. À
+des degrés divers, ces traces ou « marques d’énonciation éditoriale » 23 façon-
+nent et constituent l’identité du texte. Elles déterminent donc les conditions
+de sa réception.
+
+>Ainsi en va-t-il de la typographie, son évidente omniprésence masque son existence au point de la faire disparaître et d’en effacer le sens et la fonction. À travers son discours d’escorte, niant la dualité linguistique et iconique qui la constitue, la typographie s’est mise au service du verbe en s’excusant d’être
+aussi image.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/j-irai-cracher.gif" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### L’« infra-ordinarisation » des pratiques de lecture et d’écriture
+* Une "culture triviale" (Yves Jeanneret)
+* Sécularisation des instances de l'énonciation éditoriale
+* Une intermédiation invisible mais décisive et omniprésente
+* Une autorité "naturelle" ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/j-irai-cracher.gif" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Édition et intermédiation
+Le texte d'un écrivain nous parvient par le concours d'une série de médiations éditoriales (ce que l'on va qualifier d'intermédiations) :
+- manipulation matérielles (support, typo)
+- manipulation humaines (les éditeurs, réviseurs, graphistes)
+- manipulations institutionnelles (l'institution éditoriale)
+    = Fabrique de l'auteur
+===
+
+Intermédiation : le texte d'un écrivain nous parvient par le concours d'une série de médiations éditoriales (ce que l'on va qualifier d'intermédiations) :
+- manipulation matérielles (support, typo)
+- manipulation humaines (les éditeurs, réviseurs, graphistes)
+- manipulations institutionnelles (l'institution éditoriale)
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/j-irai-cracher.gif" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+>Il convient donc de considérer le texte à travers sa matérialité (couverture, format, papier...), sa mise en page, sa typographie ou son illustration, ses marques éditoriales variées (auteur, titre ou éditeur), sans parler des marques légales et marchandes (ISBN, prix ou copyright)..., bref à travers tous ces éléments observables qui, non contents d’accompagner le texte, le font exister. Ces marques visuelles qui permettent de décrire l’ouvrage ont été mises en œuvre par les acteurs de l’édition. Élaborées par des générations de praticiens dont le métier consistait à « donner à lire », elles sont la trace historique de pratiques, règles et coutumes. (Souchier)
+
+<!-- .element: style="font-size:1.8rem" -->
+
+
+===
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/proust.png" data-background-size="contain" -->
+
+### Énonciation éditoriale et états du texte
+Un livre, concrètement, offre "un état d’un texte à une époque donnée". "Cet état qui a pu textuellement changer au fil de l’histoire, changera encore dans les années à venir tant du point de vue matériel et visuel que du point de vue de son discours d’accompagnement." (Souchier)
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/proust.png" data-background-size="contain" -->
+
+### Texte premier, texte second
+>Si je reprends analogiquement le décalage sémiologique pratiqué par Roland Barthes je peux définir l’énonciation éditoriale comme un « texte second » dont le signifiant n’est pas constitué par les mots de la langue, mais par la matérialité du support et de l’écriture, l’organisation du texte, sa mise en forme, bref par tout ce qui en fait l’existence matérielle. Ce «signifiant» constitue et réalise le « texte premier », il lui permet d’exister. [...] La fonction du « texte second » consiste à donner à lire le « texte premier », sa signification (la connotation) nous renvoie à l’idéologie littéraire et textuelle d’une époque donnée. Les signifiés de connotation sont les effets de légitimité textuelle liés aux usages qui se sont constitués au fil de l’histoire.
+
+<!-- .element: style="font-size:1.8rem" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/proust.png" data-background-size="contain" -->
+
+### Énonciation éditoriale et fabrique de l'autorité
+* Imaginaire médiatique (autorité du media, effets qualitatif)
+* Paratexte (Gérard Genette: discours entourant le texte)
+* Influence institutionnelle (label éditorial, notoriété, etc.)
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/proust.png" data-background-size="contain" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/typingsmall.png" data-background-size="contain" -->
+
+## Énonciation éditoriale en contexte numérique
+* De l'imprimé à l'écran : quelles nouvelles formes de légitimation?
+* Une désintermédiation ou une réintermédiation ?
+* Une rupture sémiotique ?
+
+===
+>pour la première fois de l’histoire de l’écriture, l’homme a recours à un dispositif intermédiaire situé entre sa pratique et ses supports d’écriture et de mémoire. Sans cet « outil d’écriture écrit » (que j’appelle, en me démarquant de Genette, un « architexte »), je ne peux pas écrire à l’écran. Or, il faut bien comprendre qu’un architexte est un outil dédié, « linéarisé », écrit, syntaxisé. C’est un outil intellectuel et technique, une « technologie de l’intellect » au sens où l’entend Jack Goody. L’architexte porte en lui une représentation de la communication écrite et il impose cette représentation à celui qui l’utilise. Deux autres particularités caractérisent l’écrit d’écran. La nécessité de posséder un dispositif technique (un ordinateur) et celle d’avoir accès à une source d’énergie. Sans énergie, sans ordinateur et sans architexte, il est impossible d’écrire sur un écran. Ce sont là les conditions de possibilité déterminant ce que Milad Doueihi a justement appelé la « culture numérique ». La « rupture sémiotique » à proprement parler se situe entre les couches sémiotiques et techniques de l’écriture numérique. Il y a une scission entre l’espace de la pratique, celui de la lecture et de l’écriture et celui de la « matière mémoire » où l’information est enregistrée (disque dur, clé USB, etc.). Pour la première fois de son histoire, l’homme a scindé le signe d’écriture de sa mémoire inscrite.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/wattpad.png" data-background-size="contain" -->
+
+### À quoi pense-t-on quand on écrit à l'ordinateur ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/wattpad.png" data-background-size="contain" -->
+
+### Quels outils ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/google.png" data-background-size="contain" -->
+
+### Quelle structuration des contenus / quelle autorité ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/wiki.png" data-background-size="contain" -->
+
+### Quelles sociabilités ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/1971-1976-poche-folio.gif" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Conclusion
+Le concept d’énonciation éditoriale a été théorisé par Emmanüel Souchier. Il "renvoie à l’élaboration plurielle de l’objet textuel. Il annonce une théorie de l’énonciation polyphonique du texte produite ou proférée par toute instance susceptible d’intervenir dans la conception, la réalisation ou la production du livre, et plus généralement de l’écrit." En ce sens, l'énonciation éditoriale est ce qui, en littérature notamment, participe plus que tout autre instance à la fabrique de l'autorité. Elle est d'autant plus efficace qu'elle est elle-même peu étudiée, s'étant largement sécularisée (rendue transparente). À l'époque du numérique, la remédiation des instances éditoriales façonne de nouvelles formes d'énonciation éditoriale.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
