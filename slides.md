@@ -1522,14 +1522,17 @@ Le concept d’auteur est polymorphe et n'a rien d'absolu. Comme catégorie du d
 <!-- .slide: data-background-image="img/nuage-de-motsAuteur.png" data-background-size="contain" -->
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/1971-1976-poche-folio.gif" data-background-size="contain" -->
 
 ## Transmettre. L’énonciation éditoriale
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/gallimard.jpg" data-background-size="contain" -->
 
-### Introduction : au premier coup d'oeil...
+### Introduction : le texte au premier coup d'oeil...
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/gallimard.jpg" data-background-size="contain" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/couv_us-france.jpg" data-background-size="contain" -->
@@ -1578,8 +1581,17 @@ L'énonciation éditoriale, théorisée par Emmanüel Souchier, est une approche
 
 ### Le concept d'énonciation éditoriale (Emmanüel Souchier)
 * Énonciation : concept linguistique ("acte individuel d’utilisation de la langue") élargi pour appréhender différents champs sémiotiques : fabrique polyphonique/collective des produits culturels.
+
+<!-- .element: style="font-size:1.8rem" -->
+
 * Édition : production, circulation et légitimation des textes. Implique des personnes dépositaires d'un savoir-faire et d'une autorité légale, des techniques et des media (soumis eux-mêmes à des discours, des connotations), des usages et des pratiques.
+
+<!-- .element: style="font-size:1.8rem" -->
+
 * Éditer = trans-former, "terme qui se comprend à la fois comme une élaboration, une médiation et un changement" (Souchier)
+
+<!-- .element: style="font-size:1.8rem" -->
+
 
 ===
 >L’énonciation éditoriale présente deux caractéristiques essentielles. La première concerne la pluralité des instances d’énonciation intervenant dans la constitution du texte ; la seconde, le fait que les marques d’énonciation éditoriale disparaissent derrière la banalité quotidienne
@@ -1639,12 +1651,14 @@ Intermédiation : le texte d'un écrivain nous parvient par le concours d'une s�
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/proust.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
 
 ### Énonciation éditoriale et états du texte
 Un livre, concrètement, offre "un état d’un texte à une époque donnée". "Cet état qui a pu textuellement changer au fil de l’histoire, changera encore dans les années à venir tant du point de vue matériel et visuel que du point de vue de son discours d’accompagnement." (Souchier)
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/proust.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
 
 ### Texte premier, texte second
 >Si je reprends analogiquement le décalage sémiologique pratiqué par Roland Barthes je peux définir l’énonciation éditoriale comme un « texte second » dont le signifiant n’est pas constitué par les mots de la langue, mais par la matérialité du support et de l’écriture, l’organisation du texte, sa mise en forme, bref par tout ce qui en fait l’existence matérielle. Ce «signifiant» constitue et réalise le « texte premier », il lui permet d’exister. [...] La fonction du « texte second » consiste à donner à lire le « texte premier », sa signification (la connotation) nous renvoie à l’idéologie littéraire et textuelle d’une époque donnée. Les signifiés de connotation sont les effets de légitimité textuelle liés aux usages qui se sont constitués au fil de l’histoire.
@@ -1664,6 +1678,7 @@ Un livre, concrètement, offre "un état d’un texte à une époque donnée". "
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/typingsmall.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
 
 ## Énonciation éditoriale en contexte numérique
 * De l'imprimé à l'écran : quelles nouvelles formes de légitimation?
@@ -1682,16 +1697,25 @@ Un livre, concrètement, offre "un état d’un texte à une époque donnée". "
 <!-- .slide: data-background-image="img/wattpad.png" data-background-size="contain" -->
 
 ### Quels outils ?
+* Quelles littératie ?
+* Qui fabrique (à quel coût) nos outils ?
+* Quelles altermatives ?
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/google.png" data-background-size="contain" -->
 
 ### Quelle structuration des contenus / quelle autorité ?
+* Comment fonctionne un algorithme ?
+* Qui décide de la structuration des contenus ?
+* Qui valide les contenus ?
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/wiki.png" data-background-size="contain" -->
 
 ### Quelles sociabilités ?
+* Qui sont les acteurs (auteurs, lecteurs, éditeurs) des contenus en ligne ?
+* Comment s'organiser les hiérarchies sociales en ligne ?
+* Comment consomme-t-on les produits culturels ?
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/1971-1976-poche-folio.gif" data-background-size="contain" -->
@@ -1699,6 +1723,9 @@ Un livre, concrètement, offre "un état d’un texte à une époque donnée". "
 
 ### Conclusion
 Le concept d’énonciation éditoriale a été théorisé par Emmanüel Souchier. Il "renvoie à l’élaboration plurielle de l’objet textuel. Il annonce une théorie de l’énonciation polyphonique du texte produite ou proférée par toute instance susceptible d’intervenir dans la conception, la réalisation ou la production du livre, et plus généralement de l’écrit." En ce sens, l'énonciation éditoriale est ce qui, en littérature notamment, participe plus que tout autre instance à la fabrique de l'autorité. Elle est d'autant plus efficace qu'elle est elle-même peu étudiée, s'étant largement sécularisée (rendue transparente). À l'époque du numérique, la remédiation des instances éditoriales façonne de nouvelles formes d'énonciation éditoriale.
+
+<!-- .slide: class="hover"-->
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
