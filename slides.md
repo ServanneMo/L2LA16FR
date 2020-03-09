@@ -1639,6 +1639,10 @@ Intermédiation : le texte d'un écrivain nous parvient par le concours d'une s�
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/j-irai-cracher.gif" data-background-size="contain" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/j-irai-cracher.gif" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 >Il convient donc de considérer le texte à travers sa matérialité (couverture, format, papier...), sa mise en page, sa typographie ou son illustration, ses marques éditoriales variées (auteur, titre ou éditeur), sans parler des marques légales et marchandes (ISBN, prix ou copyright)..., bref à travers tous ces éléments observables qui, non contents d’accompagner le texte, le font exister. Ces marques visuelles qui permettent de décrire l’ouvrage ont été mises en œuvre par les acteurs de l’édition. Élaborées par des générations de praticiens dont le métier consistait à « donner à lire », elles sont la trace historique de pratiques, règles et coutumes. (Souchier)
@@ -1667,6 +1671,7 @@ Un livre, concrètement, offre "un état d’un texte à une époque donnée". "
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/proust.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
 
 ### Énonciation éditoriale et fabrique de l'autorité
 * Imaginaire médiatique (autorité du media, effets qualitatif)
@@ -1695,6 +1700,7 @@ Un livre, concrètement, offre "un état d’un texte à une époque donnée". "
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/wattpad.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
 
 ### Quels outils ?
 * Quelles littératie ?
@@ -1703,6 +1709,7 @@ Un livre, concrètement, offre "un état d’un texte à une époque donnée". "
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/google.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
 
 ### Quelle structuration des contenus / quelle autorité ?
 * Comment fonctionne un algorithme ?
@@ -1711,6 +1718,7 @@ Un livre, concrètement, offre "un état d’un texte à une époque donnée". "
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/wiki.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
 
 ### Quelles sociabilités ?
 * Qui sont les acteurs (auteurs, lecteurs, éditeurs) des contenus en ligne ?
@@ -1724,8 +1732,7 @@ Un livre, concrètement, offre "un état d’un texte à une époque donnée". "
 ### Conclusion
 Le concept d’énonciation éditoriale a été théorisé par Emmanüel Souchier. Il "renvoie à l’élaboration plurielle de l’objet textuel. Il annonce une théorie de l’énonciation polyphonique du texte produite ou proférée par toute instance susceptible d’intervenir dans la conception, la réalisation ou la production du livre, et plus généralement de l’écrit." En ce sens, l'énonciation éditoriale est ce qui, en littérature notamment, participe plus que tout autre instance à la fabrique de l'autorité. Elle est d'autant plus efficace qu'elle est elle-même peu étudiée, s'étant largement sécularisée (rendue transparente). À l'époque du numérique, la remédiation des instances éditoriales façonne de nouvelles formes d'énonciation éditoriale.
 
-<!-- .slide: class="hover"-->
-
+<!-- .element: style="font-size:1.8rem" -->
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
