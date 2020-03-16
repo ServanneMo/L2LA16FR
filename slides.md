@@ -1705,7 +1705,7 @@ Un livre, concrètement, offre "un état d’un texte à une époque donnée". "
 ### Quels outils ?
 * Quelles littératie ?
 * Qui fabrique (à quel coût) nos outils ?
-* Quelles altermatives ?
+* Quelles alternatives ?
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/google.png" data-background-size="contain" -->
@@ -1722,7 +1722,7 @@ Un livre, concrètement, offre "un état d’un texte à une époque donnée". "
 
 ### Quelles sociabilités ?
 * Qui sont les acteurs (auteurs, lecteurs, éditeurs) des contenus en ligne ?
-* Comment s'organiser les hiérarchies sociales en ligne ?
+* Comment s'organisent les hiérarchies sociales en ligne ?
 * Comment consomme-t-on les produits culturels ?
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
