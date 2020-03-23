@@ -1847,10 +1847,10 @@ Le médium échappe à notre regard, il se fait faussement transparent, car nous
 Or c'est bien le médium qui devrait retenir notre attention, et plus particulièrement les « changements d’échelle » qu'il présuppose, lesquels ne sont pas toujours perçus dans l’immédiat, mais qui entraîne, ou accompagne, une série de bouleversement d’ordre culturel - des changements de paradigmes.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/autostrada.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/Autoroute_québécoise.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
->Le chemin de fer n'a pas apporté le mouvement, le transport, la roue ni la route aux hommes, mais il a accéléré et amplifié l'échelle des fonctions humaines existantes, créé de nouvelles formes de villes et de nouveaux modes de travail et de loisir. Et cela s’est produit partout ou le chemin de fer a existé, que ce soit dans un milieu tropical ou polaire, indifféremment des marchandises qu’il transportait, c’est-à-dire indifféremment du contenu du médium « chemin de fer ». L’avion, lui, en accélérant le rythme du transport, tend à dissoudre la forme « ferroviaire » de la ville, de la politique et de la société, et ce, indifféremment de l’usage qui en est fait.
+>Le chemin de fer n'a pas apporté le mouvement, le transport, la roue ni la route aux hommes, mais il a accéléré et amplifié l'échelle des fonctions humaines existantes, créé de nouvelles formes de villes et de nouveaux modes de travail et de loisir. Et cela s’est produit partout où le chemin de fer a existé, que ce soit dans un milieu tropical ou polaire, indifféremment des marchandises qu’il transportait, c’est-à-dire indifféremment du contenu du médium « chemin de fer ». L’avion, lui, en accélérant le rythme du transport, tend à dissoudre la forme « ferroviaire » de la ville, de la politique et de la société, et ce, indifféremment de l’usage qui en est fait.
 
 >Marshall McLuhan, Pour comprendre les médias
 
@@ -1863,7 +1863,7 @@ Exemple de McLuhan : le cas des transports, qui sont des medias au sens strict :
 Évolution des moyens de transport : aller toujours de plus en plus vite, d'un point A à un point B : la vitesse, la valeur de notre temps, est le véritable message de ces medias.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/autostrada.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/Autoroute_québécoise.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 >Car tous les média ont ce pouvoir d'imposer à quiconque n'est pas sur ses gardes les postulats sur lesquels ils reposent. L'art de dominer et de prédire consiste à éviter cet état inconscient de transe narcissique.
@@ -1896,7 +1896,7 @@ L’écrit, l’imprimé, la photographie sont des exemples de media faisant par
 On voit au contraire que les nouveaux media numérique font l'objet d'une méfiance accrue, en raison des torts qu'ils pourraient nous causer, notamment sur un plan social ou cognitif.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/autostrada.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/Autoroute_québécoise.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ## Exemple : le non-lieu autoroutier
@@ -1925,7 +1925,7 @@ les enjeux politiques de la construction spatiale.
 <!-- .slide: data-background-image="img/cortazarcaroldunlop-8a320.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
->Avec ma femme, Carol Dunlop, également écrivain, nous envisageons une ‘expédition’ un peu folle et pas mal surréaliste, qui consisterait à parcourir l’autoroute à entre Paris et Marseille à bord de notre Volkswagen Combi, équipée de tout le nécessaire, en nous arrêtant sur les 65 parkings de l’autoroute à raison de deux par jour, c’est-à-dire en mettant un peu plus d’un mois pour faire le trajet Paris-Marseille, sans quitter jamais l’autorouteé (Julio Cortazar à la Société autoroutière)
+>Avec ma femme, Carol Dunlop, également écrivain, nous envisageons une ‘expédition’ un peu folle et pas mal surréaliste, qui consisterait à parcourir l’autoroute à entre Paris et Marseille à bord de notre Volkswagen Combi, équipée de tout le nécessaire, en nous arrêtant sur les 65 parkings de l’autoroute à raison de deux par jour, c’est-à-dire en mettant un peu plus d’un mois pour faire le trajet Paris-Marseille, sans quitter jamais l’autoroute. (Julio Cortazar à la Société autoroutière)
 
 <!-- .element: style="font-size:1.5rem; text-align:justify" -->
 
@@ -2162,11 +2162,10 @@ Désireux de permettre à chacun de s’exprimer sur ce qu’il veut, comme il l
 <!-- .slide: class="hover"-->
 
 ## Conclusion
+Pour comprendre l'autorité médiatique, il est important de bien distinguer la médiation du contenu médié, et d'identifier le message du media, c'est-à-dire les valeurs qu'il sous-tend (et nous demande d'admettre à notre tour). L'autorité des media est ainsi d'autant plus difficiles à identifier et à remettre en question que des effets de sécularisation rendent les médiations rapidement transparentes. Évidemment, tout média finit par conférer à ce qu'il médie une forme d'autorité qui va influencer notre représentation du monde, mais aussi notre réception des contenus : un livre paraît ainsi, encore aujourd'hui, plus "sérieux" qu'un programme télévisé. 
 
 ===
-il y a la médiation, ensuite, le contenu médié. Vous pouvez mettre en doute le contenu médié (être en désaccord avec ce qui est dit, présenté), mais la plupart des gens ne font que trop rarement la médiation en elle-même, comme construction culturelle, institutionnelle, sociale et technique.
 
-Évidemment, il n'en reste pas moins que le média donne à ce qu'il médie une forme d'autorité qui va influencer notre représentation du monde.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
