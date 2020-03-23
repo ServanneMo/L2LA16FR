@@ -1735,12 +1735,13 @@ Le concept d’énonciation éditoriale a été théorisé par Emmanüel Souchie
 <!-- .element: style="font-size:1.8rem" -->
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/By_any_media_necessary.jpg" data-background-size="contain" -->
 
 
 ## Détourner. L’autorité médiatique
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/simpsons.jpeg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/By_any_media_necessary.jpg" data-background-size="contain" -->
 
 ### Introduction : l'autorité invisible des media
 
@@ -1768,6 +1769,7 @@ En revanche, seriez vous prêts à écorner vos livres, les annoter ou, "pire", 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/mer.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
 
 ## Problématique
 Comment reconnaître l'autorité des media et, surtout, comment la détourner lorsqu'elle présuppose des valeurs auxquelles nous ne souhaitons pas adhérer ? Comment lutter contre les injonctions médiatiques ?
@@ -1845,7 +1847,7 @@ Le médium échappe à notre regard, il se fait faussement transparent, car nous
 Or c'est bien le médium qui devrait retenir notre attention, et plus particulièrement les « changements d’échelle » qu'il présuppose, lesquels ne sont pas toujours perçus dans l’immédiat, mais qui entraîne, ou accompagne, une série de bouleversement d’ordre culturel - des changements de paradigmes.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/autostrada.jpeg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/autostrada.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 >Le chemin de fer n'a pas apporté le mouvement, le transport, la roue ni la route aux hommes, mais il a accéléré et amplifié l'échelle des fonctions humaines existantes, créé de nouvelles formes de villes et de nouveaux modes de travail et de loisir. Et cela s’est produit partout ou le chemin de fer a existé, que ce soit dans un milieu tropical ou polaire, indifféremment des marchandises qu’il transportait, c’est-à-dire indifféremment du contenu du médium « chemin de fer ». L’avion, lui, en accélérant le rythme du transport, tend à dissoudre la forme « ferroviaire » de la ville, de la politique et de la société, et ce, indifféremment de l’usage qui en est fait.
@@ -1861,7 +1863,7 @@ Exemple de McLuhan : le cas des transports, qui sont des medias au sens strict :
 Évolution des moyens de transport : aller toujours de plus en plus vite, d'un point A à un point B : la vitesse, la valeur de notre temps, est le véritable message de ces medias.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/autostrada.jpeg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/autostrada.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 >Car tous les média ont ce pouvoir d'imposer à quiconque n'est pas sur ses gardes les postulats sur lesquels ils reposent. L'art de dominer et de prédire consiste à éviter cet état inconscient de transe narcissique.
@@ -1882,7 +1884,7 @@ Et, à plus forte raison, l'autorité des media repose sur une certaine injoncti
 <!-- .slide: class="hover"-->
 
 ### Autorité médiatique et sécularisation des media
-* Une influence culturelles (ex : l'écrit sacralisé dans les cultures occidentales)
+* Une influence culturelle (ex : l'écrit sacralisé dans les cultures occidentales)
 * Un imaginaire médiatique (ex : la photo, "empreinte de la lumière" grâce à la photochimie)
 * Un effacement du cadre médiatique / effet d'immédiateté (ex : une visioconférence où l'on a l'impression que notre appareil ouvre une "fenêtre" sur le monde)
 
@@ -1894,7 +1896,7 @@ L’écrit, l’imprimé, la photographie sont des exemples de media faisant par
 On voit au contraire que les nouveaux media numérique font l'objet d'une méfiance accrue, en raison des torts qu'ils pourraient nous causer, notamment sur un plan social ou cognitif.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/autostrada.jpeg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/autostrada.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ## Exemple : le non-lieu autoroutier
@@ -1912,9 +1914,6 @@ marchandises et des personnes.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/Les_Autonautes_de_la_cosmoroute.jpg" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
-
-
 
 ===
 
@@ -1959,6 +1958,8 @@ la démonstration de la singularité de ces non-lieux pourtant définis comme in
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/fanfer.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
 
 ## Les autonautes : le voyage infini
 
@@ -1973,7 +1974,7 @@ On comprend lentement que ce voyage Paris-Marseille en fait est un adieu au mond
 « Tout comme je lui dois le meilleur de mes dernières années, je lui dois de finir seul ce récit. Je sais bien Oursine, que tu aurais fait la même chose si c’était moi qui avais dû partir le premier et je sais que ta main écrit, unie à la mienne, ces derniers mots où la douleur n’est pas, ne sera jamais plus forte que la vie que tu m’as appris à vivre, comme nous sommes peut-être arrivés à le montrer dans cette aventure qui parvient ici à son terme mais qui continue, continue dans notre Dragon, continue à jamais sur notre autoroute. »
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/postcardsvalla-35d9b.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/fanfer.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 
