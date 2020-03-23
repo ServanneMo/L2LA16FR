@@ -1792,7 +1792,7 @@ L'autorité des media réside moins dans le contenu qu'ils véhiculent que dans 
 Là où l'autorité des media se fait probablement la plus prégnante et en même temps invisible, c'est dans leur message au sens de McLuhan, soit plus précisément leur fonction, leur utilité, les valeurs culturelles qu'ils portent en eux. Petit rappel / ou petite introduction à McLuhan
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/mcluhan.jpeg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/mer.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover" -->
 
 ## McLuhan : l'école de Toronto, une origine fondamentale de l'info-com
@@ -2162,7 +2162,10 @@ Désireux de permettre à chacun de s’exprimer sur ce qu’il veut, comme il l
 <!-- .slide: class="hover"-->
 
 ## Conclusion
-Pour comprendre l'autorité médiatique, il est important de bien distinguer la médiation du contenu médié, et d'identifier le message du media, c'est-à-dire les valeurs qu'il sous-tend (et nous demande d'admettre à notre tour). L'autorité des media est ainsi d'autant plus difficiles à identifier et à remettre en question que des effets de sécularisation rendent les médiations rapidement transparentes. Évidemment, tout média finit par conférer à ce qu'il médie une forme d'autorité qui va influencer notre représentation du monde, mais aussi notre réception des contenus : un livre paraît ainsi, encore aujourd'hui, plus "sérieux" qu'un programme télévisé. 
+Pour comprendre l'autorité médiatique, il est important de bien distinguer la médiation du contenu médié, et d'identifier le message du media, c'est-à-dire les valeurs qu'il sous-tend (et nous demande d'admettre à notre tour). L'autorité des media est ainsi d'autant plus difficiles à identifier et à remettre en question que des effets de sécularisation rendent les médiations rapidement transparentes. Évidemment, tout média finit par conférer à ce qu'il médie une forme d'autorité qui va influencer notre représentation du monde, mais aussi notre réception des contenus : un livre paraît ainsi, encore aujourd'hui, plus "sérieux" qu'un programme télévisé.
+
+<!-- .element: style="font-size:1.8rem; text-align:justify" -->
+
 
 ===
 
