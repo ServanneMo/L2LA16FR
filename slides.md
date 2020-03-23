@@ -1740,7 +1740,7 @@ Le concept d’énonciation éditoriale a été théorisé par Emmanüel Souchie
 ## Détourner. L’autorité médiatique
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/fanfer.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/simpsons.jpeg" data-background-size="contain" -->
 
 ### Introduction : l'autorité invisible des media
 
@@ -1754,20 +1754,20 @@ Alors, vous me direz : oui, évidemment ! vous êtes habitués à vous méfier d
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/fanfer.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/1971-1976-poche-folio.gif" data-background-size="contain" -->
 
 ===
 Prenons un autre exemple : le livre. La semaine dernière, rien qu'en regardant les couvertures des ouvrages, nous avons mis en évidence l'existence d'une hiérarchie implicite, latente, construite par les différents éditeurs, les choix de couverture, la qualité du papier, etc. Il s'agit là de marques relevant de l'énonciation éditoriale.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/fanfer.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/mer.jpg" data-background-size="contain" -->
 
 ===
 
 En revanche, seriez vous prêts à écorner vos livres, les annoter ou, "pire", les caviarder comme nous vous le proposons dans l'activité de TD qui accompagne ce CM ?? Pas si sûr ! Comment interprétez-vous ces actions qui consistent à brûler les livres : les autodafés, qui sont avant tout le fait des fascistes ?? On dira, plutôt, qu'il s'agit ici de d'attaquer ou de tuer la culture, la pensée, l'intelligence. On touche ici à la véritable autorité du media : ce que le media, en tant que tel, présuppose comme valeurs, fonctions. En d'autres termes, le véritable message du media.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/postcardsvalla-35d9b.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/mer.jpg" data-background-size="contain" -->
 
 ## Problématique
 Comment reconnaître l'autorité des media et, surtout, comment la détourner lorsqu'elle présuppose des valeurs auxquelles nous ne souhaitons pas adhérer ? Comment lutter contre les injonctions médiatiques ?
@@ -1780,7 +1780,7 @@ Le raisonnement que je tente d'établir ici fonctionne en deux temps : d'abord, 
 Ensuite, nous reviendrons sur les différentes façon dont les artistes, mais aussi les amateurs, ont oeuvré depuis la seconde moitié du XXe siècle à contrer les effets d'autorité de nos media.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/postcardsvalla-35d9b.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/mer.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ### L'autorité des media : du contenu au *message* (au sens de McLuhan)
@@ -1806,7 +1806,7 @@ Qui était McLuhan ?
 Marshall McLuhan (1911-1980), ancien professeur de littérature anglaise à l’Université de Toronto, se fait connaître dans les années 60 avec sa théorie sur les médias qui auraient un effet majeur sur notre quotidien, notre culture, les modes et les façons de penser.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/postcardsvalla-35d9b.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/mer.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ### "Le medium, c'est le message"
@@ -1819,12 +1819,12 @@ Marshall McLuhan (1911-1980), ancien professeur de littérature anglaise à l’
 
 ===
 
-Revenons aux bases de la théorie des media selon McLuhan: la thèse du théoricien tient en une phrase, le Medium c'est le message. « Le Médium c’est le message » est le premier chapitre du livre Understanding media, qui est un ouvrage de référence.
+Revenons aux bases de la théorie des media selon McLuhan: la grande thèse du théoricien tient en une phrase, le Medium c'est le message. « Le Médium c’est le message » est le premier chapitre du livre Understanding media, qui est un ouvrage de référence.
 
 Pour McLuhan, le véritable message du medium n'est pas le contenu qu'il transporte, qu'il accueille, mais les valeurs associées aux mutations culturelles, sociales, psychologiques et nous pourrions même ajouter cognitives ou épigénétiques, que ce media suppose. C'est ce que McLuhan va aussi appeler : le changement d'échelle.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/mondot2.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/mer.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover" -->
 
 ### Medium vs contenu : ce que représentent "vraiment" les media
@@ -1845,7 +1845,7 @@ Le médium échappe à notre regard, il se fait faussement transparent, car nous
 Or c'est bien le médium qui devrait retenir notre attention, et plus particulièrement les « changements d’échelle » qu'il présuppose, lesquels ne sont pas toujours perçus dans l’immédiat, mais qui entraîne, ou accompagne, une série de bouleversement d’ordre culturel - des changements de paradigmes.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/postcardsvalla-35d9b.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/autostrada.jpeg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 >Le chemin de fer n'a pas apporté le mouvement, le transport, la roue ni la route aux hommes, mais il a accéléré et amplifié l'échelle des fonctions humaines existantes, créé de nouvelles formes de villes et de nouveaux modes de travail et de loisir. Et cela s’est produit partout ou le chemin de fer a existé, que ce soit dans un milieu tropical ou polaire, indifféremment des marchandises qu’il transportait, c’est-à-dire indifféremment du contenu du médium « chemin de fer ». L’avion, lui, en accélérant le rythme du transport, tend à dissoudre la forme « ferroviaire » de la ville, de la politique et de la société, et ce, indifféremment de l’usage qui en est fait.
@@ -1861,7 +1861,7 @@ Exemple de McLuhan : le cas des transports, qui sont des medias au sens strict :
 Évolution des moyens de transport : aller toujours de plus en plus vite, d'un point A à un point B : la vitesse, la valeur de notre temps, est le véritable message de ces medias.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/postcardsvalla-35d9b.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/autostrada.jpeg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 >Car tous les média ont ce pouvoir d'imposer à quiconque n'est pas sur ses gardes les postulats sur lesquels ils reposent. L'art de dominer et de prédire consiste à éviter cet état inconscient de transe narcissique.
@@ -1873,11 +1873,15 @@ Exemple de McLuhan : le cas des transports, qui sont des medias au sens strict :
 ===
 Or c'est là que réside l'autorité du media : dans ce message, ces valeurs sous-tendues mais trop peu reconnues.
 
+CITER
+
+Et, à plus forte raison, l'autorité des media repose sur une certaine injonction utilitariste : à bien y réfléchir, il faut toujours que le media permette à un usager d'être "Plus efficace", d'améliorer ou d'augmenter des capacités, des compétences.
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/postcardsvalla-35d9b.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/00-genealogie-livres-francais1-1.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
-### Autorité médiatique et sécularisation
+### Autorité médiatique et sécularisation des media
 * Une influence culturelles (ex : l'écrit sacralisé dans les cultures occidentales)
 * Un imaginaire médiatique (ex : la photo, "empreinte de la lumière" grâce à la photochimie)
 * Un effacement du cadre médiatique / effet d'immédiateté (ex : une visioconférence où l'on a l'impression que notre appareil ouvre une "fenêtre" sur le monde)
@@ -1889,27 +1893,22 @@ L’écrit, l’imprimé, la photographie sont des exemples de media faisant par
 
 On voit au contraire que les nouveaux media numérique font l'objet d'une méfiance accrue, en raison des torts qu'ils pourraient nous causer, notamment sur un plan social ou cognitif.
 
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/postcardsvalla-35d9b.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/autostrada.jpeg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
-## Le non-lieu autoroutier
+## Exemple : le non-lieu autoroutier
 * L'autoroute : un espace traversable, non-habitable
 * Une infrastructure aux valeurs capitalistes (circulation rapide des marchandises et des personnes)
 
 
 ===
 
+Exemple de la route : media, ce qui relie ce qui est "entre"
+
 Pendant la deuxième moitié du XXe siècle par exemple, la construction massive
 d'autoroutes a illustré la volonté de produire un espace traversable, où pouvaient passer rapidement des
 marchandises et des personnes.
-
-
-Exemple de la route : media, ce qui relie ce qui est "entre"
-
-Julio Cortazar et Dunlop
-
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/Les_Autonautes_de_la_cosmoroute.jpg" data-background-size="contain" -->
@@ -1986,6 +1985,15 @@ On comprend lentement que ce voyage Paris-Marseille en fait est un adieu au mond
 
 ===
 
+L'exemple de Cortazar et Dunlop est rassurant : nous pouvons détourner les media, et questionner leur autorité et leur système de valeur. La problématique de l'autorité médiatique se déplace donc désormais quelque peu : pour exercer notre esprit critique, il convient de se demander à présent :
+
+* À quoi servent les media ? Doivent-ils être forcément utiles ?
+* Quelles sont les valeurs symboliques des [nouveaux] media ?
+* Peut-on infiltrer et détourner un media ?
+* Peut-on changer le sens d'un media ?
+
+Petit tour d'horizon du phénomène
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/situationnisme.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
@@ -1997,9 +2005,10 @@ On comprend lentement que ce voyage Paris-Marseille en fait est un adieu au mond
 
 ===
 
-La Société du spectacle est essentiellement une critique radicale de la marchandise et de sa domination sur la vie, que l'auteur voit dans la forme particulière de l'« aliénation » de la société de consommation. Le concept de spectacle se réfère à un mode de reproduction de la société fondé sur la reproduction des marchandises, toujours plus nombreuses et toujours plus semblables dans leur variété. Debord prône une mise en acte de la conscience qu'on a de sa propre vie, envers une illusoire pseudo-vie que nous impose la société capitaliste, particulièrement depuis l'après-guerre.
+Le mouvement Situationniste, dans les années 1960, constitue un précédent important. Porté notamment par Guy Debord, Ce mouvement, très politisé (influence communiste), anticapitaliste, se caractérise par une double réflexion théorique et poétique. Les situationnistes sont contre le "travail" (jugé aliénant et répondant aux injonctions capitalistes) et valorisent les valeurs d’innovation et de créativité.
 
-Aujourd'hui, l'usage du terme dépasse largement le nombre de lecteurs réels de l'ouvrage, que ce soit pour critiquer les médias, la "politique spectacle", le "sport spectacle" ou encore la "spectacularisation" des écrivains.
+*La Société du spectacle* est essentiellement une critique radicale de la marchandise et de sa domination sur la vie, que l'auteur voit dans la forme particulière de l'« aliénation » de la société de consommation. Le concept de spectacle se réfère à un mode de reproduction de la société fondé sur la reproduction des marchandises, toujours plus nombreuses et toujours plus semblables dans leur variété.
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/téléchargement.jpeg" data-background-size="contain" -->
@@ -2019,7 +2028,7 @@ Le culture jamming, que l'on peut traduire en français par sabotage culturel ou
 Le sabotage culturel peut prendre des formes très variées : détournement publicitaire, canular médiatique, détournement de nom de domaine, bombardement Google, remix, mashup vidéo, hacking, slashing, piratages radios et télévisés, contre-surveillance vidéo.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-video="img/yesMan.mp4" data-background-size="contain" -->
+<!-- .slide: data-background-video="img/videoplayback.mp4" data-background-size="contain" -->
 
 
 ===
@@ -2054,7 +2063,7 @@ La communication alternative a pour essentiel but et caractéristique de permett
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/devTrays.png" -->
+<!-- .slide: data-background-image="img/mer.jpg" -->
 <!-- .slide: class="hover"-->
 
 ### La théorie des *tactical media*
@@ -2084,6 +2093,10 @@ Les médias tactiques semblent éclore au moment où des individus, se sentant o
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/By_any_media_necessary.jpg" data-background-size="contain" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/By_any_media_necessary.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ### Une pratique grand public
@@ -2094,29 +2107,9 @@ Les médias tactiques semblent éclore au moment où des individus, se sentant o
 
 ===
 
+>Les consommateurs utilisent les textes et les objets qui nous entourent de manière tactique et de façon beaucoup plus créative et rebelle qu'on ne l'avait imaginé auparavant.
+
 A leur création, les médias domestiques ne devaient pas être utilisés dans ce but « subversif ». Mais ce sont les utilisateurs « lambda » qui, en se réappropriant ces médias, en ont modifié l’usage. Par là, les usagers ont fait preuve de sens tactique. Pour expliquer ce phénomène, les auteurs de l’article font référence à la notion développée par De Certeau de « pratique de la ruse ». En effet, De Certeau voyait déjà que le consommateur s’accommodait avec les outils et les normes qu’on lui proposait pour créer de nouvelles choses. En détournant ces médias domestiques les usagers deviennent des créateurs. Ces nouveaux médias se placent alors en alternative face aux médias classiques et aux idéologies qu’ils véhiculent. C’est en cela qu’on appelle ces médias les « médias tactiques ».
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/By_any_media_necessary.jpg" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
-
-### Tactical media : une esthétique et une éthique
->A distinctive tactical ethic and aesthetic that has emerged, which is
-culturally influential from MTV through to recent video work made by
-artists. It began as a quick and dirty aesthetic although it is just
-another style it (at least in its camcorder form) has come to symbolize
-a verite for the 90's.
-
->Tactical media are media of crisis, criticism and opposition.
-
-<!-- .element: style="font-size:1.5rem; text-align:justify" -->
-
-
-source image : Corinne Vionnet, *Photo Opportunities*, 2005-ongoing.
-
-<!-- .element: class="source" -->
-
-===
 
 Garcia et Geert montrent aussi que ces nouvelles utilisations des médias domestiques ont permis la création d’une éthique et d’une esthétique particulières. La représentation de la vérité est à l’honneur dans les médias tactiques. Les utilisateurs contestent la vérité proposée par les médias dominants et cherchent à faire connaître leur vérité. Ainsi, une esthétique de l’image rapide et brute s’est développée. Les nouveaux utilisateurs-créateurs privilégient les contenus vierges ; l’image doit s’exprimer par elle-même.
 
