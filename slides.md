@@ -2171,7 +2171,7 @@ Pour comprendre l'autorité médiatique, il est important de bien distinguer la 
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/mer.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/feat-courbet.jpg" data-background-size="contain" -->
 
 ## Censurer. Peut-on tout représenter ?
 
@@ -2187,7 +2187,6 @@ Affaire de l'Origine du Monde sur FB. En 2001, compte de Frédéric Durand-Baïs
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/LOrigine_du_monde.jpeg.jpeg" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
 
 ===
 
@@ -2213,7 +2212,7 @@ Question récurrente dans les salles de rédaction, dans l'opinion publique : fa
 Dans la question : faut-il ou non diffuser les images / les informations, le problème n'est pas tant la question de la diffusion/non-diffusion, mais bien celle des images et des informations.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/censureFB2.jpeg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/censureFB.jpeg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ### Des règles du "représentable" ?
@@ -2442,6 +2441,9 @@ De fait, il n’existe pas de statut ontologique pur d'une image. Comprendre une
 […]
 Ou bien on demande trop peu aux images : en les reléguant d’emblée dans la sphère du simulacre – chose difficile, il est vrai, dans le cas présent – on les exclu du champ historique comme tel. En les reléguant d’emblée dans la sphère du document, on les coupe de toute leur phénoménologie, de leur spécificité, de leur substance même.
 
+<!-- .element: style="font-size:1.8rem" -->
+
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/magritte.jpeg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
@@ -2462,8 +2464,7 @@ Sémiologie renvoie davantage à Saussure, à Barthes, à Metz et de façon plus
 Sémiotique renvoie à Peirce, Morris et plus généralement à une tradition anglo-saxone marquée par la logique.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/magritte.jpeg" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
+<!-- .slide: data-background-image="img/alphabetGrec.png" data-background-size="contain" -->
 
 
 ### Symbole
@@ -2473,7 +2474,6 @@ Les symboles sont les mots, les chiffres, etc... Une deuxième coupure les sépa
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/magritte.jpeg" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
 
 
 ### Indice
@@ -2491,7 +2491,6 @@ Cette dimension indicielle de la photo fait régulièrement l’objet de débats
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/magritte.jpeg" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
 
 ### Icône
 
@@ -2509,3 +2508,10 @@ Cette dimension iconique du photojournalisme alimente aussi l’éternel débat 
 
 ## Conclusion
 La question de l'irreprésentable recouvre bien des problématiques (ontologiques, éthiques, juridiques) complexes et difficiles à trancher. La perspective médiatique permet cependant de prendre un peu de recul sur des débats parfois houleux, et de déconstruire les raisons d'un malaise, d'un interdit, d'une condamnation, en mettant la lumière sur les conditions d'existence des images, des oeuvres d'art, des informations "sensibles". Les outils de la sémiotique, ainsi qu'une bonne connaissance de la théorie des media et de leur imaginaire, sont précieux pour nous aider à comprendre les raisons d'une censure, ou encore d'une communication maladroite. Face au défi de l'irreprésentable, de l'indicible, les artistes et les grands journalistes nous apprennent à ne pas céder au silence, à ne pas renoncer à la représentation, mais à inventer de nouvelles manières de révéler le réel.
+
+<!-- .element: style="font-size:1.8rem" -->
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+
+## Informer à l'ère de l'infobésité
