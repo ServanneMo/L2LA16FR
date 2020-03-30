@@ -2464,6 +2464,10 @@ Sémiologie renvoie davantage à Saussure, à Barthes, à Metz et de façon plus
 Sémiotique renvoie à Peirce, Morris et plus généralement à une tradition anglo-saxone marquée par la logique.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/peirce-triangle.jpg" data-background-size="contain" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/alphabetGrec.png" data-background-size="contain" -->
 
 
@@ -2473,7 +2477,7 @@ Sémiotique renvoie à Peirce, Morris et plus généralement à une tradition an
 Les symboles sont les mots, les chiffres, etc... Une deuxième coupure les sépare des icônes, la coupure sémiotique. Elle fait venir l'ordre, le code, l'arbitraire du signe, tout ce que veut dire logos : calcul, raison, langage, relation verbale, distinction, représentation, concept. Là commence le processus secondaire par opposition aux images (primaires)
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/magritte.jpeg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/StLouisNavire.JPEG" data-background-size="contain" -->
 
 
 ### Indice
@@ -2490,7 +2494,7 @@ Cette dimension indicielle de la photo fait régulièrement l’objet de débats
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/magritte.jpeg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/thumb_large.jpg" data-background-size="contain" -->
 
 ### Icône
 
@@ -2503,7 +2507,19 @@ En tant qu’icône, une photographie n’est non seulement jamais neutre, mais 
 Cette dimension iconique du photojournalisme alimente aussi l’éternel débat de la photographie documentaire : quelle est la frontière entre art et information ? Quelle déontologie du photographe dans son rapport à l’image ? Une photo constitue t-elle vraiment une preuve ? C’est une chose de croire en l’adage « je ne crois que ce que je vois », mais justement, que vois-je vraiment ? Que me montre la photographie, son photographe, et le journal qui m’informe ?
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/thumb_large.jpg" data-background-size="contain" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/15379243.jpg" data-background-size="contain" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/magritte.jpeg" data-background-size="contain" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/Piet_Mondriaan,_1921_-_Composition_en_rouge,_jaune,_bleu_et_noir.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ## Conclusion
