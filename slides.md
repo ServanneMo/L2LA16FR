@@ -2171,6 +2171,341 @@ Pour comprendre l'autorité médiatique, il est important de bien distinguer la 
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
+<!-- .slide: data-background-image="img/mer.jpg" data-background-size="contain" -->
 
 ## Censurer. Peut-on tout représenter ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/feat-courbet.jpg" data-background-size="contain" -->
+
+## Introduction : de l'irreprésentable ?
+
+===
+Affaire de l'Origine du Monde sur FB. En 2001, compte de Frédéric Durand-Baïssas supprimé parce qu'il a publié l'origine du Monde sur son profil.
+
+>Sept ans que ce professeur des écoles accusait Facebook d’avoir désactivé son compte personnel à cause d’une simple photo de tableau. Jeudi 15 mars, une faute du réseau social a finalement été reconnue par la justice, mais pas sur le fond de l’affaire. Le tribunal a jugé illicite une clause établie par Facebook, qui lui donnait le droit de désactiver le compte d’une personne sans nécessairement avoir à lui donner une justification.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/LOrigine_du_monde.jpeg.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+===
+
+Une oeuvre qui avait fait scandale à l'époque (XIXe sile), désormais reconnue, exposée dans les musées.
+Pourtant, sur FB, l'Origine du monde est régulièrement censurée.
+Les BOT (robot, une petite IA) chargés de modérer les contenus, s'échine à les supprimer et pénaliser les utilisateurs ayant diffusé l'image.
+
+Au contraire, le même réseau social est souvent critiqué pour sa lenteur à dénoncer des contenus hautement problématiques ou choquants.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/censureFB.jpeg" data-background-size="contain" -->
+
+### Modération : du laxisme ou censure ?
+
+===
+
+Question récurrente dans les salles de rédaction, dans l'opinion publique : faut-il montrer ou ne pas montrer des images ? Faut-il divulguer ou ne pas divulguer certaines informations ? Avec une double contrainte :
+
+1) pas d’images : censure / autocensure : on ne voit rien : choix qui a été fait pendant le 11 septembre de ne pas montrer les individus qui se sont jetés des tours. Indicible / irreprésentable.
+
+2) Trop d’images : surplus d’images, si bien que l’on y voit plus rien. Invisibilité / engloutissement des fait par une surproduction de représentation, une hypermédiatisation.
+
+Dans la question : faut-il ou non diffuser les images / les informations, le problème n'est pas tant la question de la diffusion/non-diffusion, mais bien celle des images et des informations.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/censureFB2.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Des règles du "représentable" ?
+L'algorithme vient modélisation de ce qui est publiable ou non
+  - quelles règles ou critères pour décider de ce qui est diffusable, représentable ou non ?
+  - qui régule ou modère ? Qui a l'autorité pour décider de ce qui entrerait dans ces critères
+  - qui contrôle ? Qui vérifie - quel est le pouvoir de l'usage ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/mer.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+## L'irreprésentable et l'indicible
+* Existe-t-il vraiment des choses qui ne peuvent être dites ou représentées, et si oui, au nom de quoi ?
+* Le problème est-il ontologique ou bien médiatique (et, par extension, légal, institutionnel, éthique, esthétique) ?
+
+===
+Cette question de la modération des contenus publiés nous amène en fait à questionner deux concepts propres à l'histoire de la philosophie, qui font leur réapparition de manière récurrente dans l'histoire des médias d'information : l'irreprésentable et l'indicible.
+
+Irreprésentable / Indicible :
+Par définition, irreprésentable ou indicible signifie « ce qui ne peut être dit, représenté ». Mais qu'est-ce qui fait qu'une chose est irreprésentable ? par rapport à quoi, à qui ? Les choses sont-elles irreprésentables en soit ? Ou bien, il n’existe pas encore de formes pour les représenter et/ou certaines formes seront moins aptes à représenter ces choses ?
+
+Pour le dire autrement : est-ce le réel qui, en soit, n'est pas représentable, ou bien est-ce que ce sont les formes médiatiques qui ne seraient pas capable de rendre compte du réel dans toute sa complexité et, par conséquent, ne pourraient que le trahir, le déformer ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/aylan.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Le critère ontologique 
+* Irreprésentable "par nature" ?
+* Le réel est-il connaissable ?
+* Inventer de nouvelles représentations
+
+===
+Certains événements, certains faits, seraient irreprésentables par nature : cela veut dire qu'ils seraient soit trop complexes, soit trop difficiles pour faire l’objet d’une figuration qui puisse en respecter l'intégrité.
+
+Le pb de cette idée, est qu'on présuppose une certaine inaccessibilité du réel, considéré comme un absolu. Le réel serait en fait innénarable, irreprésentable.  Finalement, on retrouve là une perspective très platonicienne, que l'on peut évidemment critiquer.
+
+Le réel, existe-t-il hors de nous, ou bien est-il d'abord une expérience - et dans ce cas, raconter notre expérience serait une représentation tout à fait valide ?
+
+L'idée n'est pas de trancher cette question philosophique, mais de reconnaître la multiplicité du réel. Souvenez-vous de la figure de l'anamorphose chez Holbein ! Il y a x manière d'envisager le monde. Pas de vérité absolue ou unique.
+
+Dans l'histoire, certains événements exceptionnels, graves, tragiques ont semblé atteindre les limites de ce critère ontologique. Je pense notamment à l'holocauste : l'extermination systématique de millions de juif (en 5 et 6 millions) était sans équivalent connu, et a conduit la société - par le biais du juriste Raphël Lemkin - à créer un néologisme : le *génocide*, là où l'on parlait avant de "massacre" pour qualifier les crimes contre une ethnie, une race ou les membres d’une même religion.
+
+= création d'un néologisme pour exprimer l'innénarable. Choix de créer un terme, plutôt que d'opter pour le silence. Car c'est là surtout la critique ou le danger le plus grand que fait courir ce critère ontologique : au nom de l'innénarabilité, de l'irreprésentabilité, doit-on simplement se taire ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/aylan.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Le critère éthique ou moral
+* Certaines représentations doivent-elle être bannies pour des raisons morales ?
+* Comment protéger la sensibilité des individus, s'assurer de respecter nos semblables ?
+* Peut-on rire de tout ? À quel prix montrer la vérité ?
+
+===
+Certains événements seraient indicibles et/ou irreprésentables pour des raisons éthiques, morales. On entend facilement l'argument. À quoi bon montrer des cadavre après un massacre ? Quelle est la portée informationnelle d'une image choquante ? Est-ce que ce n'est pas jouer sur l'émotion, sans la contextualiser ? Dans le même ordre d'idée, peut-on rire de tout ?
+
+Dans le même temps, on voit bien que le critère ou moral sert à limiter la liberté d'expression qui est très importante dans nos cultures : le blasphème, ainsi, est un droit dans notre pays, mais on voit bien que régulièrement, des affaires viennent démontrer que ce droit doit être défendu et réitéré.
+
+Le critère éthique ou moral, ainsi, est souvent au coeur des affaires de censure voire d'autocensure.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/aylan.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Le critère esthétique 
+* Esthétiser la violence, le malheur ?
+* Dimension heuristique de la représentation artistique
+
+===
+
+Ce que l'on qualifiera de critère esthétique répond aux mêmes injonctions contradictoires : peut-on esthétiser la violence ? N'est-ce pas trahir le réel ? Peut-on apprécier les qualités esthétiques d'un événement dont la gravité, la violence sont avérés ?
+
+Le reproche, ici, est de détourner l'attention du représenté (du référent) vers sa représentation (et donc des critères artistiques (technique, beau, sublime)), au risque de trahir le réel.
+
+Dans le même temps, on sait bien qu'une représentation artistique porte sa propre charge signifiante. Guernica, le tableau de Picasso, est bien plus qu'une évocation du massacre des habitants du village Basque par les nazi : il s'agit d'un hommage aux victimes, d'un monument assurant la mémoire de cet événement qui, autrement, risquerait de se perdre sans être transmis.
+
+Cette fonction de transfiguration de l'art est ce qui lui donne sa dimension heuristique : sa capacité à enseigner, à transmettre.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/aylan.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Légal
+* Équilibre entre liberté d'expression, droit d'informer *vs* protection, respect de la vie privée des individus
+* Élément de droit : se référer à ce que dit la loi dans chaque état
+
+===
+
+Exemple de la photo
+
+En principe, aucune photographie ne peut être diffusée sans le consentement exprès de l’intéressé ou de son représentant légal (lorsqu’il s’agit d’un mineur). Cette règle connait cependant quelques exceptions : dans un lieu public, l’autorisation de la personne photographiée n’est pas nécessaire lorsqu’elle n’est pas le sujet principal de la prise de vue, ou n’est pas reconnaissable ; le droit à l’image doit aussi se concilier avec le droit à l’information. Ainsi, les images répondant aux besoins de l’information du public (fait d’actualité, phénomène de société, fait divers tragique, actualité judiciaire, catastrophe nationale ou internationale) sont licites et exemptes d’autorisation.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/aylan.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Médiatique
+* Certains modes de représentation sont-ils plus aptes à proposer des représentations adéquates que d'autres ?
+* Texte vs image : un combat historique
+* Imaginaire médiatique (valeurs, usages)
+
+===
+
+Dans une perspective médiatique à présent, on peut se poser la question des différences entre les régimes de représentation. Pour le dire de manière très simple : certains médias seraient-ils plus aptes à représenter le réel que d'autres ?
+
+Le nœud du conflit de la représentation porte en effet bien souvent sur les modes de la représentation, et plus particulièrement sur notre imaginaire médiatique, c'est-à-dire sur les valeurs, les connotations que nous associons à certains médias.
+
+La forme photographique, par exemple, est toujours prise dans une sorte de paradoxe. Elle est ainsi souvent accusée d'être trompeuse, car elle porterait un faux certificat d’authenticité : fait croire qu’elle est un enregistrement du réel, qu’elle dispose d’une valeur documentaire, mais qui n’est pas la vérité.
+
+Paris Match : slogan = le poids des mots, le choc des images. Laisse imaginer que les mots sont la raison tandis que l'image jouerait sur l'affect
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/magritte.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Textuel vs visuel : le conflit des modes de représentation
+* Le primat du langage sur l'image : un héritage culturel (Renaissance)
+* Une image n'a pas de statut ontologique pur
+* La "vie sociale des images" : des fonctions distinctes dépendant des usages et des contextes
+
+===
+
+Retour rapide sur un conflit historique entre le texte et l'image - le premier étant mieux réputé que la seconde, accusée de ne jouer que sur l'affect, d'être facilement manipulable, et manipulatrice, de ne pas être assez précise en l'absence de contexte.
+
+Par-delà la question de la censure et de la qualité de l'information, l'opposition entre les modes de la représentation visuels et textuels remonte à la Renaissance, où l'on cherche à établir quelle est la forme esthétique supérieure aux autres : ce sera la poésie, le langage donc, qui l'emportera, face à la peinture.
+
+C'est cet héritage que nous portons aujourd'hui encore, malgré les siècles et alors que la poésie et la peinture ont vu naître de multiples autres formes médiatiques.
+
+Je ne m'étendrai pas ici sur l'histoire de ce conflit pourtant passionnant (il faudrait suivre là un cours d'histoire de l'art sur tout un semestre), mais je me contenterai de rappeler un point important : les images n’ont pas de statut ontologique pur, elles vont avoir des fonctions distinctes, fonctions qui se définissent par leurs usages. L’auteur et le spectateur déterminent ces fonctions et ces usages : il sont en effet les acteurs de ce que l'on appellera la "vie sociale" des images. C'est ce que nous enseigne notamment Jacques Rancière dans un ouvrage majeur dont j'aimerais à présent vous parler.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/magritte.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+
+### Jacques Rancière, *Le destin des images*
+Qu’est-ce qu’une image ?
+* Image = articulation dicible / visible.
+
+===
+
+Le philosophe Jacques Rancière a bcp travaillé sur la relation entre l'indicible et l'invisible et le statut des images. Son texte le plus connu sur la question = Le Destin des images (2003)
+
+Pour Rancière, Image = articulation dicible / visible.
+
+le texte cherche à créer des images (puissance d’évocation), et que les images s’inspirent d’une esthétique empruntée à la poésie.
+
+A l’époque où domine la mimesis, ce qu’on attend des images, de la peinture en particulier, c’est qu’elles figurent non pas les choses telles qu’elles sont, mais telles qu’elles sont racontées et décrites dans les discours poétiques.
+
+Autrement dit, un poète est jugé d'après les tableaux qu'on peut tirer de son œuvre, et un tableau n'est acceptable que s'il suit fidèlement un texte. La peinture doit décrire l'action humaine idéale, imiter la nature d'après des modèles parfaits.
+
+Rancière met en lumière à partir du XIXe l’apparition d’une nouvelle articulation entre le visible et le dicible. Au lieu que le discours soit externe aux images et s’impose à elles en leur fournissant des sujets et des normes de figuration (discours prescriptif d’Aristote), les images vont apparaître comme porteuses de discours. Plus précisément, elle se voient dotées d’une double puissance : celle de mettre en présence d’une chose brute et celle d’être un discours qui exprime une histoire.
+
+Bref, l’image peut être visuelle ou textuelle. Cela nous paraît évident en littérature : Lire un passage de Madame Bovary par exemple, peut être suffisant pour créer une image mentale de ce que l’on lit. Ekphrasis.
+
+Cela devrait être évident pour l’image, mais Rancière montre que ce n’est pas si simple : dans notre imaginaire, certaines images (photo, film), traînent un certificat d’authenticité erroné, dont elles ont du mal à se départir.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/magritte.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Trois catégories d'image
+* L'image nue
+* L'image ostensive
+* L'image métaphorique
+
+>« Ces trois formes d’imagéité sont trois manières de lier ou de délier le pouvoir de montrer et celui de signifier l’attestation de la présence et le témoignage d’histoire. »
+
+===
+Pas de statut ontologique pur, mais plusieurs fonctions de l’image, dont « l’ajustement problématique constitue précisément le travail de l’art » selon Rancière.
+
+Il distingue trois catégories d’images, « Ces trois formes d’imagéité sont trois manières de lier ou de délier le pouvoir de montrer et celui de signifier l’attestation de la présence et le témoignage d’histoire. » p. 34
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/StLouisNavire.JPEG" data-background-size="contain" -->
+
+
+===
+
+1) l’image nue = l’image qui ne fait pas art, mais une image qui témoigne d’une réalité, d’un moment de l’histoire. Image d'archive, par exemple.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/Piet_Mondriaan,_1921_-_Composition_en_rouge,_jaune,_bleu_et_noir.jpg" data-background-size="contain" -->
+
+
+
+===
+2) l’image ostensive qui affirme sa puissance sans signification mais au nom de l’art. Image présentée comme œuvre d’art, art pour l’art. Typiquement, l'art moderne : cubisme, abstrait.
+Mondrian ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/8ef2111d94b25919fb3c5d59b502e6f0.jpg" data-background-size="contain" -->
+
+
+
+===
+3) l’image métamorphique qui joue sur l’ambigüité des ressemblances et l’instabilité des dissemblances : elle entend jouer avec les formes et les produits de l’imagerie plutôt que d’en opérer la démystification. Sorte de combinaison entre les deux précédents.
+
+Exemple : La Madone de Bentalha
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/magritte.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+
+### Un double regard
+On ne peut avoir un rapport objectif à l’image. Il y a toujours ce besoin d’interpréter, et cette interprétation est d’abord une comparaison à ce que l’on a déjà vu avant. De fait, il n’existe pas de statut ontologique pur d'une image.
+
+===
+
+La Madone de Bentalha montre bien que ces trois formes d’images sont incapables de fonctionner sans s’emprunter les unes au autres pour activer leur logique. En effet, en contemplant une image nue, vouée au seul témoignage, notre œil ne pourra s’empêcher de voir au-delà de ce que l’image représente. Ici intervient notre second regard, produit d’une éducation esthétique, d’une certaine idée de l’image.
+
+Ces « deux regards » sont très importants, signifient qu’on ne peut avoir un rapport objectif à l’image. Toujours besoin d’interpréter, et cette interprétation est d’abord une comparaison à ce que l’on a déjà vu avant.
+
+De fait, il n’existe pas de statut ontologique pur d'une image. Comprendre une image comme un feuilletage, une stratification et télescopage de fonctions et de significations.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/magritte.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+
+### La photogénie ?
+>Parce qu’on demande souvent trop ou trop peu à l’image. Qu’on lui demande trop – c'est-à-dire « toute la vérité » – et l’on sera bien vite déçus : les images ne sont que « lambeaux arrachés, bouts pelliculaires ».
+[…]
+Ou bien on demande trop peu aux images : en les reléguant d’emblée dans la sphère du simulacre – chose difficile, il est vrai, dans le cas présent – on les exclu du champ historique comme tel. En les reléguant d’emblée dans la sphère du document, on les coupe de toute leur phénoménologie, de leur spécificité, de leur substance même.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/magritte.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+
+## Analyser l'image : les outils sémiotiques
+* Charles Sanders Peirce
+* Le triangle sémiotique
+
+
+===
+http://www.surlimage.info/ecrits/semiologie.html
+
+Ces deux termes sont synonymes. L’un et l’autre ont pour objet l’étude des signes et des systèmes de signification.
+
+Sémiologie renvoie davantage à Saussure, à Barthes, à Metz et de façon plus générale à la tradition européenne où les sciences dites humaines restent plus ou moins attachées aux mouvements littéraires, esthétiques et philosophiques.
+
+Sémiotique renvoie à Peirce, Morris et plus généralement à une tradition anglo-saxone marquée par la logique.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/magritte.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+
+### Symbole
+
+===
+Les symboles sont les mots, les chiffres, etc... Une deuxième coupure les sépare des icônes, la coupure sémiotique. Elle fait venir l'ordre, le code, l'arbitraire du signe, tout ce que veut dire logos : calcul, raison, langage, relation verbale, distinction, représentation, concept. Là commence le processus secondaire par opposition aux images (primaires)
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/magritte.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+
+### Indice
+
+===
+
+A l'origine, il y a l'immense domaine des indices. L'indice est une trace, un échantillon du monde : la fumée est l'indice du feu, la rougeur l'indice de la fièvre, l'empreinte maque le passage de l'animal, etc... Il fonctionne par contact de manière matérielle, physique, en continuité. C'est une "partie de", un prélèvement.
+
+En tant qu’indice (ou trace, empreinte), la photographie est supposée enregistrer le réel, capter un « instant décisif » (Cartier-Bresson).
+
+Elle incarne autrement dit une valeur testimoniale aussi chère aux journalistes et au public que largement fantasmée : une image photographique n’est-elle pas toujours construite (cadrage, jeux de lumière, etc.) ? Peut-elle délivrer en soi une vérité « brute », ou n’est-elle pas plutôt toujours sujette à interprétation ?
+
+Cette dimension indicielle de la photo fait régulièrement l’objet de débats dans la société et au sein des rédactions : peut-on tout montrer ? Par delà les questions de trucage ou de montage, la nature et les usages documentaires de la photographie sont sujet à interprétation et à discussion.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/magritte.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Icône
+
+
+===
+A partir de l'indice se détache la sphère des icônes. C'est un saut, une coupure, une rupture des continuités indicielles : le saut humain ou anthropologique par excellence. Exemples : un reflet dans l'eau, une ombre sur un mur, des mains primitives visibles dans une caverne, une image. L'icône s'ajoute au monde alors que l'indice est prélevé sur lui. En général elle est figurative, elle fonctionne sur un mode analogique (la ressemblance). Elle a un double tropisme, tantôt vers l'indice, tantôt vers le monde logico-langagier. Dans notre culture, les images sont subordonnées aux mots qui les cadrent, les légendent.
+
+En tant qu’icône, une photographie n’est non seulement jamais neutre, mais porte en elle des imaginaires, des connotations particulièrement fortes. Cette dimension iconique de l’image documentaire – qui peut détourner son éthique documentaire – est pourtant ce qui fait aussi son efficacité : le soldat fauché par une balle lors de la guerre d’Espagne, la petite fille au napalm (Nick Ut, juin 1972), le manifestant debout face aux chars de la place Tian’anmen… ces images font littéralement l’histoire, et sont aujourd’hui ancrées dans notre culture populaire.
+
+Cette dimension iconique du photojournalisme alimente aussi l’éternel débat de la photographie documentaire : quelle est la frontière entre art et information ? Quelle déontologie du photographe dans son rapport à l’image ? Une photo constitue t-elle vraiment une preuve ? C’est une chose de croire en l’adage « je ne crois que ce que je vois », mais justement, que vois-je vraiment ? Que me montre la photographie, son photographe, et le journal qui m’informe ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/magritte.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+## Conclusion
+La question de l'irreprésentable recouvre bien des problématiques (ontologiques, éthiques, juridiques) complexes et difficiles à trancher. La perspective médiatique permet cependant de prendre un peu de recul sur des débats parfois houleux, et de déconstruire les raisons d'un malaise, d'un interdit, d'une condamnation, en mettant la lumière sur les conditions d'existence des images, des oeuvres d'art, des informations "sensibles". Les outils de la sémiotique, ainsi qu'une bonne connaissance de la théorie des media et de leur imaginaire, sont précieux pour nous aider à comprendre les raisons d'une censure, ou encore d'une communication maladroite. Face au défi de l'irreprésentable, de l'indicible, les artistes et les grands journalistes nous apprennent à ne pas céder au silence, à ne pas renoncer à la représentation, mais à inventer de nouvelles manières de révéler le réel.
