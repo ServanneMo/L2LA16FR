@@ -2528,6 +2528,965 @@ La question de l'irreprésentable recouvre bien des problématiques (ontologique
 <!-- .element: style="font-size:1.8rem" -->
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
 
 ## Informer à l'ère de l'infobésité
+
+===
+
+Nous ouvrons aujourd'hui le dernier axe de réflexion de ce cours consacré aux enjeux du concept de représentation dans notre monde contemporain. Si les nouveaux média numériques ont été régulièrement évoqués depuis le début du semestre, nous allons cette fois en faire notre objet d'étude principal.
+
+Mais avant d'entrer dans le vif du sujet, et pour se remettre en jambes après la pause des vacances, faisons le point sur notre progression. Si l'on ne devait tirer qu'un seul enseignement principal des dernières semaines, c'est que nos media participent à structurer le monde en en proposant diverses représentations. La représentation du réel, n'est jamais une fenêtre ouverte sur le monde, mais plutôt une modélisation de celui-ci, une modélisation reposant sur des conventions relativement acceptées par tous (conventions médiatiques, juridiques, institutionnelles...), mais qui évoluent en même temps que notre culture. Par là, je veux dire que les médiations viennent créer de la réalité effective. On peut le constater en ce moment même : alors que nous restons tous confinés, de nombreux services fonctionnent encore (certes, plus ou moins bien), du lien social se crée ou se renforce, etc. Les gouvernements de plusieurs pays basent leur stratégie de confinement ou de déconfinement sur nos données numériques qui nous décrivent, nous profilent.
+
+Attention : L'idée n'est pas de tomber dans le technodéterminisme non plus : nous ne sommes pas esclaves des medias. Simplement, ils finissent par proposer une conceptualisation du monde - une manière de voir le réel, de le définir - qui sert de point de repère pour définir, dans notre imaginaire et dans notre société, ce qui est jugé acceptable, réaliste, vraisemblable et donc véritable, ou pas. Cette modélisation finit par avoir une valeur performative, prescriptive et donc une dimension structurante.
+
+Aussi, la problématique de cet axe ne serait pas tant : quelle nouvelles formes de représentation propose les media numériques ? Mais quel monde se dessine avec les nouveaux médias numériques ? Comment notre manière de concevoir le réel est-il impacté par les nouveaux media ? Et, du coup, comment le monde change en même temps que les nouveaux média en change les représentation, notre manière même de considérer ce que doit être une représentation ?
+
+Les média numériques ont eu tendance à provoquer ce que McLuhan appelait le "changement d'échelle". En particulier, nous sommes aujourd'hui dans un monde où nous produisons une quantité de contenus, de données et donc d'information. La crise de la vérité (souvenez-vous du phénomène des fake news étudié au tout début du cours), est une crise des instances légitimantes, comme on l'a vu dans les cours précédents, mais aussi une crise des contenus eux-mêmes, produits dans des quantités tellement massives, que le tri éclairé a du mal à s'opérer.
+
+Cet axe proposera une étude des risques liés au nouveaux modes de production, de diffusion et de consommation des médias. Il sera composé de trois séances :
+- aujourd'hui, nous allons introduire le concept d'infobésité, qui désigne un rapport "Malade" à une information trop massive à laquelle nous sommes soumis. Nous nous questionnerons sur les nouvelles façons d'informer (slow-journalism, etc.) et sur le rôle des journalistes aujourd'hui
+- la semaine prochaine, nous parlerons du transmedia
+- enfin, nous terminerons par une introduction à l'organisation des contenus sur le web
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/6a00d8341c622e53ef0240a4adcceb200d-500wi.jpg" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
+
+## Informer
+* Donnée, faits, événements vs Information / nouvelle
+* Une (bonne) information doit :
+  - Avoir un intérêt pour le public (cf. loi des proximités)
+  - Être factuelle (information n’est pas opinion)
+  - Reposer sur des sources traçables, identifiables, vérifiables
+
+===
+Info = qu'est-ce qu'une information ? Dans le sens d'une nouvelle, càd d'une information transmise par un journaliste, un media ou
+Une information digne de ce nom doit obéir à un trois impératifs fondamentaux :
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/6a00d8341c622e53ef0240a4adcceb200d-500wi.jpg" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
+
+## L'*infobésité* numérique : l'information médiatisée par les technologies numériques nous a-t-elle rendus malades ?
+
+>L'information, qui autrefois était aussi rare que le caviar, est désormais surabondante et de consommation courante, autant que les pommes de terre. (David Shenk, Data smog)
+
+===
+
+Le terme d’ « infobésité » est un mot-valise qui associe l’information et l’obésité. Cette analogie avec une maladie dont l'un des effets est un excès de poids, est d'abord venue désigner les effets pathologiques de la surconsommation d’information à laquelle nous nous livrons aujourd'hui.
+
+Obésité :
+* "trop"
+* mauvaise qualité
+* dérèglement
+* rapport potentiellement pathologique à l'info
+* info considérée comme un bien de consommation potentiellement nocif
+* une mauvaise santé sociale - comme dans le cas de l'obésité, qui est d'abord une maladie dont les gens ne sont évidemment pas coupable, mais le résultat d'un dérèglement du corps que l'on ne peut maîtriser : nous serions gavés par les média, mal informés.
+
+Serions-nous, donc rendus malades par une mauvaise information telle que les technos numériques la diffusent ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/youtube.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Des chiffres par millions
+* Sur une plateforme comme Youtube, en 2019...
+  * 2 milliards d’utilisateurs par mois (46 millions en France)
+  * 500 heures de vidéo mises en ligne **chaque minute**
+  * Chaque jour, un milliard d’heures de vidéos visionnées
+  * En moyenne : 1 heure par jour (depuis les smartphones)
+
+===
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/6a00d8341c622e53ef0240a4adcceb200d-500wi.jpg" data-background-size="contain"-->
+
+===
+
+Ces chiffres donnent le tournis, mais que révèlent-il exactement ? L'infobésité n'est pas seulement un problème de surconsommation, c'est surtout un problème de mal-consommation.
+
+Regardons un peu les habitudes de consommation qui se cachent derrière ces chiffres
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/stat2018_chuteTV.png" data-background-size="contain" -->
+
+===
+Les mutations des habitudes de consommation des citoyens sont scrutées à la loupe par une série d'observatoires et le gouvernement qui, évidemment, est soucieux de mesurer les changement d'habitudes des habitants. Il s'agit notamment de voir comment adapter au mieux les politiques publiques, les services publiques, aux citoyens d'aujourd'hui. Avec un important facteur: celui du calcul de la fameuse "fracture numérique", dont les effets se font criant à l'heure actuelle dans une situation de confinement où les outils numériques sont très sollicités.
+
+Note : on voit bien que l'idée de dématérialisation n'a ici aucun sens. Au contraire, on voit plus que jamais combien la dimension matérielle est effective : pas d'imprimante = devoir recopier à la main son attestation de sortie. Pas de connexion internet = ne même pas savoir exactement ce que l'on doit recopier...
+
+Le gouvernement récolte depuis plusieurs années les données qui permettent de dresser le profil médiatique/numérique des habitants.
+
+Depuis 2000, l'ARCEP (L'Autorité de régulation des communications électroniques, des postes et de la distribution de la presse (ARCEP ou Arcep) est une autorité administrative indépendante chargée de réguler les communications électroniques et postales et la distribution de la presse en France) utilise ces données ainsi que celles de ses propres enquêtes afin de réaliser des études sur nos comportements médiatiques.
+
+(https://www.arcep.fr/cartes-et-donnees/nos-publications-chiffrees/numerique/le-barometre-du-numerique.html)
+
+https://www.arcep.fr/uploads/tx_gspublication/infographie-barometre-num-2019.pdf
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/stat2018_chuteTV.png" data-background-size="contain" -->
+
+===
+Chute drastique de la TV :
+- de moins en moins regardée, surtout par une tranche d'âge
+- relocalisation sur des appareils connectés : streaming
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/stats2018_smartphone.png" data-background-size="contain" -->
+
+===
+
+Le smartphone est devenu l'équipement de référence, qui a tendance à remplacer les autres appareils.
+
+En effet, le taux d'équipement des Français en terminaux informatique stagne. Pour les ordinateurs de bureau et les tablettes, il est même en baisse. Ainsi, 78% de la population possède un ordinateur (-3 points sur un an), 41% dispose d'une tablette (-3) et 30% profite de plusieurs ordinateurs à domicile (-3). Une situation qui révèle à la fois que les besoins d'équipement ont atteint un pallier, et que les usages se concentrent de plus en plus vers un autre terminal : le smartphone.
+
+Cette concentration sur 1 seul média qui accueille tous les media portent a tendance à créer un phénomène de "convergence", comme le dit Henry Jenkins dont je vous parlerai la semaine prochaine.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/echo.png" data-background-size="contain" -->
+
+>Six internautes sur dix partageront cet article sur Twitter alors qu'ils ne sont pas allés voir plus loin que le titre. "La plupart des gens retweetent des informations sans jamais les lire". Telle est la conclusion d'une nouvelle étude menée par l'université de Columbia et l'Institut national de recherche en informatique et en automatique (INRIA).
+
+>"C'est typique de la consommation moderne d'information. Les gens se forment une opinion basée sur un résumé, ou un résumé de résumés, sans aucun effort d'approfondissement", explique Arnaud Legout, le co-auteur de l'étude
+
+===
+
+Avec une première remarque à faire : sur un téléphone portable, nous n'avons pas les mêmes habitudes de lecture que sur un ordinateur, un journal papier, devant une TV.
+
+Avec le terme de convergence, Jenkins signifie que plusieurs media convergent : quand vous lisez les infos sur votre téléphone, vous n'êtes pas que sur un journal : vous êtes sur un réseau social, par exemple, sur votre messagerie perso. Vous êtes connectés à votre réseau. Lire, s'informer, c'est ainsi de plus en plus partager.
+
+Ce qui amène à des comportements parfois étonnants : une étude a ainsi démontré que l'on avait tendance à partager des informations sans même les avoir lues. On partage des posts, des tweet, aux titres alléchants, sans même être allés consulter la source et avoir pris le temps de lire l'ensemble du contenu. Une forme de zapping, finalement, mais en plus s'insère dans l'économie du partage sur les réseaux sociaux.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/stat2019_smartphone.png" data-background-size="contain" -->
+
+===
+Des comportements limites et des pb dont sont plus ou moins conscients les usagers, d'ailleurs.
+Confirmation dans les stats de l'an dernier, qui montre que sur ces appareils jouant le rôle de "super media" où convergent plein de medias, on a en fait une uniformisation des pratiques.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/stats3.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Des monopoles
+* Une concentration sur certaines technologies (Smartphone - solutions IOS / GOOGLE)
+* En France, plus de 93% des usagers utilisent Google comme moteur de recherche
+* Autant d'usagers s'arrêtent à la première page de résultats
+
+===
+Problème : un manque de diversité !
+Les mêmes comportements répétés sur les mêmes appareils avec les mêmes outils.
+Impression de diversité, de choix, en vérité très trompeuse puisque fondamentalement nous regardons tous dans la même direction.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/stats3.png" data-background-size="contain" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/stats3.png" data-background-size="contain" -->
+
+===
+Pb écologique
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/XXX" data-background-size="contain" -->
+
+## Un problème comportemental
+* Des comportements compulsifs (On relaie des informations sans même les avoir relayées)
+* Un manque de diversité (des technologies, des outils)
+* Un manque de respect des contraintes écologiques
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/matrix.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+## L'infobésité (l'autre épidémie)
+
+>l’abondance d’information peut également être nocive, c’est ce que désigne le terme « infobésité ». Ce mot-valise, né de la contraction d’information et obésité, a été introduit dans la langue française par les Canadiens afin de traduire l’expression anglaise « information overload », soit le sentiment de débordement, de trop-plein d’information. Ce phénomène touche de nombreuses activités : les échanges par mail, les communications via les réseaux sociaux, l’information sur les produits qu’un consommateur s’apprête à acheter, l’information en continu... (Alizé Papp,[
+L’infobésité, une épidémie à l’âge des nouvelles technologies de l’information et de la communication ?](https://www.cairn.info/revue-regards-croises-sur-l-economie-2018-2-page-105.html?contenu=article))
+
+
+<!-- .element: style="font-size:1.6rem; text-align:justify" -->
+
+
+===
+
+Bertram Myron Gross, chercheur américain en sciences sociales, invente en 1962 le concept d’« information overload »(1) pour signifier un excès d’information.
+
+Dans un article daté de 1993(2), le réalisateur et essayiste David Shenk nomme « infobesité » la quantité démesurée d’informations que nous avons à traiter. Le terme a été progressivement repris en France par les médias.
+
+Ce concept est étroitement lié au développement des chaînes de télévision d'information en continu, à l'utilisation des technologies de l'information et de la communication et, en particulier, les nouvelles technologies de l'information représentées par Internet.
+
+Les principaux auteurs sur le sujet sont Caroline Sauvajol-Rialland en France, David Shenk aux États-Unis (Data Smog, Surviving the Information Glut), Jim Stolze (L’infobésité pourrait être la prochaine épidémie) et Nicholas Carr (Est-ce que Google nous rend idiots ?).
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/infobesite.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+>L’infobésité, c’est le fait de recevoir plus d’informations qu’il est possible d’en traiter sans porter atteinte à l’individu ou à son activité. Il n’existe pas de seuil objectif applicable à tout le monde pour le déclenchement de cette pathologie informationnelle, parce que nous ne sommes pas tous égaux du point de vue de nos capacités intellectuelles, en particulier de nos capacités mnésiques.
+
+===
+La production de données s’est démesurément amplifiée avec le passage au numérique. La quantité d’informations publiées sous ce format double tous les quatre ans. D’après Caroline Sauvajol-Rialland, nous avons produit plus d’informations ces 30 dernières années qu’en 5 000 ans d’histoire.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/infobesite.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Les risques avérés pour le traitement d'une information de qualité :
+* Standardisation et paupérisation des contenus
+* Dilution des contenus dans la masse
+* Surcharge cognitive, sensorielle, communicationnelle, informationnelle
+* Manque de pérennité
+
+===
+
+* Standardisation et paupérisation des contenus : injonction à produire et diffuser de l'info. Mais au final, c'est le règne du copier coller
+* Dilution des contenus dans la masse : le flux d'information est continu, ne s'arrête jamais, l'info aussitôt énoncée est remplacée
+* Surcharge cognitive, sensorielle, communicationnelle, informationnelle: Cette surcharge informationnelle a une incidence sur la capacité de concentration et l’état de fatigue des individus.
+* Manque de pérennité : essayez de retrouver un seul tweet précis qui a circulé la semaine dernière ; un post publié l'an dernier...
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/infobesite.png" -->
+
+## Le journalisme à l'ère de l'infobésité
+
+* A-t-on encore besoin des journalistes ?
+* Qui fait l'information (du 4e au 5e pouvoir, les média citoyens, etc.) ?
+* Le quantitatif au dépend du qualitatif ?
+* Peut-on réinventer les écritures journalistiques ?
+  * → vers du slow-journalism : Mook, webdocumentaire / transmedia
+  * → data-visualisation, "fact-checking"
+
+===
+Une question devient ainsi pressante : a-t-on encore besoin des journalistes ?
+
+Dans les médias, le changement de rythme de production de l’information s'accompagne du déclin de l'activité journalistique traditionnelle. Au tournant du XXIe, les médias passent au numérique à marche forcée, pour suivre un public de plus en plus connecté autant que par crainte de la concurrence.
+
+La réponse des médias est en quelques sorte quitte ou double : d'abord, il y a une tendance, assez majoritaire, qui tombe en plein dans la logique de l'infobésité (logique du chiffre, de l'audience, republication de contenus sans même les avoir traités ou analysés). Mais il y a aussi un journalisme qui tente de se réinventer pour proposer justement un remède à tout cela.
+
+C'est l'occasion pour les journalistes de repenser leur métier, leur écriture (l'écriture journalistique est un genre, un style, comme il y a du roman ou de la poésie), leur rapport aux lecteurs - qui est devenu quoiqu'on en dise un acteur à part entière de l'information, et plus seulement un spectateur.
+
+Remise en question, retour aux valeurs du journalisme
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/infobesite.png" -->
+<!-- .slide: class="hover"-->
+
+### L'économie de l'attention : une nouvelle mesure de l'audience
+* Du "temps de cerveau disponible" au temps de contribution
+* Du quantitatif (médiamétrie) au qualitatif (contribution)
+
+===
+
+Avant les médias cherchaient à vendre du temps de cerveau disponible → capter l'attention
+Désormais il s'agit de récupérer du temps de conversation, de contribution. Du quantitatif (médiamétrie)
+→ au qualitatif (contributions)
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/PostIt.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Le nouvel enjeu de l'information : du quantitatif au qualitatif
+
+L'accès démultiplié à des sources hétérogènes d'information déplace la problématique vers des enjeux qualitatifs : comment éviter de céder aux sirènes d'une politique du chiffre, et revenir à un journalisme de fond ? Quelles opérations permettent de faciliter la sélection, le triage et l'organisation des informations ?
+
+===
+D'abord, revenir à du qualitatif !
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/PostIt.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+>Le premier mythe à combattre dans une économie de l’abondance est celui du contenu roi ! Non ! Aujourd'hui, bien plus encore qu’hier, c’est le contexte, l'éditorialisation, la contextualisation, l’intelligence, la valeur ajoutée, la spécialisation, l’explication, les liens, la réduction de la complexité et de « l’infobésité ». Un vrai travail de médiateur, de média, de journaliste pour relier les connaissances et transformer l’information en savoir.
+Le prix de l’information tend vers zéro, mais l’enrichissement et le contexte peuvent encore être payants.
+Dans un monde de plus en plus complexe, la valeur est aujourd'hui dans le contexte ! Le contexte, c’est ce qu’il y a autour de l’information, en plus de l’information, et c’est ce qui permet de la comprendre et d’être mieux en prise avec sa signification. (Éric Scherer, A-t-on encore besoin des journalistes ? 2011)
+
+<!-- .element: style="font-size:1.6rem; text-align:justify" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/Le1.png" -->
+<!-- .slide: class="hover"-->
+
+## La tendance au "slow-journalism"
+* Pas de contenus publicitaire (modèle payant)
+* Changement de rythme (en mode lecture mais aussi en mode actualité)
+* Travail graphique de l'objet (héritage reportage visuel, typographie et mise en forme)
+
+===
+
+En 2008, en France, l’ancien grand reporter Patrick de Saint-Exupéry lance XXI, revue trimestrielle payante consacrée au monde contemporain, mais qui prend ses distances avec l’actualité "bouillante". C'est l'un des premiers exemple de ce que l'on va appeler le "slow journalism"
+
+Ces journaux/magazine proposent à leurs lecteurs des articles épurés de toute publicité, à la fois pour échapper à la dépendance économique qui sous-tend le modèle publicitaire, mais aussi pour épargner aux lecteurs des publicités qui polluent la lecture (là où, pour certains magazines, ce qui va rapporter de l'argent c'est aussi le placement de "clickbait", càd de contenus attrayants qui donnent envie de cliquer et renvoient vers des pages d'annonceurs ou de vendeurs). Afin de conquérir leur public, ces médias vont prendre le parti de produire l’information autrement, en privilégiant le plaisir de lecture, l'aspect graphique, et en changeant de rythme.
+
+Changement de rythme : aussi bien favoriser une immersion du lecteur dans des reportages au long cours, que se détacher de l'actualité brûlante. On va donc dans des sujets de fond - une actu qui s'inscrit dans le temps long.
+
+D'autre manières d'écrire : pas d'objectivité à tout prix, mais une narration assumée par une voix, celle du reporter, qui rend compte d'une expérience du réel. SUbjectivité assumée.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/" -->
+<!-- .slide: class="hover"-->
+
+## Le mook
+Le mook [mot-valise composé de *magazine* + *book*] est une publication périodique de forme hybride, entre magazine, revue et livre. Le contenu privilégie les grands reportages et les enquêtes approfondies, les textes étant illustrés par des dessins et des photographies, et le traitement passant aussi par de la bande dessinée.
+* Exemples : *XXI*, *Usbek et Rika*, *Les Jours*, *Le 1*, etc.
+
+===
+Principale manifestation du slow-journalism, le mook, qui est une sorte d'hybride entre le livre et le magazine.
+Le contenu privilégie les grands reportages et les enquêtes approfondies, les textes étant illustrés par des dessins et des photographies, et le traitement passant aussi par de la bande dessinée.
+
+Il s'agit de véritables objets éditoriaux, qui surprennent par leur format, leur graphisme avant-gardiste.
+
+Du livre, ils ont le volume (environ 200 pages), le prix (autour de 20 euros), la diffusion en librairie, et une écriture (verbale ou graphique) qui prend son temps et se décline sous des formes variées, volontiers empruntées à la littérature : portraits, récits, carnets, nouvelles, portfolios, journaux de voyage, traductions… Du magazine, ils ont la périodicité, le rubriquage, l’information, mais une information décalée, qui choisit ses sujets aux marges de l’actualité généralement traitée par la presse.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/slowjournalismChiffres.png" -->
+
+===
+Encore un media de niche.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/" -->
+<!-- .slide: class="hover"-->
+
+## Du fact-checking à la critique des media
+* Un travail journalistique de base : vérifier ses sources !
+* Vérification instantanée des propos tenus par des personnalités dans différents médias
+* Un moyen de vérifier l'objectivité et la qualité d'un média
+
+===
+
+Aujourd’hui, la presse n’a pas bonne presse. Les médias d’information font l’objet d’une méfiance accrue : soupçonnés d’être partisans, biaisés, voire mensongers ; moqués pour leur propension à relayer des informations mineures (marronniers et autres sujets météo…) voire erronées (les fameuses fake news), et à surjouer les effets rhétoriques qui versent dans le spectaculaire (voix et intonations dramatiques), ils font face à une concurrence de plus en plus forte de la part des médias « citoyens », réseaux sociaux, blogues personnels, qui forment un véritable « cinquième pouvoir ».
+
+Première réponse à cette crise de confiance : le fack-chacking qui est devenu un genre de plus en plus populaire. Mais qu'est-ce que le fack checking exactement ? Est-ce vraiment une pratique inédite ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/" -->
+<!-- .slide: class="hover"-->
+
+## Quelques outils en ligne pour vérifier ses sources
+* Le Décodex du journal *Le Monde*
+* L’outil *Tiny Eyes*
+* L’outil *Citizen evidence*
+
+===
+
+* Le Décodex du journal *Le Monde* s’adresse surtout au grand public, au lecteur, mais constitue un outil fort utile pour évaluer la pertinence d’un site web : il s’agit d’une base de donnée relativement complète sur les sources web.
+* L’outil *Tiny Eyes* permet de faire des recherches inversées d’images. Particulièrement utile pour tracer le chemin parcouru par une image et vérifier qu’elle n’a pas été sortie de son contexte.
+* L’outil *Citizen evidence*, développé par Amnesty international propose le même service que Tiny Eyes, mais appliqué aux contenus audiovisuels, en particulier ceux de Youtube
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/" -->
+<!-- .slide: class="hover"-->
+
+* La critique media : ouvrir les coulisses et assurer son introspection
+* Vers une écriture méta-médiatique
+* Exemples : *Arrêt sur images* (France5 puis indépendant), *Vrai du faux numérique* (France Info), *La Fabrique médiatique* (France culture)
+
+===
+Cette atmosphère de défiance, méritée ou non, a le mérite de pousser les médias à dévoiler leurs propres coulisses et à réfléchir sur leur métier – redessinant ainsi les contours d’une déontologie qui n’avait évidemment jamais disparu, mais qui désormais s’affirme et s’affiche au sein même des médias. De l’émission culte *Arrêt sur images* au *Vrai du faux numérique* de France Info, en passant par La Fabrique médiatique sur France culture, de plus en plus de médias dédient des émissions entières à leur façon de traiter l’info.
+
+La « critique média » s’est ainsi imposée comme un genre hautement nécessaire à l’époque des fake news, qui permet aux journalistes de faire leur propre autocritique et de réaffirmer la déontologie journalistique. Il s’agit, ainsi, d’identifier les ressorts rhétoriques du discours journalistique, pour mieux les déconstruire. Le journaliste Daniel Schneidermann est l’une des figures de proue de ce mouvement de « critique média », qu’il pratique depuis 1995.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/cividCarte.png" -->
+<!-- .slide: class="hover"-->
+
+## Data visualisation
+* De la donnée à l'information
+* Une donnée n'est jamais donnée ! Il s'agit d'une construction
+* La visualisation des données massives est un enjeu pour donner à lire le monde complexe des *Big Data*
+
+===
+Nos écritures numériques ont donné naissance à un nouveau type d’objet dont les médias se font souvent l’écho, sans préciser exactement de quoi il s’agit : la donnée, ou, plus précisément les données massives (autrement appelées big data). L’analyse de ces données, et leur traduction dans un format compréhensible est visible, est devenu un enjeu majeur aujourd’hui, donnant naissance à de que l’on appelle la « fouille » et le « visualisation » de données. Si l’on veut s’adonner à une fouille précise des données massives, quelques compétences informatiques sont nécessaires, en règle générale.
+
+Mais des outils grand public ont été mis à disposition ces dernières années, et sont régulièrement utilisés dans les médias afin de faciliter la transmission de l’information qui, de fait, se retrouve particulièrement impactée. La fouille et la visualisation de données, en effet, sont sur le point de changer notre rapport à l’information.
+
+De plus en plus de journaux proposent d'ailleurs à leurs lecteurs de jouer avec des cartes et des données : voir par exemple les projections pour des éléections par région, par vill, par parti ou candiat.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/statGoogleCovidDeplacement.png" -->
+
+===
+On le voit très bien aujourd'hui, par exemple, avec l'épidémie de COVID.
+Google utilise les données (selon l'entreprise, des données entièrement anonymisées) de ses usagers afin de vérifier l'application du confinement et déterminer son efficacité ainsi que ses conséquences
+https://www.gstatic.com/covid19/mobility/2020-04-11_FR_Mobility_Report_en.pdf
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/modelisation.png" -->
+
+===
+La visualisation relève ainsi de l’infographie, un genre journalistique visant à présenter et expliquer de manière claire et schématique des problèmes complexes, impliquant des données nombreuses et hétérogènes. L’infographie est apparue dans la presse dès le XIXe siècle, en même temps qu’un goût certain pour les analyses statistiques et autres sondages (dont le succès ne s’est toujours pas démenti), ainsi qu’une tendance à modéliser le réel.
+
+La modélisation est la conception d'un modèle : ici, dans un journal britanique du XIXe siècle, les statistiques concernant la population prennent la forme de représentation photo-réalistes, mais qui incarne une image-type du citoyen modèle : population blanche, plutôt bien habillée et éduquée (donc un niveau social relativement élevé). On voit bien ici qu'il y a une tendance à uniformiser toute une population. C'est un peu ce que l'on pourrait reprocher à la visualisation de données massives : elle perd parfois de vue les cas particuliers.
+
+La visualisation délivre ainsi des informations très générales, elle propose une macro-analyse, c'est-à-dire un point de vue très global et lointain qui, dans le cas de problème complexe, peut s'avérer très utile : comprendre, par exemple, l'évolution d'un épidémie comme nous la traversons aujourd'hui. Les visualisations sont donc très utiles dans un monde où des millions d'information et de données circulent, mais elle ne peuvent suffire à faire le tour d'une problème.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/DoNotTrack1.png" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
+
+### Webdocumentaire
+* archipel d’applications : vers le transmedia
+* différentes temporalités : alternance synchrone/asynchrone
+* des règles de participation et différents niveaux de contributions
+* une réflexivité en temps réel
+
+===
+Dernier cas d'étude des mutations du journalisme. LE webdoc, c'est un peu l'équivalent du mook mais en version multimedia et même transmedia. On sort de l'objet éditorial imprimer, pour mettre à profit nos appareils de lecture numériques. L'objectif, ici, est de jour sur l'implication directe des lecteurs. Avec une hypothèse :
+Et si la participation d’une audience était destinée à rassembler, constituer, valider des connaissances ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/DoNotTrack1.png" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
+
+### [*Do Not Track*](https://donottrack-doc.com/fr/episodes/)
+* Une production Upian, ONF, Arte, Bayerischer Rundfunk, Radio-Canada, Radio Télévision Suisse (diffuseur publique suisse) et AJ+
+* Réalisateur : Brett Gaylor
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/DoNotTrack1.png" data-background-size="contain"-->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/DoNotTrack2.png" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
+
+### [*Do Not Track*](https://donottrack-doc.com/fr/episodes/) : le principe
+
+>Do Not Track est une série documentaire personnalisée consacrée à la vie privée et à l'économie du Web. Découvrez ce que le Web sait sur vous… en partageant vos données avec nous. Do Not Track explore les différentes manières dont le Web moderne enregistre et traque nos activités, nos publications et nos identités. Pour vous aider à comprendre comment vos informations sont utilisées et collectées… nous vous demandons de participer avec vos données. Oui, vos données. Ça peut sembler paradoxal, mais c’est en vous prêtant au jeu que vous pourrez comprendre l’implication du tracking – non seulement pour vous, mais pour vos amis ou votre famille. Quelle est la valeur cachée derrière chacun de vos clics ? Que se passe-t-il sans que vous vous en rendiez compte et sans votre consentement ? Soyez curieux et reprenez le contrôle.
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-video="img/DoNotTrackDoc.mp4" data-background-size="contain"-->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/DoNotTrack2.png" data-background-size="contain"-->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/DoNotTrack4.png" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
+
+### [*Do Not Track*](https://donottrack-doc.com/fr/episodes/) : l'objectif
+
+>Nous voulons expérimenter le tracking pour ainsi mieux le comprendre. Nous vous demanderons de nous donner des informations personnelles sur vos goûts, vos avis, vos habitudes. Plus nous en saurons, plus vos épisodes seront personnalisés. Rien que pour vous.
+
+>Entre chaque épisode, lisez, écoutez et fouillez plus en profondeur les thématiques abordées, à travers du contenu supplémentaire. Commentez et échangez sur les sujets abordés. Pour rester informé et vivre l’expérience complète, laissez-nous votre mail !
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/DoNotTrack4.png" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
+
+### [*Do Not Track*](https://donottrack-doc.com/fr/episodes/) : comment ça marche ?
+* Le spectateur accepte que des *trackers* enregistre ses navigations
+* Les métadonnées du spectateur deviennent une porte d'entrée sur les contenus
+* Les contenus sont personnalisés en fonction du profil du spectateur
+
+===
+
+Comme tant d’autres sites, nous collectons et enregistrons les données de nos utilisateurs au gré de leur navigation sur nos pages. À la manière des trackers, nous apprenons à les connaître pour leur proposer des éléments de contenus adaptés sur mesure tout au long du projet interactif.
+
+VOUS VOULEZ VOIR ?
+Tant que vous ne vous êtes pas enregistré, nous ne pouvons pas vous proposer une version personnalisée de Do Not Track. Enregistrez-vous ici. Vous pourrez à tout moment accéder au détail des données que nous collectons sur vous et les effacer.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/DoNotTrack3.png" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
+
+>Si nous ne collections pas de données sur vous, nous ne serions pas en mesure de personnaliser chaque épisode de Do Not Track. Et comme Do Not Track est un projet interactif personnalisé, ce serait quand même bien embêtant. Mais nous voulons surtout, par ce biais, vous montrer de manière tangible comment vos données personnelles sont collectées lorsque vous naviguez sur Internet, et de quelle manière elles sont utilisées. La différence, c’est que nous n’utiliserons ce que nous savons de vous QUE dans le cadre de Do Not Track.
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/DoNotTrack2.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### [*Do Not Track*](https://donottrack-doc.com/fr/episodes/) : un documentaire "sur-mesure" ?
+* Autant de documentaires possibles que de spectateurs
+* Regarder / Être regardé
+* La bulle de filtre informationnelle
+* Sensibilisation à la production inconsciente des données
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/DoNotTrack2.png" data-background-size="contain" -->
+
+## Conclusion
+L'infobésité désigne à l'origine une dérive des média - dont les usagers sont devenus de friands consommateurs, souvent mal avisés : trop d'information, de mauvaise qualité, répétitive. Avec le développement du web et surtout des médias sociaux, cette surconsommation n'a fait que s'aggraver, d'autant plus que nous sommes devenus nous-mêmes des producteurs de données, destinées à alimenter un *bid data* que l'on ne sait pas encore interpréter correctement. A quoi ressemble le monde dans cette ère d'information de masse ? Comment le représenter ? Face à cette déferlante d'information, les écritures journalistiques ont commencé à se réinventer. Du mook à la data-visualisation, elles "zooment" ou au contraire "dézooment" sur le monde, entre micro-analyse et macro-analyse, subjectivité assumée ou tentative d'objectivation du réel.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+
+## Transmédier
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+
+## Structurer l'espace numérique
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/Internet-monde.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+<!-- .slide: data-background-image="img/Internet-monde.jpg" data-background-size="contain" -->
+## L'organisation du web : entre maîtrise et déprise
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/Internet-monde.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Structuration du web, structuration du réel ?
+* Si je cherche un service sur *google maps*, j'ai tendance à ne considérer que la liste donnée par l'outil...
+* Je ne consulte souvent que les premiers résultats de ma recherche... (cf. la bataille du référencement pour les sites d'information sur la contraception et l'avortement)
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/streetview.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Un enjeu ontologique et politique
+* Toute médiation joue un rôle structurant et déterminant dans la construction du réel
+* Nous construisons des outils pour calculer, structurer, organiser le web...
+* Ces calculateurs, en retour, nous construisent à leur tour...
+
+===
+
+tendance à la superposition entre le monde tel qu'il est représenté et ses conceptions
+
+Le Réel est toujours médié. Ses médiations se font passer pour des représentations, or elles ont un rôle structurant et même déterminant. C'est la fonction performative des médias et des représentations.
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/streetview.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Double enjeu
+* Bien structurer les contenus (en vue de leur organisation / appropriation) = métadonnées
+* Comprendre les logiques de recherche / indexation = algorithmes
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/tweetmetadata.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Indexation et métadonnées
+* Qu'est-ce qu'une métadonnée ?
+  * Une métadonnée est littéralement une donnée sur une donnée. Il s'agit d'un ensemble structuré d'informations décrivant une ressource quelconque, en vue de retrouver cette ressource parmi d'autres.
+
+===
+
+Les métadonnées sont la carte d’identité d’un document. Elles permettent de l’identifier, de le décrire, d’expliquer l’origine de sa création, son utilité et ses destinataires.
+Au-delà de cette seule description, elles facilitent la recherche et le partage des ressources, la gestion de collections, leur préservation autant que la gestion des droits et l’authentification des documents.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/tweetmetadata.png" data-background-size="contain" -->
+
+===
+
+L’usage des métadonnées relève d’une pratique ancienne dans les bibliothèques et centres de documentation, habitués à normaliser le signalement et le contenu des documents.
+
+Ainsi, les fiches cartonnées normalisées en 1954 sous la référence ISBD (International standard bibliographic description) ont progressivement fait place à des notices bibliographiques comme le format MARC (Machine-readable cataloging) utilisé pour la description des ouvrages, MARC ISBD(S) (International Standard Bibliographic Description for Serials), pour la description des publications en série, puis à des schémas spécifiques de description des ressources numériques, à l’instar du langage Dublin Core.  
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/metadonneeExterne.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+* Métadonnées externes (cf. fiches d'un catalogue)
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/metadonneePage.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+* Métadonnées embarquées (balise d'une page web)
+
+===
+Les métadonnées sont présentes soit de manière embarquée (exemple dans un fichier informatique : photo, logiciel, document, …), soit de manière externe (exemple dans un catalogue d’accompagnement d’un jeu de données ou dans un annuaire d’entrepôts).
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/metadonneePage.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Les types de métadonnées :
+* métadonnées de gestion permettant d’accéder au document (auteur, titre, date de création, date de modification, langue…) ;
+* métadonnées de description, pour en comprendre le contenu (sujet, description) ;
+* métadonnées de préservation, pour garantir la pérennité de l’accès et de la compréhension du document (droits, format du fichier, source, résolution, relation, couverture…).
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Gérer / partager
+Les métadonnées permettent de :
+* Organiser et gérer l’ensemble des productions culturelles, tracer leurs transformations, définir leurs usages, identifier l’auteur
+* Préparer le partage et l’interopérabilité.
+* Prévoir la pérennisation
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Trouver, comprendre, réutiliser
+* Faciliter la recherche des données de recherche et publications
+* Aider à comprendre les jeux de données (recueil, structure et contexte), pour leur réutilisation
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/PostIt.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+>Selon notre façon de baliser les informations, nous les rendons accessibles, visibles et exploitables, mais nous construisons aussi une taxinomie du monde. Les métadonnées constituent un outil technique destiné à rendre compte de notre vision du monde et de la structuration de l’ensemble de nos connaissances. C’est parce qu’elle a produit une taxinomie précise et vaste que l’œuvre d’Aristote a autant marqué notre culture occidentale. ([Grégory Fabre, Sophie Marcotte, "L’organisation des métadonnées"](https://books.openedition.org/pum/332))
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/dublin-core-elements-2.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Les standards de métadonnées
+* Dublin Core (interdisciplinaire), description des ressources numériques
+* MARC (Machine-readable cataloging), description du contenu des bibliothèques
+* EAD (Encoded Archival Description), description des archives
+* DDI (Data Documentation Initiative), domaine des sciences sociales, comportementales et économiques
+
+
+===
+Le standard a pour objectif de fournir un ensemble d’éléments caractéristiques qui permettent de décrire les productions. Ainsi la recherche peut être facilitée en portant sur les critères définis. La description des éléments peut elle-même être précisée par l’emploi de vocabulaires dédiés.
+Le standard est choisi en fonction de la destination des données, dépôt, publication, archivage, etc. Il peut être caractérisé par son vocabulaire, et peut être spécialisé par discipline, par type de données, etc.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/dublin-core-elements-2.jpg" data-background-size="contain" -->
+
+===
+
+Il s’agissait de produire une recommandation pour la description bibliographique des documents ou objets se trouvant sur le web, dans une bibliothèque numérique ou même ailleurs.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/rameau.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Les Autorités
+* RAMEAU (Répertoire d’autorité matière encyclopédique et alphabétique unifié )
+
+===
+
+RAMEAU (Répertoire d’autorité-matière encyclopédique et alphabétique unifié) est le langage d’indexation matière utilisé, en France, par la Bibliothèque nationale de France, les bibliothèques universitaires, de nombreuses bibliothèques de lecture publique ou de recherche ainsi que plusieurs organismes privés.
+
+Il est élaboré depuis 1980, de façon autonome, en relation avec le « Répertoire de vedettes-matière » de l’Université Laval à Québec, et avec la liste de vedettes-matière de la Bibliothèque du Congrès (Library of Congress Subject Headings).
+
+Le langage d’indexation précoordonné RAMEAU se compose d’un vocabulaire de termes reliés entre eux et d’une syntaxe indiquant les règles de construction des vedettes-matière à l’indexation. L’ensemble des notices d’autorité - dont le noyau est formé de noms communs et de noms géographiques - constitue les autorités RAMEAU.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/rameau.png" data-background-size="contain" -->
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/algo.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+### L'organisation algorithmique
+* Dominique Cardon :
+  * *La démocratie Internet* (2010)
+  * "À quoi rêve Google"
+  * *À quoi rêvent les algorithmes ?*
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+===
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/algo2.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+### Qu'est-ce qu'un algorithme ?
+Un algorithme désigne une suite d’instructions qui, une fois exécutée correctement, conduit à un résultat donné...
+Une recette de cuisine est, en un sens, un algorithme. En informatique, les algorithmes s’efforcent de nous suppléer dans de nombreuses tâches en réalisant à notre place une série d'opérations fastidieuses, notamment la sélection, le tri et la hiérarchisation de l’information.
+
+
+===
+
+Avez-vous déjà ouvert un livre de recettes de cuisine ? Avez vous déjà déchiffré un mode d’emploi traduit directement du coréen pour faire fonctionner un magnétoscope ou un répondeur téléphonique réticent ? Si oui, sans le savoir, vous avez déjà exécuté des algorithmes.
+Plus fort : avez-vous déjà indiqué un chemin à un touriste égaré ? Avez vous fait chercher un objet à quelqu’un par téléphone ? Ecrit une lettre anonyme stipulant comment procéder à une remise de rançon ? Si oui, vous avez déjà fabriqué – et fait exécuter – des algorithmes.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/algo.jpeg" -->
+<!-- .slide: class="hover"-->
+
+### Qu'est-ce qu'un algorithme ?
+* Un algorithme n'est pas neutre
+* Un algorithme n'est pas une création machinique : il a été programmé
+* De nombreux travaux montrent combien les algorithmes ont tendance à :
+  - reproduire les préjugés
+  - encourager des comportements sociaux discriminants (sexisme, racisme)
+===
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/algo.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+>Les algorithmes qui permettent de hiérarchiser les informations enferment des principes de classement et des visions du monde. Ils structurent très profondément la manière dont les internautes voient les informations et se représentent le monde numérique dans lequel ils se promènent, sans toujours soupçonner le travail souterrain qu’exercent les algorithmes sur leur itinéraire. (Dominique Cardon)
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/matrix.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Les quatre familles d'algorithmes
+* *à côté du web* (mesure d'audience et popularité des sites)
+* *au-dessus du web* (algorithme de hiérarchisation de l’autorité)
+* *dans le web* (algorithme de mesure de réputation)
+* *au-dessous* (algorithme prédictif)
+===
+
+Cardon distingue quatre familles de calcul numérique, différenciées à la fois selon leur positionnement figuratif par rapport à l’objet du calcul et selon leur principe de référence
+
+* *à côté du web* (ordonnent la popularité des sites)
+* *au-dessus du web* (hiérarchisent l’autorité des sites,
+* *dans le web* (les mesures de réputation des personnes et des choses)
+* *au-dessous*, les calculs qui cherchent à déchiffrer le comportement d’un internaute à travers une prédiction déduite du comportement d’un autre internaute.
+
+La popularité, l’autorité, la réputation, la prédiction, voilà les quatre valeurs fondamentales qui sont à la fois productrices et produits des différents types d’algorithmes qui, dans les plateformes actuelles, s’intègrent l’un à l’autre et dont Cardon esquisse l’histoire.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/GAateliers.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Algorithme de mesure d'audience
+* dit "à côté du web"
+* calcule le nombre de "clics" ou de "vues"
+* exemple : médiamétrie, affichage publicitaire, google analytics
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/GAateliers.png" data-background-size="contain" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/gaAtelier2.png" data-background-size="contain" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/GAateliers.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+* De la visite au "visiteur" unique (adresse IP)
+
+>Déjà imparfaite dans le monde de la télévision, cette mesure révèle de redoutables imprécisions lorsqu’elle est appliquée au web. Car cette méthode ne sait jamais très bien qui se trouve derrière l’ordinateur familial. Elle suppose que les parcours multiples, rapides et enchevêtrés d’une navigation sur le web équivalent à une information lue, vue ou entendue dans les médias traditionnels. (Dominique Cardon)
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+===
+
+Modèle primitif, né dès les 1990's qd on cherchait à connaître le nombre de visites.
+Inspiré des mesures de médiamétrie traditionnelles, liés aux médias de masse comme la TV
+
+Soumis aux pressions concurrentielles d’un marché publicitaire qui paie peu, les sites d’informations cherchent à attirer de l’audience à travers des contenus divertissants « attrape-clics » (pratique qualifiée de clickbait).
+
+la médiocrité de la mesure d’audience a contribué à la chute des tarifs publicitaires sur Internet. Mais cette métrique présente, pour les annonceurs, un autre défaut. Comme l’affichage publicitaire classique, elle enregistre la fréquentation des sites et non l’efficacité des messages.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/clickbait-quiz-1.jpg" data-background-size="contain" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/pageRank.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Algorithme de hiérarchisation de l'autorité
+* dit "au-dessus" du web
+* établit l'autorité d'un site en fonction du nombre d'hyperliens qui pointent vers lui
+* Exemple : PageRank (moteur de recherche Google) ; Wikipédia (plus une page est "*linkée*", plus elle est considérée comme fiable)
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/google.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+* Comment retrouver un document ?
+* Du classement lexical (recherche par mot-clés) à l'indice de citation (force sociale de la page)
+
+===
+Problème : comment trouver un document sur le web, qd des millions de documents sont publiés chaque jour ?
+
+
+Avant Google, les premiers moteurs de recherche (Lycos, Alta Vista) étaient lexicaux : ils classaient mieux les sites qui contenaient le plus de fois le mot-clé de la requête de l’utilisateur dans leurs pages.
+
+Les créateurs de Google vont opter pour une tout autre stratégie : plutôt que de demander à l’algorithme de comprendre ce qui dit la page, ils vont proposer de mesurer la force sociale de la page dans la structure du web.
+
+
+L’algorithme du moteur de recherche ordonne les informations en considérant qu’un site qui reçoit d’un autre un lien reçoit en même temps un témoignage de reconnaissance qui lui donne de l’autorité.
+il classe les sites à partir d’un vote censitaire au fondement méritocratique.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/pageRank.jpeg" data-background-size="contain" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/Internet-monde.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+* De la sagesse des foules à l'intelligence collective ?
+
+>Dans son principe initial, le PageRank, l’algorithme qui a fait la fortune de Google, considère que les liens hypertextes enferment la reconnaissance d’une autorité : si le site A adresse un lien vers le site B, c’est qu’il lui accorde de l’importance. Qu’il dise du bien ou du mal de B n’est pas la question ; ce qui importe est le fait que A ait jugé nécessaire de citer B comme une référence, une source, une preuve, un exemple ou un contre-exemple.
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/Internet-monde.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+* Les limites de la méritocratie
+
+>Les lecteurs silencieux sont oubliés et le dénombrement des liens n’a rien du vote démocratique. Plus un site est cité par les autres, plus la reconnaissance qu’il adresse à d’autres a de poids dans le calcul d’autorité. Empruntée au système de valeurs de la communauté scientifique et notamment aux classements des revues scientifiques qui donnent plus de poids aux articles les plus cités par les autres, cette mesure de reconnaissance a spectaculairement prouvé qu’elle constituait l’une des meilleures approximations possible de la qualité des informations.
+
+<!-- .element: style="font-size:1.6rem; text-align:justify" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/Internet-monde.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+>Alors que les journalistes filtrent l’information sur la base d’un jugement humain avant de la publier, les moteurs de recherche (ainsi que Google News) filtrent a posteriori une information déjà publiée sur la base des jugements humains émis par l’ensemble des internautes qui publient sur le web.
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/clickbait-quiz-1.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+* Détournement et optimisation : une valse sans fin
+>À la manière de la claque théâtrale, les stratèges du marché du référencement paient ou fabriquent des sites qui citent leurs clients : ils placent des liens vers le site cible dans les commentaires de blogs, glissent subrepticement un lien dans Wikipédia, créent des « fermes » de faux sites liés les uns aux autres pour adresser ensuite un lien hypertexte vers la cible, produisent de faux contenus (parfois produits par des robots) pour tromper l'algorithme. La plupart de ces techniques sont aujourd’hui devenues inefficaces en raison des modifications incessantes que Google apporte à l’algorithme pour décourager ceux qui essaient de tromper son classement. Mais ce jeu du chat et de la souris entre les webmestres et les concepteurs de l’algorithme est sans fin.
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/like.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Algorithme de mesure de réputation
+* dit "dans le web"
+* utilise les compteurs valorisant la réputation des personnes et des choses (les "*like*")
+* exemple : les réseaux sociaux
+
+===  
+
+"les réseaux sociaux d’Internet proposent-ils d’éclater les classements, afin de les réorganiser par affinités autour du cercle d’« amis » ou de followers que s’est choisi l'internaute"
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/like.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+* Je suis donc je "like"
+>Alors que Google cherche à cacher le calculateur au-dessus du web afin que les internautes ne s’en emparent pas, les métriques de réputation du web social le glissent dans le web pour que les internautes se mesurent eux-mêmes. Le symbole de ces nouveaux calculs est le like de Facebook, pointe avancée d’un ensemble beaucoup plus large et disparate d’indicateurs mesurant la taille des réseaux personnels par le nombre d’amis, la réputation acquise en fonction du nombre d’informations publiées que d’autres internautes ont ensuite commentées ou partagées, le nombre de fois où le nom de l’internaute a été prononcé dans la conversation des autres, etc.
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/influenceur.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+* Le sacre de l'"influenceur"
+>Le web social de Facebook, Twitter, Pinterest, Instagram, etc., s’est ainsi couvert de chiffres et de petits compteurs, des « gloriomètres », pour reprendre une expression de Gabriel Tarde. Alors que dans le monde de l’autorité, la visibilité se mérite, dans celui des affinités numériques, elle peut se fabriquer. Façonner sa réputation, animer sa communauté d’admirateurs ou anticiper la viralité de ses messages constitue même un savoir-faire valorisé.
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/influenceur.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+* Le règne de l'évaluation
+>Dans le cas des biens culturels, comme l’évaluation des films cinématographiques, les notes ont plus d’importance qu’une collection d’avis singuliers9. Lorsque l’évaluation du bien comporte des aspects techniques, la parole d’experts est préférée à l’agrégation des notes de consommateurs peu compétents. La démocratisation de l’évaluation profane associe l’idée de pouvoir tout noter à celle de faire noter tout le monde.
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/bulle.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+* Tous dans sa bulle (de filtres) ? (Eli Pariser)
+  - filtrage de l'information en fonction de notre "profil"
+  - isolement intellectuel et culturel
+  - un bulle construite par nos choix + les algorithmes
+
+
+===
+La bulle de filtres1 ou bulle de filtrage1 (de l’anglais : filter bubble) est un concept développé par le militant d'Internet Eli Pariser. Selon Pariser, la « bulle de filtres » désigne à la fois le filtrage de l'information qui parvient à l'internaute par différents filtres ; et l'état d'« isolement intellectuel » et culturel dans lequel il se retrouve quand les informations qu'il recherche sur Internet résultent d'une personnalisation mise en place à son insu.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/predictif.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Algorithme prédictif
+* dit "sous le web"
+* utilise des méthodes statistiques pour calculer / prédire, à partir des traces de nos navigations, nos comportements
+* exemple : recommandation Netflix, Amazon, sites d'achat en ligne, publicité ciblée
+
+===
+
+les mesures prédictives destinées à personnaliser les informations présentées à l’utilisateur déploient, sous le web, des méthodes statistiques d’apprentissage pour calculer les traces de navigation des internautes et leur prédire leur comportement à partir de celui des autres.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/predictif.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+
+* Collecte de données / traces disséminées par l'internaute
+* Machine learning (personnalisation du calcul à partir de la comparaison des comportements des internautes)
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/predictif.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+
+>À grand renfort de travaux de psychologie et d’économie expérimentales, les architectes des nouveaux algorithmes des big data assurent qu’il ne faut faire confiance qu’aux conduites réelles des individus, et non à ce qu’ils prétendent faire lorsqu’ils se racontent sur les très expressives plateformes du web social. Les régularités globales observées sur de grandes masses de traces doivent permettre d’estimer ce que l’utilisateur risque de faire
+réellement. Les algorithmes prédictifs ne donnent pas une réponse à ce que les gens disent vouloir faire, mais à ce qu’ils font sans vouloir vraiment se le dire.
+
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+===
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/youtube.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+* Les algorithmes prédictifs : outils marketing des industries culturelles
+* Prédiction ou prescription ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/streetview.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+>Comme les GPS dans les véhicules, les algorithmes se sont silencieusement glissés dans nos vies. Ils ne nous imposent pas la destination. Ils ne choisissent pas ce qui nous intéresse. Nous leur donnons la destination et ils nous demandent de suivre "leur" route. La conduite GPS s'est si fortement inscrite dans les pratiques des conducteurs que ceux-ci ont parfois perdu toute idée de la carte, des manières de la lire, de la diversité de ses chemins et des joies de l'égarement.
+Les algorithmes [procèdent] d'un désir d'autonomie et de liberté. Mais ils contribuent aussi à assujettir l'internaute à cette route calculée, efficace, automatique, qui s'adapte à nos désirs en se réglant secrètement sur le désir des autres. Avec la carte, nous avons perdu le paysage. Le chemin que nous suivons est le "meilleur" pour nous.
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/rondepierre.png" -->
+<!-- .slide: class="hover"-->
+
+## Conclusion
+L'organisation des contenus sur le web passe par des outils - métadonnées, algorithmes - dont les concepteurs cherchent avant tout à servir une série d'intérêt (notamment économiques). Connaître le fonctionnement de l'indexation est essentiel pour être conscient des biais dans l'organisation des contenus sur les moteurs de recherche ou les grandes plateformes. Mais il faut aussi être conscient que ces outils et l'ordonnancement qu'ils suscitent on un impact sur nos sociétés.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+## Conclusion générale
