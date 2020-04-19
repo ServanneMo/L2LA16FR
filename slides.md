@@ -2561,8 +2561,18 @@ Cet axe proposera une étude des risques liés au nouveaux modes de production, 
   - Reposer sur des sources traçables, identifiables, vérifiables
 
 ===
-Info = qu'est-ce qu'une information ? Dans le sens d'une nouvelle, càd d'une information transmise par un journaliste, un media ou
-Une information digne de ce nom doit obéir à un trois impératifs fondamentaux :
+D'abord, différencier la donnée et l'information.
+
+Dans sa définition la plus générale, une donnée désigne un fait ou un élément "brut", qui n'a pas encore été traité ou mise en contexte. Une information, en ce sens, sera une donnée interprétée et médiatisée, recontextualisée. Un exemple très simple : si je suis météorologue, je vais m'appuyer sur un ensemble de données telles que la température, la puissance et le sens du vent, la pression atmosphérique. les précipitations, etc. Tous ces éléments peuvent être considérés comme des données. Si je décide de faire un bulletin météo, je vais alors mettre ces données en relation pour tenter d'en tirer une synthèse voire une interprétation. Afin de diffuser ma synthèse au public, je vais l'organiser avec des visualisations, une narration. Mes données deviennent alors une information.
+Si la distinction entre donnée brute et information interprétée et contextualisée est donc importante, il faut tout de même se méfier d'une tendance qui attribue à la donnée une objectivité pure. La donnée, justement, n'est pas toujours "donnée" : elle est construite. Pour savoir que je dois connaître la pression atmosphérique afin de faire un bon bulletin météo, cela exige des connaissances préalables. Une donnée s'appuie donc toujours sur un choix, une connaissance en amont, qui exige que l'on choisisse d'analyser tel aspect du réel plutôt qu'un autre.
+
+Si la donnée n'est donc pas toujours objective, c'est encore moins le cas d'une information (dans le sens d'une nouvelle) transmise par un journaliste, un media ou une personne.
+
+En journalisme, Une information digne de ce nom doit obéir à un trois impératifs fondamentaux :
+- Avoir un intérêt pour le public (cf. loi des proximités)
+- Être factuelle (information n’est pas opinion)
+- Reposer sur des sources traçables, identifiables, vérifiables
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/6a00d8341c622e53ef0240a4adcceb200d-500wi.jpg" data-background-size="contain"-->
@@ -2609,7 +2619,8 @@ Ces chiffres donnent le tournis, mais que révèlent-il exactement ? L'infobési
 Regardons un peu les habitudes de consommation qui se cachent derrière ces chiffres
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/stat2018_chuteTV.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/arcep.png" data-background-size="contain" -->
+
 
 ===
 Les mutations des habitudes de consommation des citoyens sont scrutées à la loupe par une série d'observatoires et le gouvernement qui, évidemment, est soucieux de mesurer les changement d'habitudes des habitants. Il s'agit notamment de voir comment adapter au mieux les politiques publiques, les services publiques, aux citoyens d'aujourd'hui. Avec un important facteur: celui du calcul de la fameuse "fracture numérique", dont les effets se font criant à l'heure actuelle dans une situation de confinement où les outils numériques sont très sollicités.
@@ -2627,6 +2638,11 @@ https://www.arcep.fr/uploads/tx_gspublication/infographie-barometre-num-2019.pdf
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/stat2018_chuteTV.png" data-background-size="contain" -->
 
+Source: [Le baromètre du numérique (ARCEP) 2018](https://www.arcep.fr/cartes-et-donnees/nos-publications-chiffrees/numerique/le-barometre-du-numerique.html)
+
+<!-- .element: class="source" -->
+
+
 ===
 Chute drastique de la TV :
 - de moins en moins regardée, surtout par une tranche d'âge
@@ -2634,6 +2650,11 @@ Chute drastique de la TV :
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/stats2018_smartphone.png" data-background-size="contain" -->
+
+
+Source: [Le baromètre du numérique (ARCEP) 2018](https://www.arcep.fr/cartes-et-donnees/nos-publications-chiffrees/numerique/le-barometre-du-numerique.html)
+
+<!-- .element: class="source" -->
 
 ===
 
@@ -2645,10 +2666,15 @@ Cette concentration sur 1 seul média qui accueille tous les media portent a ten
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/echo.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
 
 >Six internautes sur dix partageront cet article sur Twitter alors qu'ils ne sont pas allés voir plus loin que le titre. "La plupart des gens retweetent des informations sans jamais les lire". Telle est la conclusion d'une nouvelle étude menée par l'université de Columbia et l'Institut national de recherche en informatique et en automatique (INRIA).
 
+<!-- .element: style="font-size:1.8rem" -->
+
 >"C'est typique de la consommation moderne d'information. Les gens se forment une opinion basée sur un résumé, ou un résumé de résumés, sans aucun effort d'approfondissement", explique Arnaud Legout, le co-auteur de l'étude
+
+<!-- .element: style="font-size:1.8rem" -->
 
 ===
 
@@ -2661,6 +2687,7 @@ Ce qui amène à des comportements parfois étonnants : une étude a ainsi démo
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/stat2019_smartphone.png" data-background-size="contain" -->
 
+Source: [Le baromètre du numérique (ARCEP) 2019](https://www.arcep.fr/cartes-et-donnees/nos-publications-chiffrees/numerique/le-barometre-du-numerique.html)
 ===
 Des comportements limites et des pb dont sont plus ou moins conscients les usagers, d'ailleurs.
 Confirmation dans les stats de l'an dernier, qui montre que sur ces appareils jouant le rôle de "super media" où convergent plein de medias, on a en fait une uniformisation des pratiques.
@@ -2683,13 +2710,7 @@ Impression de diversité, de choix, en vérité très trompeuse puisque fondamen
 <!-- .slide: data-background-image="img/stats3.png" data-background-size="contain" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/stats3.png" data-background-size="contain" -->
-
-===
-Pb écologique
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/XXX" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/echo.png" data-background-size="contain" -->
 
 ## Un problème comportemental
 * Des comportements compulsifs (On relaie des informations sans même les avoir relayées)
@@ -2721,10 +2742,12 @@ Les principaux auteurs sur le sujet sont Caroline Sauvajol-Rialland en France, D
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/infobesite.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/PostIt.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
->L’infobésité, c’est le fait de recevoir plus d’informations qu’il est possible d’en traiter sans porter atteinte à l’individu ou à son activité. Il n’existe pas de seuil objectif applicable à tout le monde pour le déclenchement de cette pathologie informationnelle, parce que nous ne sommes pas tous égaux du point de vue de nos capacités intellectuelles, en particulier de nos capacités mnésiques.
+>L’infobésité, c’est le fait de recevoir plus d’informations qu’il est possible d’en traiter sans porter atteinte à l’individu ou à son activité. Il n’existe pas de seuil objectif applicable à tout le monde pour le déclenchement de cette pathologie informationnelle, parce que nous ne sommes pas tous égaux du point de vue de nos capacités intellectuelles, en particulier de nos capacités mnésiques. (Caroline Sauvajol-Rialland)
+
+<!-- .element: style="font-size:1.6rem; text-align:justify" -->
 
 ===
 La production de données s’est démesurément amplifiée avec le passage au numérique. La quantité d’informations publiées sous ce format double tous les quatre ans. D’après Caroline Sauvajol-Rialland, nous avons produit plus d’informations ces 30 dernières années qu’en 5 000 ans d’histoire.
@@ -2748,7 +2771,8 @@ La production de données s’est démesurément amplifiée avec le passage au n
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/infobesite.png" -->
+<!-- .slide: data-background-image="img/PostIt.jpg" -->
+<!-- .slide: class="hover"-->
 
 ## Le journalisme à l'ère de l'infobésité
 
@@ -2771,7 +2795,7 @@ C'est l'occasion pour les journalistes de repenser leur métier, leur écriture 
 Remise en question, retour aux valeurs du journalisme
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/infobesite.png" -->
+<!-- .slide: data-background-image="img/plato.jpeg" -->
 <!-- .slide: class="hover"-->
 
 ### L'économie de l'attention : une nouvelle mesure de l'audience
@@ -2786,7 +2810,7 @@ Désormais il s'agit de récupérer du temps de conversation, de contribution. D
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/PostIt.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/umbrico.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ### Le nouvel enjeu de l'information : du quantitatif au qualitatif
@@ -2826,9 +2850,11 @@ Changement de rythme : aussi bien favoriser une immersion du lecteur dans des re
 
 D'autre manières d'écrire : pas d'objectivité à tout prix, mais une narration assumée par une voix, celle du reporter, qui rend compte d'une expérience du réel. SUbjectivité assumée.
 
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/Le1.png" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/" -->
+<!-- .slide: data-background-image="img/xxi.png" -->
 <!-- .slide: class="hover"-->
 
 ## Le mook
@@ -2850,7 +2876,7 @@ Du livre, ils ont le volume (environ 200 pages), le prix (autour de 20 euros), l
 Encore un media de niche.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/" -->
+<!-- .slide: data-background-image="img/decodex.png" -->
 <!-- .slide: class="hover"-->
 
 ## Du fact-checking à la critique des media
@@ -2865,7 +2891,7 @@ Aujourd’hui, la presse n’a pas bonne presse. Les médias d’information fon
 Première réponse à cette crise de confiance : le fack-chacking qui est devenu un genre de plus en plus populaire. Mais qu'est-ce que le fack checking exactement ? Est-ce vraiment une pratique inédite ?
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/" -->
+<!-- .slide: data-background-image="img/decodex.png" -->
 <!-- .slide: class="hover"-->
 
 ## Quelques outils en ligne pour vérifier ses sources
@@ -2880,7 +2906,7 @@ Première réponse à cette crise de confiance : le fack-chacking qui est devenu
 * L’outil *Citizen evidence*, développé par Amnesty international propose le même service que Tiny Eyes, mais appliqué aux contenus audiovisuels, en particulier ceux de Youtube
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/" -->
+<!-- .slide: data-background-image="img/arretSurImg.png" -->
 <!-- .slide: class="hover"-->
 
 * La critique media : ouvrir les coulisses et assurer son introspection
@@ -2891,6 +2917,11 @@ Première réponse à cette crise de confiance : le fack-chacking qui est devenu
 Cette atmosphère de défiance, méritée ou non, a le mérite de pousser les médias à dévoiler leurs propres coulisses et à réfléchir sur leur métier – redessinant ainsi les contours d’une déontologie qui n’avait évidemment jamais disparu, mais qui désormais s’affirme et s’affiche au sein même des médias. De l’émission culte *Arrêt sur images* au *Vrai du faux numérique* de France Info, en passant par La Fabrique médiatique sur France culture, de plus en plus de médias dédient des émissions entières à leur façon de traiter l’info.
 
 La « critique média » s’est ainsi imposée comme un genre hautement nécessaire à l’époque des fake news, qui permet aux journalistes de faire leur propre autocritique et de réaffirmer la déontologie journalistique. Il s’agit, ainsi, d’identifier les ressorts rhétoriques du discours journalistique, pour mieux les déconstruire. Le journaliste Daniel Schneidermann est l’une des figures de proue de ce mouvement de « critique média », qu’il pratique depuis 1995.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/cividCarte.png" -->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EOWnxkPuh-k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/cividCarte.png" -->
@@ -3023,6 +3054,9 @@ Tant que vous ne vous êtes pas enregistré, nous ne pouvons pas vous proposer u
 
 ## Conclusion
 L'infobésité désigne à l'origine une dérive des média - dont les usagers sont devenus de friands consommateurs, souvent mal avisés : trop d'information, de mauvaise qualité, répétitive. Avec le développement du web et surtout des médias sociaux, cette surconsommation n'a fait que s'aggraver, d'autant plus que nous sommes devenus nous-mêmes des producteurs de données, destinées à alimenter un *bid data* que l'on ne sait pas encore interpréter correctement. A quoi ressemble le monde dans cette ère d'information de masse ? Comment le représenter ? Face à cette déferlante d'information, les écritures journalistiques ont commencé à se réinventer. Du mook à la data-visualisation, elles "zooment" ou au contraire "dézooment" sur le monde, entre micro-analyse et macro-analyse, subjectivité assumée ou tentative d'objectivation du réel.
+
+<!-- .element: style="font-size:1.6rem; text-align:justify" -->
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/" data-background-size="contain" -->
