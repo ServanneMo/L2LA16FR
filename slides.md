@@ -2688,6 +2688,10 @@ Ce qui amène à des comportements parfois étonnants : une étude a ainsi démo
 <!-- .slide: data-background-image="img/stat2019_smartphone.png" data-background-size="contain" -->
 
 Source: [Le baromètre du numérique (ARCEP) 2019](https://www.arcep.fr/cartes-et-donnees/nos-publications-chiffrees/numerique/le-barometre-du-numerique.html)
+s
+<!-- .element: class="source" -->
+
+
 ===
 Des comportements limites et des pb dont sont plus ou moins conscients les usagers, d'ailleurs.
 Confirmation dans les stats de l'an dernier, qui montre que sur ces appareils jouant le rôle de "super media" où convergent plein de medias, on a en fait une uniformisation des pratiques.
@@ -2711,8 +2715,9 @@ Impression de diversité, de choix, en vérité très trompeuse puisque fondamen
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/echo.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
 
-## Un problème comportemental
+## Conséquences
 * Des comportements compulsifs (On relaie des informations sans même les avoir relayées)
 * Un manque de diversité (des technologies, des outils)
 * Un manque de respect des contraintes écologiques
@@ -2795,7 +2800,7 @@ C'est l'occasion pour les journalistes de repenser leur métier, leur écriture 
 Remise en question, retour aux valeurs du journalisme
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/plato.jpeg" -->
+<!-- .slide: data-background-image="img/plato.jpeg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ### L'économie de l'attention : une nouvelle mesure de l'audience
@@ -2870,7 +2875,11 @@ Il s'agit de véritables objets éditoriaux, qui surprennent par leur format, le
 Du livre, ils ont le volume (environ 200 pages), le prix (autour de 20 euros), la diffusion en librairie, et une écriture (verbale ou graphique) qui prend son temps et se décline sous des formes variées, volontiers empruntées à la littérature : portraits, récits, carnets, nouvelles, portfolios, journaux de voyage, traductions… Du magazine, ils ont la périodicité, le rubriquage, l’information, mais une information décalée, qui choisit ses sujets aux marges de l’actualité généralement traitée par la presse.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/slowjournalismChiffres.png" -->
+<!-- .slide: data-background-image="img/xxi.png" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/slowjournalismChiffres.png" data-background-size="contain" -->
 
 ===
 Encore un media de niche.
@@ -2919,7 +2928,6 @@ Cette atmosphère de défiance, méritée ou non, a le mérite de pousser les m�
 La « critique média » s’est ainsi imposée comme un genre hautement nécessaire à l’époque des fake news, qui permet aux journalistes de faire leur propre autocritique et de réaffirmer la déontologie journalistique. Il s’agit, ainsi, d’identifier les ressorts rhétoriques du discours journalistique, pour mieux les déconstruire. Le journaliste Daniel Schneidermann est l’une des figures de proue de ce mouvement de « critique média », qu’il pratique depuis 1995.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/cividCarte.png" -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EOWnxkPuh-k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -2940,7 +2948,7 @@ Mais des outils grand public ont été mis à disposition ces dernières années
 De plus en plus de journaux proposent d'ailleurs à leurs lecteurs de jouer avec des cartes et des données : voir par exemple les projections pour des éléections par région, par vill, par parti ou candiat.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/statGoogleCovidDeplacement.png" -->
+<!-- .slide: data-background-image="img/statGoogleCovidDeplacement.png" data-background-size="contain" -->
 
 ===
 On le voit très bien aujourd'hui, par exemple, avec l'épidémie de COVID.
@@ -2948,7 +2956,7 @@ Google utilise les données (selon l'entreprise, des données entièrement anony
 https://www.gstatic.com/covid19/mobility/2020-04-11_FR_Mobility_Report_en.pdf
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/modelisation.png" -->
+<!-- .slide: data-background-image="img/modelisation.png" data-background-size="contain" -->
 
 ===
 La visualisation relève ainsi de l’infographie, un genre journalistique visant à présenter et expliquer de manière claire et schématique des problèmes complexes, impliquant des données nombreuses et hétérogènes. L’infographie est apparue dans la presse dès le XIXe siècle, en même temps qu’un goût certain pour les analyses statistiques et autres sondages (dont le succès ne s’est toujours pas démenti), ainsi qu’une tendance à modéliser le réel.
@@ -3051,6 +3059,7 @@ Tant que vous ne vous êtes pas enregistré, nous ne pouvons pas vous proposer u
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/DoNotTrack2.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
 
 ## Conclusion
 L'infobésité désigne à l'origine une dérive des média - dont les usagers sont devenus de friands consommateurs, souvent mal avisés : trop d'information, de mauvaise qualité, répétitive. Avec le développement du web et surtout des médias sociaux, cette surconsommation n'a fait que s'aggraver, d'autant plus que nous sommes devenus nous-mêmes des producteurs de données, destinées à alimenter un *bid data* que l'on ne sait pas encore interpréter correctement. A quoi ressemble le monde dans cette ère d'information de masse ? Comment le représenter ? Face à cette déferlante d'information, les écritures journalistiques ont commencé à se réinventer. Du mook à la data-visualisation, elles "zooment" ou au contraire "dézooment" sur le monde, entre micro-analyse et macro-analyse, subjectivité assumée ou tentative d'objectivation du réel.
