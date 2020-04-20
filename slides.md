@@ -2688,7 +2688,7 @@ Ce qui amène à des comportements parfois étonnants : une étude a ainsi démo
 <!-- .slide: data-background-image="img/stat2019_smartphone.png" data-background-size="contain" -->
 
 Source: [Le baromètre du numérique (ARCEP) 2019](https://www.arcep.fr/cartes-et-donnees/nos-publications-chiffrees/numerique/le-barometre-du-numerique.html)
-s
+
 <!-- .element: class="source" -->
 
 
@@ -2718,8 +2718,8 @@ Impression de diversité, de choix, en vérité très trompeuse puisque fondamen
 <!-- .slide: class="hover"-->
 
 ## Conséquences
-* Des comportements compulsifs (On relaie des informations sans même les avoir relayées)
-* Un manque de diversité (des technologies, des outils)
+* Des comportements compulsifs (On relaie des informations sans même les avoir lues)
+* Un manque de diversité (on utilise tous les mêmes technologies, outils)
 * Un manque de respect des contraintes écologiques
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -2843,7 +2843,7 @@ Dans un monde de plus en plus complexe, la valeur est aujourd'hui dans le contex
 ## La tendance au "slow-journalism"
 * Pas de contenus publicitaire (modèle payant)
 * Changement de rythme (en mode lecture mais aussi en mode actualité)
-* Travail graphique de l'objet (héritage reportage visuel, typographie et mise en forme)
+* Travail graphique de l'objet (reportage visuel, typographie et mise en forme)
 
 ===
 
@@ -2863,7 +2863,7 @@ D'autre manières d'écrire : pas d'objectivité à tout prix, mais une narratio
 <!-- .slide: class="hover"-->
 
 ## Le mook
-Le mook [mot-valise composé de *magazine* + *book*] est une publication périodique de forme hybride, entre magazine, revue et livre. Le contenu privilégie les grands reportages et les enquêtes approfondies, les textes étant illustrés par des dessins et des photographies, et le traitement passant aussi par de la bande dessinée.
+Le mook [mot-valise composé de *magazine* + *book*] est une publication périodique de forme hybride, entre magazine, revue et livre. Le contenu privilégie les grands reportages et les enquêtes approfondies, les textes étant illustrés par des dessins et des photographies.
 * Exemples : *XXI*, *Usbek et Rika*, *Les Jours*, *Le 1*, etc.
 
 ===
@@ -3062,9 +3062,9 @@ Tant que vous ne vous êtes pas enregistré, nous ne pouvons pas vous proposer u
 <!-- .slide: class="hover"-->
 
 ## Conclusion
-L'infobésité désigne à l'origine une dérive des média - dont les usagers sont devenus de friands consommateurs, souvent mal avisés : trop d'information, de mauvaise qualité, répétitive. Avec le développement du web et surtout des médias sociaux, cette surconsommation n'a fait que s'aggraver, d'autant plus que nous sommes devenus nous-mêmes des producteurs de données, destinées à alimenter un *bid data* que l'on ne sait pas encore interpréter correctement. A quoi ressemble le monde dans cette ère d'information de masse ? Comment le représenter ? Face à cette déferlante d'information, les écritures journalistiques ont commencé à se réinventer. Du mook à la data-visualisation, elles "zooment" ou au contraire "dézooment" sur le monde, entre micro-analyse et macro-analyse, subjectivité assumée ou tentative d'objectivation du réel.
+L'infobésité désigne à l'origine une dérive des média - dont les usagers sont devenus de friands consommateurs, souvent mal avisés : trop d'information, de mauvaise qualité, répétitive. Avec le développement du web et surtout des médias sociaux, cette surconsommation n'a fait que s'aggraver, d'autant plus que nous sommes devenus nous-mêmes des producteurs de données, destinées à alimenter un *big data* que l'on ne sait pas encore interpréter correctement. A quoi ressemble le monde dans cette ère d'information de masse ? Comment le représenter ? Face à cette déferlante d'information, les écritures journalistiques ont commencé à se réinventer. Du mook à la data-visualisation, elles "zooment" ou au contraire "dézooment" sur le monde, entre micro-analyse et macro-analyse, subjectivité assumée ou tentative d'objectivation du réel.
 
-<!-- .element: style="font-size:1.6rem; text-align:justify" -->
+<!-- .element: style="font-size:1.6rem " -->
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
