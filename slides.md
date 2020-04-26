@@ -3068,7 +3068,7 @@ L'infobésité désigne à l'origine une dérive des média - dont les usagers s
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/marvel.jpg" data-background-size="contain" -->
 
 ## Transmédier
 
@@ -3163,6 +3163,8 @@ Le transmédia, en tant que stratégie narrative et éditoriale / commerciale, s
 
 >En France, la notion de fan a longtemps désigné les plus passionnés des publics de films et amateurs de cinéma, épris des grandes stars internationales. Elle s’est ensuite étendue aux admirateurs des vedettes de la chanson, de la variété et du rock, puis des olympiens et vedettes de l’actualité (sportifs, princes, artistes, etc.), jusqu’aux admirateurs de l’ensemble des célébrités, ou des people d’aujourd’hui. Cette notion est devenue très floue et inclusive, renfermant une très grande variété d’individus, de pratiques, d’objets. (Gabriel Segré, le Publictionnaire)
 
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
 ===
 ref précédente
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -3211,7 +3213,7 @@ La narration transmédia : stratégie gagnante des industries culturelles "de ma
 ## Le transmédia : pré-requis, définition et principes
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/telephoneTransmedia.jpeg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/mobile-convergence.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 
@@ -3234,7 +3236,7 @@ La convergence dont parle Jenkins, c'est d'abord celle des environnements techni
 * Désormais, la distribution est assurée par de grands groupes qui vendent des catalogues entiers : la Consommation n'est plus fondée sur l'offre mais sur la demande (vers un nouveau rapport diffuseur-public) : c'est le cas de Netflix, Deezer, Spotify..
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/telephoneTransmedia.jpeg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/mobile-convergence.jpg" data-background-size="contain" -->
 
 
 ===
@@ -3467,7 +3469,7 @@ Modèle éditorial des fanfictions
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/Mondot.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/fanfiction.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 * Un nouveaux rapport de force : formules à la carte, critique en live, évaluation, vote, détournement, partage /recommandation (ou pas), piratage
@@ -3589,7 +3591,7 @@ Ce jeu fonctionnant obligatoirement avec internet n'est plus jouable.
     - *community manager*
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/inside.png" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/dsl-n-2-1325.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
 ## Les promesses du transmedia storytelling
@@ -3612,6 +3614,8 @@ Ce jeu fonctionnant obligatoirement avec internet n'est plus jouable.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/matrix.jpg" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
+
 
 >Le transmédia peut devenir ce que j'appelle une « fiction totale ». Une telle création mobilise non seulement le film, le jeu vidéo et Internet, mais s'invite dans la vie du joueur par des SMS ou des courriels sur son téléphone portable, sur sa page Facebook, et l'enrôle dans un « jeu de réalité augmentée » qui peut se dérouler sur plusieurs semaines.
 
@@ -3622,6 +3626,7 @@ Ce jeu fonctionnant obligatoirement avec internet n'est plus jouable.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/matrix.jpg" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
 
 >Aristote décrivait les histoires, comme ayant un début, un milieu et une fin. Mais un arc narratif ne se prête pas facilement à la fragmentation et la dispersion sur de multiples documents. Imaginez combien il serait agaçant de lire le début d’une histoire dans un roman, puis de devoir aller au cinéma pour avoir l’épisode suivant, puis aller lire une bande-dessinée, pour finalement acheter un jeu vidéo afin de découvrir comment l’histoire se termine. Le transmédia évite ce problème en racontant une multitude d’histoires autonomes ou épisodes, maintenus ensemble à travers de multiples plateformes par le seul fait de prendre place dans le même monde fictionnel. Le public est prêt à chercher des informations au travers de multiples plateformes car il est attaché à un univers fictionnel qui ne révèle pas tous ses secrets. Mais seuls les plus férus d’énigmes aiment à assembler une histoire comme un puzzle à partir d’éléments disséminés sur de multiples supports. (Marie-Laure Ryan, [Le transmedia storytelling comme pratique narrative](https://journals.openedition.org/rfsic/2548))
 
@@ -3629,7 +3634,7 @@ Ce jeu fonctionnant obligatoirement avec internet n'est plus jouable.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/postcardsvalla-35d9b.jpg" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/dsl-n-2-1325.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
 ### Le transmédia : une promesse pas nécessairement tenue
@@ -3695,7 +3700,7 @@ quinze parfums représentant un lieu précis du royaume.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/westeros.png" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/inmemoriam.png" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
 >Les jeunes d'aujourd'hui sont nés avec le jeu vidéo. Ils passent leur temps à jouer ou à nourrir leur page Facebook. Pour eux, la télé, c'est le média de leurs grands-parents. La télévision se regarde d'une autre manière, sur Internet. Or sur Internet, on est actif  : on commente, on réagit. Demain, regarder une série télé, ce sera dialoguer avec un personnage et, pourquoi pas  ?, devenir l'un des héros de la série. Dans une dizaine d'années, toutes les séries télé seront transmédias, certaines fictions aussi. Elles auront intégré des principes de participation et d'interaction. Mais cela implique de mettre en œuvre de nouvelles écritures.
