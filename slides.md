@@ -3715,12 +3715,39 @@ quinze parfums représentant un lieu précis du royaume.
 ## Structurer l'espace numérique
 
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/Internet-monde.jpg" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
 
-<!-- .slide: data-background-image="img/Internet-monde.jpg" data-background-size="contain" -->
-## L'organisation du web : entre maîtrise et déprise
+## Structurer / représenter l'espace numérique
+
+===
+Nous allons aujourd'hui conclure notre axe de réflexion sur la production et la circulation de l'information à l'époque du numérique. C'est aussi l'occasion de clore le cours dans son ensemble, en tirant quelques enseignements clés pour comprendre la problématique de la représentation à l'époque du numérique.
+
+De la problématique de l'infobésité à la construction de systèmes de représentation inclusifs, immersifs et participatifs tels que les univers transmedia, les technologies contemporaines ont tout du _pharmakon_ décrit il y a plus de 2000 ans par Platon : un poison et un remède - ou vice-versa. Les nouveaux médias numériques fournissent aussi bien toutes les éléments d'un désastre annoncé que l'espoir d'un monde meilleur, plus transparent et plus démocratique. Avec d'un côté un monde où l'information, noyée dans sa propre masse, ne pourrait plus se démarquer qu'à coup de buzz, comme les FakeNews en fournissent régulièrement de beaux exemples - non sans entraîner de véritables menaces pour nos démocraties. Et simultanément, de l'autre côté, une revalorisation de principes éthiques, déontologiques, une construction de l'information qui se veut plus collective, participative et donc démocratique.
+
+Nous avons parcouru un chemin assez long depuis Platon, Aristote et les premiers débats sur la mimesis, soit l'imitation du réel, jusqu'aux médiations numériques contemporaines. Ce parcours nous a conduit à envisager les problèmes de la représentation sous plusieurs coutures : ontologiques, éthiques, esthétique et surtout médiatiques. Avec un enseignement majeur à tirer : les débats autour de ce concept fluctuant, complexe, voire parfois clivant, en disent probablement bien plus long sur les valeurs et le fonctionnement d'une société, que les définitions même du concept - des définitions rarement satisfaisantes, par ailleurs systématiquement discutées aussitôt établies...
+
+En tant que chercheurs, sémiologues, ou spécialistes de la communication, tout l'intérêt de questionner la représentation réside d'abord dans l'étude de la façon dont un groupe, une société, va débattre autour de ce concept. C'est là que se logent en effet les plus importants effets de sens.
+
+IL faut donc dépasser le technodéterminisme/technophobie, tout comme la technophilie : dépasser les jugements de valeur, pour bien comprendre les technologies par lesquelles passent nos représentations, car c'est par la connaissance des systèmes médiatiques que nous pouvons comprendre les biais de toute représentation, et mieux contrebalancer ces biais pour être capable de juger correctement une information qui nous est donnée.
+
+
+Ainsi, l'objectif n'est plus tant de dire quelle représentation est "meilleure" que l'autre, mais de s'élever à un niveau méta-réflexif pour comprendre le processus de construction des systèmes de représentation qui, aujourd'hui, font consensus - ou pas, d'ailleurs. Posons-nous la question : au nom de quoi une représentation devrait-elle être "meilleure" qu'une autre ? Est-ce parce qu'elle sera plus réaliste ? Non, car on a vu que les critères du réalisme ne cessaient de toute manière d'évoluer en même temps que les media eux-mêmes, depuis l'invention de la perspective, jusqu'à la 3D ou la réalité virtuelle. Demain, encore d'autres technologies viendront d'ailleurs réformer notre appréciation de ce que l'on appelle le réel, et donc les critères de ressemblance, de vraisemblance, de réalisme ou d'authenticité.
+
+
+Rappelons-le : Médier le réel, c'est le construire, et c'est le construire en le modélisant, en le rendant appréhendable, compréhensible - au sens étymologique du terme, "prendre avec soi". Représenter le monde, c'est chercher à le prendre avec soi, à s'en saisir, afin de mieux y habiter. Or comment représenter, comment comprendre et donc comment habiter le monde aujourd'hui ?
+
+Cette question résonne tout particulièrement dès lors que l'on s'intéresse à un outil numérique devenu incontournable : le web. Pour utiliser une métaphore faisant le lien avec une forme esthétique dont nous avons beaucoup parlé dans ces dernières semaines, le web est aujourd'hui une fenêtre sur notre monde. Mais il n'est pas seulement cela : il a tendance à le structurer largement, en influençant notre accès à l'information et par conséquent nos comportements. Du coup, la question à se poser est la suivante : comment le web est-il lui-même formé et lui-même structuré ? Comment, pour compléter la problématique, est construit, est structuré le media qui constitue notre fenêtre sur le monde contemporain et qui donc participe à structurer notre monde ?
+
+Vous l'aurez compris, aujourd'hui, nous allons parler d'organisation algorithmique. Pas de panique, l'objectif ici sera de comprendre la philosophie des algorithmes - ce n'est pas un cours de programmation. Après cette intro générale, un peu longue mais que je tenais à faire pour bien boucler le programme, je voudrais introduire plus précisément la question qui va nous occuper aujourd'hui.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/stats3.png" data-background-size="contain" -->
+
+===
+
+Rappel d'un problème que l'on a vu il y a 2 semaines : l'hégémonie des moteurs de recherche sur le web. En gros, on utilise tous Google. Cela ne serait pas si grave si nous ne l'utilisions pas si mal : la paresse, le manque de littératie numérique (cad de connaissance de la façon dont fonctionne vraiment ces outils) nous pousse à ne consulter que les premiers résultats de la première page, sans aller plus loin.
+
+Pourquoi dire que nous utilisons mal les outils ? Arrêtons nous d'abord sur les problèmes posés par cette manière de chercher...
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/Internet-monde.jpg" data-background-size="contain" -->
@@ -3730,30 +3757,94 @@ quinze parfums représentant un lieu précis du royaume.
 * Si je cherche un service sur *google maps*, j'ai tendance à ne considérer que la liste donnée par l'outil...
 * Je ne consulte souvent que les premiers résultats de ma recherche... (cf. la bataille du référencement pour les sites d'information sur la contraception et l'avortement)
 
+===
+
+J'en cite ici deux exemples : le fantastique outil de Google Maps, qui nous permet de ne plus jamais nous perdre, a agrégé une série d'informations qui ne relèvent plus seulement de la simple cartographie :
+  - des adresses de magasins
+  - des adresses de restaurants
+Toutes ces adresses font l'objet d'une évaluation et de commentaire. On peut connaître aussi l'achalandage en fonction des heures. Tant et si bien que lorsque je décide, par exemple, de me promener dans le quartier de la Sorbonne, je vais avoir en même temps une série de suggestions de cafés où me rendre : c'est une sorte de publicité - un autre terme est souvent avancé dans le domaine des économies numérique - celui de l'influence...
+
+AUtre exemple, encore plus simple et plus parlant probablement : celui des sites d'information pour les IVG : régulièrement, il y a une sorte de combat d'indexation entre le site d'information du gouvernement et des sites militants, généralement anti-OVG, pour la première place du classement.
+
+Tout cela pour dire que si la question de la structuration du web est aussi problématique, c'est parce qu'elle structure en fait le réel. Elle a un impact effectif sur notre monde et notre manière de l'habiter.
+
+Ce qui est intéressant, c'est de constater combien ces façon de faire, désormais courantes avec nos usages numériques, nous paraîtraient totalement inconcevables dans d'autres sphères d'action.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/Internet-monde.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+
+===
+
+Comparez un peu vos pratiques avec, par exemple, celle du flânage en libraire, ou dans un magasin de vêtement. Vous arrêtez-vous toujours seulement sur ce qui est présenté en vitrine ? Vous contentez-vous seulement de choisir les livres mis en évidences sur les présentoirs ? Ce goût que nous avons pour le flanage, la fouille dans les rayons d'une librairie, d'une boutique quelconque, nous le perdons la plupart du temps lors de nos recherches sur Google. Peu d'utilisateurs vont explorer les 100aines de résultats...
+
+Le problème qui se pose ici est notamment celui de l'autorité, de la légitimité. CHez mon libraire, même si je me contente de regarder les livres sélectionnés sur un présentoir, je peux identifier la personne qui est à l'origine de ce tri, de cette sélection. C'est d'ailleurs pour cela que nous finissons par avoir des "libraires" préférés : on sait que nous pouvons faire confiance en une personne qui aura du goût, parfois le même que le nôtre mais pas toujours. On se fie au jugement d'un professionnel du livre. C'est aussi de cette façon que l'on va choisir notre journal ou notre magazine préféré : nous identifions un groupe de journalistes, avec lesquels nous partageons des valeurs, notamment.
+
+Le problème d'un moteur de recherche comme Google, c'est qu'il nous propose lui aussi un tri, mais sans que l'on sache très bien 1) qui se cache derrière ce tri 2) sur quels critères ce tri s'est opéré.
+
+Cette question résonne de fait avec une problématique que nous avons étudiée il y a quelques semaines : celle la crise de la vérité. On a vu en effet que cette crise résidait d'abord dans la remise en cause profonde d'un modèle de légitimation qui ne fonctionne plus comme avant. Mais sur le moteur de recherche Google, par exemple, qui légitimise les contenus ?
+
+On voit bien ici que la question est complexe : déjà, le moteur de recherche que nous utilisons est avant tout une machine qui, en tant que telle, nous semble dénuée de "volonté". Il y a là une illusion d'objectivité qui se dégage de la nature informatique de l'outil : une série de calcul, dans lesquels personne n'interviendrait.
+Sauf que ces calculs ont été déterminés par des être humains... et que ces être humains ont, de leur côté, importés leurs biais. Le fait que les programmeurs de chez Google soient majoritairement des hommes blanc a souvent été dénoncé : on s'appercevait que certains algorithmes avaient tendance à reproduire des comportement racistes ou sexistes. Autre problème : le code, l'algorithme utilisé par les grands monopoles du web - GOogle, FB, etc - ne sont pas public, ou du moins pas complètement publics. C'est-à-dire que l'on e sait pas, globalement, comment ils fonctionnent.
+
+Sans aller jusqu'à l'échelle des GAFAM, ce problème de la transparence du code a été posée pour des algorithmes qui vous concerne directement : notamment celui de parcours sup, dont personne (à part le ministère), ne sait vraiment comment il fonctionne. N'est-ce pas là problématique ? Ce manque de transparence est ce que dénoncent les associations militantes en faveur d'une plus grande démocratie numérique :
+- la CNIL, dont il a été question la semaine dernière
+- la Quadrature du net
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/streetview.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
-### Un enjeu ontologique et politique
+### Comprendre la structuration du web : un enjeu ontologique et politique
 * Toute médiation joue un rôle structurant et déterminant dans la construction du réel
 * Nous construisons des outils pour calculer, structurer, organiser le web...
 * Ces calculateurs, en retour, nous construisent à leur tour...
 
 ===
-
-tendance à la superposition entre le monde tel qu'il est représenté et ses conceptions
-
-Le Réel est toujours médié. Ses médiations se font passer pour des représentations, or elles ont un rôle structurant et même déterminant. C'est la fonction performative des médias et des représentations.
-
+En résumé, comprendre le web est un enjeu ontologique et politique.
+Je me répète : Le Réel est toujours médié - il n'est donc pas question de dire ici que le numérique est une médiation pire que les autres... Mais puisque toute médiation cherche par nature à se faire oublier, à se rendre transparente, on oublie qu'elles ont un rôle structurant et même déterminant sur le réel. C'est la fonction performative des médias et des représentations.
+En raison même de cette tendance à la superposition entre le monde tel qu'il est représenté et ses conceptions, il nous faut au moins être capable de comprendre comment la représentation du monde contemporain s'effectue.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/streetview.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
-### Double enjeu
+### Maîtrise de la déprise
 * Bien structurer les contenus (en vue de leur organisation / appropriation) = métadonnées
 * Comprendre les logiques de recherche / indexation = algorithmes
+
+===
+Alors évidemment, un premier comportement pourrait nous pousser vers un rejet total des nouvelles technos... Mais bon, nous n'avons pas tout à fait le choix : on voit bien aujourd'hui qu'elles sont très utiles. Et surtout, la technophobie ne semble pas être une solution sage au long terme.
+
+L'enjeu sera plutôt de maîtriser la déprise imposée par certains outils. La déprise, c'est le fait que nécessairement le fonctionnement de certains outils nous échappe. La maîtrise de cette déprise, c'est de trouver de quoi compenser cette déprise. La première chose : c'est l'éducation ! La connaissance des outils que l'on utilise.s
+
+La fameuse littératie numérique : non pas savoir coder, mais comprendre les présupposés épistémologiques qui guident la construction des outils que nous utilisons chaque jour.
+
+Première leçon, sorte de pré-requis à l'algorithme, c'est la métadonnée.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/tweetmetadata.png" data-background-size="contain" -->
+
+
+### Données numériques
+* Donnée : représentation d'une information dans un programme informatique
+* *Big data* : explosion quantitative de la production / stockage des données
+* Données personnelles : "toute information relative à une personne physique identifiée ou qui peut être identifiée, directement ou indirectement, par référence à un numéro d'identification ou à un ou plusieurs éléments qui lui sont propres"
+
+===
+On a vu la semaine passée la différence entre une donnée et une information : Dans sa définition la plus générale, une donnée désigne un fait ou un élément "brut", qui n'a pas encore été traité ou mise en contexte - qui n'est donc pas encore transformée en information.
+
+Dans le domaine plus précis de l'informatique, une donnée est la représentation d'une information dans un programme : une donnée peut donc être du texte, du son, une image, etc.
+
+Avec le développement et la démocratisation des outils numériques, en particulier du web, l'ensemble des données produites et stockées sur les serveurs est devenu si volumineux qu'il dépasse de loin les capacités humaines d'analyse et même celles des outils informatiques classiques. Cette masse d'informations, de données, est appelée le *big data*.
+
+>L’explosion quantitative (et souvent redondante) de la donnée numérique contraint à de nouvelles manières de voir et analyser le monde. De nouveaux ordres de grandeur concernent la capture, le stockage, la recherche, le partage, l'analyse et la visualisation des données. (Wikipédia)
+
+Une donnée à caractère personnel ou DCP (couramment « données personnelles ») correspond en droit français à toute information relative à une personne physique identifiée ou qui peut être identifiée, directement ou indirectement, par référence à un numéro d'identification ou à un ou plusieurs éléments qui lui sont propres : Loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, article 2.
+
+On voit donc les problèmes poindre : sur le web, aujourd'hui, les contenus et les données sont publiés et circulent en masse. Il y a trop de données, potentiellement d'Ailleurs des données personnelles, dont on ne maîtrise plus les flux et dans lesquelles on peut se perdre.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/tweetmetadata.png" data-background-size="contain" -->
@@ -3764,20 +3855,12 @@ Le Réel est toujours médié. Ses médiations se font passer pour des représen
   * Une métadonnée est littéralement une donnée sur une donnée. Il s'agit d'un ensemble structuré d'informations décrivant une ressource quelconque, en vue de retrouver cette ressource parmi d'autres.
 
 ===
+De manière générale, pour s'y retrouver dans une masse d'informations ou de document, de données (informatique ou non), nous avons recours à un processus d'indexation.
+Le mot « indexation » fait référence à des processus de représentation de l'information. Pour indexer des contenus, documents ou données, nous avons donc créé les métadonnées. Une métadonnée est littéralement une donnée sur une donnée. Il s'agit d'un ensemble structuré d'informations décrivant une ressource quelconque, en vue de retrouver cette ressource parmi d'autres.
 
 Les métadonnées sont la carte d’identité d’un document. Elles permettent de l’identifier, de le décrire, d’expliquer l’origine de sa création, son utilité et ses destinataires.
+
 Au-delà de cette seule description, elles facilitent la recherche et le partage des ressources, la gestion de collections, leur préservation autant que la gestion des droits et l’authentification des documents.
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/tweetmetadata.png" data-background-size="contain" -->
-
-===
-
-L’usage des métadonnées relève d’une pratique ancienne dans les bibliothèques et centres de documentation, habitués à normaliser le signalement et le contenu des documents.
-
-Ainsi, les fiches cartonnées normalisées en 1954 sous la référence ISBD (International standard bibliographic description) ont progressivement fait place à des notices bibliographiques comme le format MARC (Machine-readable cataloging) utilisé pour la description des ouvrages, MARC ISBD(S) (International Standard Bibliographic Description for Serials), pour la description des publications en série, puis à des schémas spécifiques de description des ressources numériques, à l’instar du langage Dublin Core.  
-
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/metadonneeExterne.jpeg" data-background-size="contain" -->
@@ -3786,6 +3869,12 @@ Ainsi, les fiches cartonnées normalisées en 1954 sous la référence ISBD (Int
 * Métadonnées externes (cf. fiches d'un catalogue)
 
 
+===
+
+Je sors rapidement du domaine informatique pur et dur : L’usage des métadonnées relève d’une pratique ancienne dans les bibliothèques et centres de documentation, habitués à normaliser le signalement et le contenu des documents.
+
+Les premiers catalogues de bibliothèques, ainsi, avaient mis en place des métadonnées pour permettre de retrouver des livres : en les classant selon certaines catégories : les auteurs, le genre littéraire, la date, etc. on pouvait classer et retrouver plus facilement les ouvrages. C'est ce que l'on appelle les métadonnées externes. Aujourd'hui, c'est ce système de métadonnées informatisées qui vous permet de taper, dans un moteur de recherche d'un catalogue de bibliothèque, tous les ouvrages écrits par Victor Hugo.
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/metadonneePage.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
@@ -3793,9 +3882,18 @@ Ainsi, les fiches cartonnées normalisées en 1954 sous la référence ISBD (Int
 * Métadonnées embarquées (balise d'une page web)
 
 ===
-Les métadonnées sont présentes soit de manière embarquée (exemple dans un fichier informatique : photo, logiciel, document, …), soit de manière externe (exemple dans un catalogue d’accompagnement d’un jeu de données ou dans un annuaire d’entrepôts).
 
+Dans un contexte numérique, les métadonnées sont présentes soit de manière embarquée : elles font partie du document, en étant incluses par exemple dans un fichier informatique : photo, logiciel, document, ….
 
+Il faut envisager le web comme une sorte de grosse bibliothèque : comment retrouver des contenus ? Tt simplement grâce à leur indexation. Il est important, ainsi, de façonner des contenus qui soient toujours bien indexés. Cette indexation permet aussi d'assurer la pérennité des contenus.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/PostIt.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+>Selon notre façon de baliser les informations, nous les rendons accessibles, visibles et exploitables, mais nous construisons aussi une taxinomie du monde. Les métadonnées constituent un outil technique destiné à rendre compte de notre vision du monde et de la structuration de l’ensemble de nos connaissances. C’est parce qu’elle a produit une taxinomie précise et vaste que l’œuvre d’Aristote a autant marqué notre culture occidentale. ([Grégory Fabre, Sophie Marcotte, "L’organisation des métadonnées"](https://books.openedition.org/pum/332))
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/metadonneePage.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
@@ -3806,79 +3904,26 @@ Les métadonnées sont présentes soit de manière embarquée (exemple dans un f
 * métadonnées de préservation, pour garantir la pérennité de l’accès et de la compréhension du document (droits, format du fichier, source, résolution, relation, couverture…).
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
+<!-- .slide: data-background-image="img/tweetmetadata.png" data-background-size="contain" -->
 
-### Gérer / partager
-Les métadonnées permettent de :
-* Organiser et gérer l’ensemble des productions culturelles, tracer leurs transformations, définir leurs usages, identifier l’auteur
-* Préparer le partage et l’interopérabilité.
-* Prévoir la pérennisation
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
-
-### Trouver, comprendre, réutiliser
-* Faciliter la recherche des données de recherche et publications
-* Aider à comprendre les jeux de données (recueil, structure et contexte), pour leur réutilisation
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/PostIt.jpg" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
-
->Selon notre façon de baliser les informations, nous les rendons accessibles, visibles et exploitables, mais nous construisons aussi une taxinomie du monde. Les métadonnées constituent un outil technique destiné à rendre compte de notre vision du monde et de la structuration de l’ensemble de nos connaissances. C’est parce qu’elle a produit une taxinomie précise et vaste que l’œuvre d’Aristote a autant marqué notre culture occidentale. ([Grégory Fabre, Sophie Marcotte, "L’organisation des métadonnées"](https://books.openedition.org/pum/332))
-
-<!-- .element: style="font-size:1.7rem; text-align:justify" -->
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/dublin-core-elements-2.jpg" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
-
-### Les standards de métadonnées
-* Dublin Core (interdisciplinaire), description des ressources numériques
-* MARC (Machine-readable cataloging), description du contenu des bibliothèques
-* EAD (Encoded Archival Description), description des archives
-* DDI (Data Documentation Initiative), domaine des sciences sociales, comportementales et économiques
-
-
-===
-Le standard a pour objectif de fournir un ensemble d’éléments caractéristiques qui permettent de décrire les productions. Ainsi la recherche peut être facilitée en portant sur les critères définis. La description des éléments peut elle-même être précisée par l’emploi de vocabulaires dédiés.
-Le standard est choisi en fonction de la destination des données, dépôt, publication, archivage, etc. Il peut être caractérisé par son vocabulaire, et peut être spécialisé par discipline, par type de données, etc.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/dublin-core-elements-2.jpg" data-background-size="contain" -->
+## Données et métadonnées : une gestion qui nous échappe
+* Les données collectées à notre insu
+* Les données personnelles dont nous ne sommes pas propriétaires
 
 ===
 
-Il s’agissait de produire une recommandation pour la description bibliographique des documents ou objets se trouvant sur le web, dans une bibliothèque numérique ou même ailleurs.
-
+Sachant que ces métadonnées d'indexation sont, parfois, créées à notre insu : d'où un certain nombre de problèmes potentiels.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/rameau.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/tweetmetadata.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
-### Les Autorités
-* RAMEAU (Répertoire d’autorité matière encyclopédique et alphabétique unifié )
-
-===
-
-RAMEAU (Répertoire d’autorité-matière encyclopédique et alphabétique unifié) est le langage d’indexation matière utilisé, en France, par la Bibliothèque nationale de France, les bibliothèques universitaires, de nombreuses bibliothèques de lecture publique ou de recherche ainsi que plusieurs organismes privés.
-
-Il est élaboré depuis 1980, de façon autonome, en relation avec le « Répertoire de vedettes-matière » de l’Université Laval à Québec, et avec la liste de vedettes-matière de la Bibliothèque du Congrès (Library of Congress Subject Headings).
-
-Le langage d’indexation précoordonné RAMEAU se compose d’un vocabulaire de termes reliés entre eux et d’une syntaxe indiquant les règles de construction des vedettes-matière à l’indexation. L’ensemble des notices d’autorité - dont le noyau est formé de noms communs et de noms géographiques - constitue les autorités RAMEAU.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/rameau.png" data-background-size="contain" -->
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/algo.jpeg" data-background-size="contain" -->
 <!-- .slide: class="hover" -->
 
-### L'organisation algorithmique
+## L'organisation algorithmique
 * Dominique Cardon :
   * *La démocratie Internet* (2010)
   * "À quoi rêve Google"
@@ -3907,13 +3952,15 @@ Plus fort : avez-vous déjà indiqué un chemin à un touriste égaré ? Avez vo
 <!-- .slide: data-background-image="img/algo.jpeg" -->
 <!-- .slide: class="hover"-->
 
-### Qu'est-ce qu'un algorithme ?
+### Les biais algorithmiques
 * Un algorithme n'est pas neutre
-* Un algorithme n'est pas une création machinique : il a été programmé
+* Un algorithme n'est pas une émanation machinique : il a été programmé par les humains
+
+===
+
 * De nombreux travaux montrent combien les algorithmes ont tendance à :
   - reproduire les préjugés
   - encourager des comportements sociaux discriminants (sexisme, racisme)
-===
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/algo.jpeg" data-background-size="contain" -->
@@ -3922,6 +3969,9 @@ Plus fort : avez-vous déjà indiqué un chemin à un touriste égaré ? Avez vo
 >Les algorithmes qui permettent de hiérarchiser les informations enferment des principes de classement et des visions du monde. Ils structurent très profondément la manière dont les internautes voient les informations et se représentent le monde numérique dans lequel ils se promènent, sans toujours soupçonner le travail souterrain qu’exercent les algorithmes sur leur itinéraire. (Dominique Cardon)
 
 <!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+===
+Représenter, c'est structurer, en particulier dans le cas de l'algorithme
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/matrix.jpg" data-background-size="contain" -->
@@ -4059,7 +4109,7 @@ il classe les sites à partir d’un vote censitaire au fondement méritocratiqu
 * utilise les compteurs valorisant la réputation des personnes et des choses (les "*like*")
 * exemple : les réseaux sociaux
 
-===  
+===
 
 "les réseaux sociaux d’Internet proposent-ils d’éclater les classements, afin de les réorganiser par affinités autour du cercle d’« amis » ou de followers que s’est choisi l'internaute"
 
@@ -4105,7 +4155,7 @@ il classe les sites à partir d’un vote censitaire au fondement méritocratiqu
 
 
 ===
-La bulle de filtres1 ou bulle de filtrage1 (de l’anglais : filter bubble) est un concept développé par le militant d'Internet Eli Pariser. Selon Pariser, la « bulle de filtres » désigne à la fois le filtrage de l'information qui parvient à l'internaute par différents filtres ; et l'état d'« isolement intellectuel » et culturel dans lequel il se retrouve quand les informations qu'il recherche sur Internet résultent d'une personnalisation mise en place à son insu.
+La bulle de filtres1 ou bulle de filtrage (de l’anglais : filter bubble) est un concept développé par le militant d'Internet Eli Pariser. Selon Pariser, la « bulle de filtres » désigne à la fois le filtrage de l'information qui parvient à l'internaute par différents filtres ; et l'état d'« isolement intellectuel » et culturel dans lequel il se retrouve quand les informations qu'il recherche sur Internet résultent d'une personnalisation mise en place à son insu.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/predictif.jpeg" data-background-size="contain" -->
@@ -4165,7 +4215,3 @@ Les algorithmes [procèdent] d'un désir d'autonomie et de liberté. Mais ils co
 
 ## Conclusion
 L'organisation des contenus sur le web passe par des outils - métadonnées, algorithmes - dont les concepteurs cherchent avant tout à servir une série d'intérêt (notamment économiques). Connaître le fonctionnement de l'indexation est essentiel pour être conscient des biais dans l'organisation des contenus sur les moteurs de recherche ou les grandes plateformes. Mais il faut aussi être conscient que ces outils et l'ordonnancement qu'ils suscitent on un impact sur nos sociétés.
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-## Conclusion générale
