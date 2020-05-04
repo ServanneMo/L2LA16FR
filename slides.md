@@ -4224,7 +4224,7 @@ Les algorithmes [procèdent] d'un désir d'autonomie et de liberté. Mais ils co
 <!-- .slide: class="hover"-->
 
 ## Conclusion (1)
-Comment le web est-il construit ? Comment se structure le media qui constitue aujourd'hui notre fenêtre sur le monde, et qui participe à structurer le réel ? L'organisation des contenus sur le web passe par des outils - métadonnées, algorithmes - dont les concepteurs cherchent avant tout à servir une série d'intérêts (notamment économiques). Connaître le fonctionnement de l'indexation est essentiel pour être conscient des biais dans l'organisation des contenus sur les moteurs de recherche ou les grandes plateformes. Il faut aussi être conscient que ces outils et l'ordonnancement qu'ils suscitent ont un impact sur nos sociétés.
+Comment le web est-il construit ? Comment, en d'autres termes, se structure le media qui constitue aujourd'hui notre fenêtre sur le monde, et qui participe à structurer le réel ? L'organisation des contenus sur le web passe par des outils - métadonnées, algorithmes - dont les concepteurs, humains, laissent une signature. Le résultat d'une recherche, d'une navigation, n'est donc jamais neutre. Connaître le fonctionnement de l'indexation est essentiel pour être conscient des biais dans l'organisation des contenus sur les moteurs de recherche ou les grandes plateformes. C'est tout le sens d'une littératie numérique : utiliser en toute conscience, en connaissance de cause, des outils qui font désormais partie de notre quotidien. C'est enfin le sens d'une "maîtrise" de la "déprise".
 
 <!-- .element: style="font-size:1.7rem; text-align:justify" -->
 
@@ -4232,4 +4232,8 @@ Comment le web est-il construit ? Comment se structure le media qui constitue au
 <!-- .slide: data-background-image="img/predictif.jpeg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
-Nous avons parcouru un chemin assez long depuis Platon, Aristote et les premiers débats sur la mimesis, soit l'imitation du réel, jusqu'aux médiations numériques contemporaines. Ce parcours nous a conduit à envisager les problèmes de la représentation sous plusieurs coutures : ontologiques, éthiques, esthétique et surtout médiatiques. Avec un enseignement majeur à tirer : les débats autour de ce concept fluctuant, complexe, voire parfois clivant, en disent probablement bien plus long sur les valeurs et le fonctionnement d'une société, que les définitions même du concept - des définitions rarement satisfaisantes, par ailleurs systématiquement discutées aussitôt établies...
+## Conclusion (2)
+
+Nous avons parcouru un chemin assez long depuis Platon, Aristote et les premiers débats sur la mimesis, jusqu'aux médiations numériques contemporaines. Ce parcours nous a conduit à envisager les problèmes de la représentation sous plusieurs coutures : ontologiques, éthiques, esthétique et surtout médiatiques. Avec un enseignement majeur à tirer : les débats autour de ce concept fluctuant, complexe, voire parfois clivant, en disent probablement bien plus long sur les valeurs et le fonctionnement d'une société, que les définitions même du concept - des définitions rarement satisfaisantes, par ailleurs systématiquement discutées aussitôt établies... Pour comprendre le concept de représentation, il faut comprendre les technologies par lesquelles passent ces représentations. C'est par la connaissance des systèmes médiatiques - de leur fonctionnement technique, de leur imaginaire, de leurs usages - que nous pouvons comprendre les biais de toute représentation, afin de mieux les contrebalancer et forger notre propre jugement.
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
