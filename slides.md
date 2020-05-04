@@ -208,7 +208,7 @@ source image: À Rabat, une manifestation pour dénoncer le sort des migrants en
 * Docufiction, publicité...
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/influenceur.jpeg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/influenceur.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ## Axe 2 : Crise de la vérité ou crise de l'autorité ?
@@ -216,7 +216,7 @@ source image: À Rabat, une manifestation pour dénoncer le sort des migrants en
 * Transformation de l'autorité à l'époque numérique
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/influenceur.jpeg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/influenceur.png" data-background-size="contain" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/6a00d8341c622e53ef0240a4adcceb200d-500wi.jpg" data-background-size="contain" -->
@@ -3710,12 +3710,7 @@ quinze parfums représentant un lieu précis du royaume.
 <!-- .element: style="font-size:1.7rem; text-align:justify" -->
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
-
-## Structurer l'espace numérique
-
-
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/Internet-monde.jpg" data-background-size="contain" -->
 
 ## Structurer / représenter l'espace numérique
 
@@ -3750,7 +3745,7 @@ Rappel d'un problème que l'on a vu il y a 2 semaines : l'hégémonie des moteur
 Pourquoi dire que nous utilisons mal les outils ? Arrêtons nous d'abord sur les problèmes posés par cette manière de chercher...
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/Internet-monde.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/google.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ### Structuration du web, structuration du réel ?
@@ -3771,8 +3766,7 @@ Tout cela pour dire que si la question de la structuration du web est aussi prob
 Ce qui est intéressant, c'est de constater combien ces façon de faire, désormais courantes avec nos usages numériques, nous paraîtraient totalement inconcevables dans d'autres sphères d'action.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/Internet-monde.jpg" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
+<!-- .slide: data-background-image="img/bookshop.jpg" data-background-size="contain" -->
 
 
 ===
@@ -3808,7 +3802,7 @@ En raison même de cette tendance à la superposition entre le monde tel qu'il e
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/streetview.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/photolit.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ### Maîtrise de la déprise
@@ -3825,7 +3819,8 @@ La fameuse littératie numérique : non pas savoir coder, mais comprendre les pr
 Première leçon, sorte de pré-requis à l'algorithme, c'est la métadonnée.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/tweetmetadata.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/metadonneePage.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
 
 
 ### Données numériques
@@ -3847,7 +3842,7 @@ Une donnée à caractère personnel ou DCP (couramment « données personnelles 
 On voit donc les problèmes poindre : sur le web, aujourd'hui, les contenus et les données sont publiés et circulent en masse. Il y a trop de données, potentiellement d'Ailleurs des données personnelles, dont on ne maîtrise plus les flux et dans lesquelles on peut se perdre.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/tweetmetadata.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/metadonnee2.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ### Indexation et métadonnées
@@ -3905,6 +3900,7 @@ Il faut envisager le web comme une sorte de grosse bibliothèque : comment retro
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/tweetmetadata.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
 
 ## Données et métadonnées : une gestion qui nous échappe
 * Les données collectées à notre insu
@@ -3916,8 +3912,20 @@ Sachant que ces métadonnées d'indexation sont, parfois, créées à notre insu
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/tweetmetadata.png" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
 
+===
+Vous serez surpris par tout ce que vos tweets peuvent révéler de vous et de vos habitudes
+Une analyse de l’activité des comptes Twitter
+
+Comme tous les réseaux sociaux, Twitter sait beaucoup de choses sur vous, grâce aux métadonnées. En effet, pour un message de 140 caractères, vous aurez un paquet de métadonnées, plus de 20 fois la taille du contenu initial que vous avez saisi ! Et vous savez quoi ? Presque toutes les métadonnées sont accessibles par l’API ouverte de Twitter.
+Voici quelques exemples qui peuvent être exploités par n’importe qui (pas seulement les gouvernements) pour pister quelqu’un et en déduire son empreinte numérique :
+
+Fuseau horaire et langue choisie pour l’interface de twitter
+Langues détectées dans les tweets
+Sources utilisées (application pour mobile, navigateur web…)
+Géolocalisation
+Hashtags les plus utilisés, utilisateurs les plus retweetés, etc.
+Activité quotidienne/hebdomadaire
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/algo.jpeg" data-background-size="contain" -->
@@ -3935,7 +3943,7 @@ Sachant que ces métadonnées d'indexation sont, parfois, créées à notre insu
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/algo2.jpeg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/recette.JPG" data-background-size="contain" -->
 <!-- .slide: class="hover" -->
 
 ### Qu'est-ce qu'un algorithme ?
@@ -3949,7 +3957,7 @@ Avez-vous déjà ouvert un livre de recettes de cuisine ? Avez vous déjà déch
 Plus fort : avez-vous déjà indiqué un chemin à un touriste égaré ? Avez vous fait chercher un objet à quelqu’un par téléphone ? Ecrit une lettre anonyme stipulant comment procéder à une remise de rançon ? Si oui, vous avez déjà fabriqué – et fait exécuter – des algorithmes.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/algo.jpeg" -->
+<!-- .slide: data-background-image="img/algo.jpeg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
 ### Les biais algorithmiques
@@ -4014,7 +4022,7 @@ La popularité, l’autorité, la réputation, la prédiction, voilà les quatre
 
 * De la visite au "visiteur" unique (adresse IP)
 
->Déjà imparfaite dans le monde de la télévision, cette mesure révèle de redoutables imprécisions lorsqu’elle est appliquée au web. Car cette méthode ne sait jamais très bien qui se trouve derrière l’ordinateur familial. Elle suppose que les parcours multiples, rapides et enchevêtrés d’une navigation sur le web équivalent à une information lue, vue ou entendue dans les médias traditionnels. (Dominique Cardon)
+>Déjà imparfaite dans le monde de la télévision, cette mesure révèle de redoutables imprécisions lorsqu’elle est appliquée au web. Car cette méthode ne sait jamais très bien qui se trouve derrière l’ordinateur familial. Elle suppose que les parcours multiples, rapides et enchevêtrés d’une navigation sur le web équivalent à une information lue, vue ou entendue dans les médias traditionnels. (Dominique Cardon, *À quoi rêvent les algorithmes*)
 
 <!-- .element: style="font-size:1.7rem; text-align:justify" -->
 
@@ -4067,7 +4075,9 @@ il classe les sites à partir d’un vote censitaire au fondement méritocratiqu
 
 * De la sagesse des foules à l'intelligence collective ?
 
->Dans son principe initial, le PageRank, l’algorithme qui a fait la fortune de Google, considère que les liens hypertextes enferment la reconnaissance d’une autorité : si le site A adresse un lien vers le site B, c’est qu’il lui accorde de l’importance. Qu’il dise du bien ou du mal de B n’est pas la question ; ce qui importe est le fait que A ait jugé nécessaire de citer B comme une référence, une source, une preuve, un exemple ou un contre-exemple.
+>Dans son principe initial, le PageRank, l’algorithme qui a fait la fortune de Google, considère que les liens hypertextes enferment la reconnaissance d’une autorité : si le site A adresse un lien vers le site B, c’est qu’il lui accorde de l’importance. Qu’il dise du bien ou du mal de B n’est pas la question ; ce qui importe est le fait que A ait jugé nécessaire de citer B comme une référence, une source, une preuve, un exemple ou un contre-exemple. (Dominique Cardon, *À quoi rêvent les algorithmes*)
+
+
 
 <!-- .element: style="font-size:1.7rem; text-align:justify" -->
 
@@ -4078,7 +4088,7 @@ il classe les sites à partir d’un vote censitaire au fondement méritocratiqu
 
 * Les limites de la méritocratie
 
->Les lecteurs silencieux sont oubliés et le dénombrement des liens n’a rien du vote démocratique. Plus un site est cité par les autres, plus la reconnaissance qu’il adresse à d’autres a de poids dans le calcul d’autorité. Empruntée au système de valeurs de la communauté scientifique et notamment aux classements des revues scientifiques qui donnent plus de poids aux articles les plus cités par les autres, cette mesure de reconnaissance a spectaculairement prouvé qu’elle constituait l’une des meilleures approximations possible de la qualité des informations.
+>Les lecteurs silencieux sont oubliés et le dénombrement des liens n’a rien du vote démocratique. Plus un site est cité par les autres, plus la reconnaissance qu’il adresse à d’autres a de poids dans le calcul d’autorité. Empruntée au système de valeurs de la communauté scientifique et notamment aux classements des revues scientifiques qui donnent plus de poids aux articles les plus cités par les autres, cette mesure de reconnaissance a spectaculairement prouvé qu’elle constituait l’une des meilleures approximations possible de la qualité des informations. (Dominique Cardon, *À quoi rêvent les algorithmes*)
 
 <!-- .element: style="font-size:1.6rem; text-align:justify" -->
 
@@ -4086,7 +4096,7 @@ il classe les sites à partir d’un vote censitaire au fondement méritocratiqu
 <!-- .slide: data-background-image="img/Internet-monde.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
->Alors que les journalistes filtrent l’information sur la base d’un jugement humain avant de la publier, les moteurs de recherche (ainsi que Google News) filtrent a posteriori une information déjà publiée sur la base des jugements humains émis par l’ensemble des internautes qui publient sur le web.
+>Alors que les journalistes filtrent l’information sur la base d’un jugement humain avant de la publier, les moteurs de recherche (ainsi que Google News) filtrent a posteriori une information déjà publiée sur la base des jugements humains émis par l’ensemble des internautes qui publient sur le web. (Dominique Cardon, *À quoi rêvent les algorithmes*)
 
 <!-- .element: style="font-size:1.7rem; text-align:justify" -->
 
@@ -4096,7 +4106,7 @@ il classe les sites à partir d’un vote censitaire au fondement méritocratiqu
 <!-- .slide: class="hover"-->
 
 * Détournement et optimisation : une valse sans fin
->À la manière de la claque théâtrale, les stratèges du marché du référencement paient ou fabriquent des sites qui citent leurs clients : ils placent des liens vers le site cible dans les commentaires de blogs, glissent subrepticement un lien dans Wikipédia, créent des « fermes » de faux sites liés les uns aux autres pour adresser ensuite un lien hypertexte vers la cible, produisent de faux contenus (parfois produits par des robots) pour tromper l'algorithme. La plupart de ces techniques sont aujourd’hui devenues inefficaces en raison des modifications incessantes que Google apporte à l’algorithme pour décourager ceux qui essaient de tromper son classement. Mais ce jeu du chat et de la souris entre les webmestres et les concepteurs de l’algorithme est sans fin.
+>À la manière de la claque théâtrale, les stratèges du marché du référencement paient ou fabriquent des sites qui citent leurs clients : ils placent des liens vers le site cible dans les commentaires de blogs, glissent subrepticement un lien dans Wikipédia, créent des « fermes » de faux sites liés les uns aux autres pour adresser ensuite un lien hypertexte vers la cible, produisent de faux contenus (parfois produits par des robots) pour tromper l'algorithme. La plupart de ces techniques sont aujourd’hui devenues inefficaces en raison des modifications incessantes que Google apporte à l’algorithme pour décourager ceux qui essaient de tromper son classement. Mais ce jeu du chat et de la souris entre les webmestres et les concepteurs de l’algorithme est sans fin. (Dominique Cardon, *À quoi rêvent les algorithmes*)
 
 <!-- .element: style="font-size:1.7rem; text-align:justify" -->
 
@@ -4119,27 +4129,27 @@ il classe les sites à partir d’un vote censitaire au fondement méritocratiqu
 <!-- .slide: class="hover"-->
 
 * Je suis donc je "like"
->Alors que Google cherche à cacher le calculateur au-dessus du web afin que les internautes ne s’en emparent pas, les métriques de réputation du web social le glissent dans le web pour que les internautes se mesurent eux-mêmes. Le symbole de ces nouveaux calculs est le like de Facebook, pointe avancée d’un ensemble beaucoup plus large et disparate d’indicateurs mesurant la taille des réseaux personnels par le nombre d’amis, la réputation acquise en fonction du nombre d’informations publiées que d’autres internautes ont ensuite commentées ou partagées, le nombre de fois où le nom de l’internaute a été prononcé dans la conversation des autres, etc.
+>Alors que Google cherche à cacher le calculateur au-dessus du web afin que les internautes ne s’en emparent pas, les métriques de réputation du web social le glissent dans le web pour que les internautes se mesurent eux-mêmes. Le symbole de ces nouveaux calculs est le like de Facebook, pointe avancée d’un ensemble beaucoup plus large et disparate d’indicateurs mesurant la taille des réseaux personnels par le nombre d’amis, la réputation acquise en fonction du nombre d’informations publiées que d’autres internautes ont ensuite commentées ou partagées, le nombre de fois où le nom de l’internaute a été prononcé dans la conversation des autres, etc. (Dominique Cardon, *À quoi rêvent les algorithmes*)
 
 <!-- .element: style="font-size:1.7rem; text-align:justify" -->
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/influenceur.jpeg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/influenceur.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 * Le sacre de l'"influenceur"
->Le web social de Facebook, Twitter, Pinterest, Instagram, etc., s’est ainsi couvert de chiffres et de petits compteurs, des « gloriomètres », pour reprendre une expression de Gabriel Tarde. Alors que dans le monde de l’autorité, la visibilité se mérite, dans celui des affinités numériques, elle peut se fabriquer. Façonner sa réputation, animer sa communauté d’admirateurs ou anticiper la viralité de ses messages constitue même un savoir-faire valorisé.
+>Le web social de Facebook, Twitter, Pinterest, Instagram, etc., s’est ainsi couvert de chiffres et de petits compteurs, des « gloriomètres », pour reprendre une expression de Gabriel Tarde. Alors que dans le monde de l’autorité, la visibilité se mérite, dans celui des affinités numériques, elle peut se fabriquer. Façonner sa réputation, animer sa communauté d’admirateurs ou anticiper la viralité de ses messages constitue même un savoir-faire valorisé. (Dominique Cardon, *À quoi rêvent les algorithmes*)
 
 <!-- .element: style="font-size:1.7rem; text-align:justify" -->
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/influenceur.jpeg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/influenceur.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 * Le règne de l'évaluation
->Dans le cas des biens culturels, comme l’évaluation des films cinématographiques, les notes ont plus d’importance qu’une collection d’avis singuliers9. Lorsque l’évaluation du bien comporte des aspects techniques, la parole d’experts est préférée à l’agrégation des notes de consommateurs peu compétents. La démocratisation de l’évaluation profane associe l’idée de pouvoir tout noter à celle de faire noter tout le monde.
+>Dans le cas des biens culturels, comme l’évaluation des films cinématographiques, les notes ont plus d’importance qu’une collection d’avis singuliers9. Lorsque l’évaluation du bien comporte des aspects techniques, la parole d’experts est préférée à l’agrégation des notes de consommateurs peu compétents. La démocratisation de l’évaluation profane associe l’idée de pouvoir tout noter à celle de faire noter tout le monde. (Dominique Cardon, *À quoi rêvent les algorithmes*)
 
 <!-- .element: style="font-size:1.7rem; text-align:justify" -->
 
@@ -4186,7 +4196,7 @@ les mesures prédictives destinées à personnaliser les informations présenté
 
 
 >À grand renfort de travaux de psychologie et d’économie expérimentales, les architectes des nouveaux algorithmes des big data assurent qu’il ne faut faire confiance qu’aux conduites réelles des individus, et non à ce qu’ils prétendent faire lorsqu’ils se racontent sur les très expressives plateformes du web social. Les régularités globales observées sur de grandes masses de traces doivent permettre d’estimer ce que l’utilisateur risque de faire
-réellement. Les algorithmes prédictifs ne donnent pas une réponse à ce que les gens disent vouloir faire, mais à ce qu’ils font sans vouloir vraiment se le dire.
+réellement. Les algorithmes prédictifs ne donnent pas une réponse à ce que les gens disent vouloir faire, mais à ce qu’ils font sans vouloir vraiment se le dire. (Dominique Cardon, *À quoi rêvent les algorithmes*)
 
 
 <!-- .element: style="font-size:1.7rem; text-align:justify" -->
@@ -4205,13 +4215,21 @@ réellement. Les algorithmes prédictifs ne donnent pas une réponse à ce que l
 <!-- .slide: class="hover"-->
 
 >Comme les GPS dans les véhicules, les algorithmes se sont silencieusement glissés dans nos vies. Ils ne nous imposent pas la destination. Ils ne choisissent pas ce qui nous intéresse. Nous leur donnons la destination et ils nous demandent de suivre "leur" route. La conduite GPS s'est si fortement inscrite dans les pratiques des conducteurs que ceux-ci ont parfois perdu toute idée de la carte, des manières de la lire, de la diversité de ses chemins et des joies de l'égarement.
-Les algorithmes [procèdent] d'un désir d'autonomie et de liberté. Mais ils contribuent aussi à assujettir l'internaute à cette route calculée, efficace, automatique, qui s'adapte à nos désirs en se réglant secrètement sur le désir des autres. Avec la carte, nous avons perdu le paysage. Le chemin que nous suivons est le "meilleur" pour nous.
+Les algorithmes [procèdent] d'un désir d'autonomie et de liberté. Mais ils contribuent aussi à assujettir l'internaute à cette route calculée, efficace, automatique, qui s'adapte à nos désirs en se réglant secrètement sur le désir des autres. Avec la carte, nous avons perdu le paysage. Le chemin que nous suivons est le "meilleur" pour nous. (Dominique Cardon, *À quoi rêvent les algorithmes*)
 
 <!-- .element: style="font-size:1.7rem; text-align:justify" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/rondepierre.png" -->
+<!-- .slide: data-background-image="img/predictif.jpeg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
-## Conclusion
-L'organisation des contenus sur le web passe par des outils - métadonnées, algorithmes - dont les concepteurs cherchent avant tout à servir une série d'intérêt (notamment économiques). Connaître le fonctionnement de l'indexation est essentiel pour être conscient des biais dans l'organisation des contenus sur les moteurs de recherche ou les grandes plateformes. Mais il faut aussi être conscient que ces outils et l'ordonnancement qu'ils suscitent on un impact sur nos sociétés.
+## Conclusion (1)
+Comment le web est-il construit ? Comment se structure le media qui constitue aujourd'hui notre fenêtre sur le monde, et qui participe à structurer le réel ? L'organisation des contenus sur le web passe par des outils - métadonnées, algorithmes - dont les concepteurs cherchent avant tout à servir une série d'intérêts (notamment économiques). Connaître le fonctionnement de l'indexation est essentiel pour être conscient des biais dans l'organisation des contenus sur les moteurs de recherche ou les grandes plateformes. Il faut aussi être conscient que ces outils et l'ordonnancement qu'ils suscitent ont un impact sur nos sociétés.
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/predictif.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+Nous avons parcouru un chemin assez long depuis Platon, Aristote et les premiers débats sur la mimesis, soit l'imitation du réel, jusqu'aux médiations numériques contemporaines. Ce parcours nous a conduit à envisager les problèmes de la représentation sous plusieurs coutures : ontologiques, éthiques, esthétique et surtout médiatiques. Avec un enseignement majeur à tirer : les débats autour de ce concept fluctuant, complexe, voire parfois clivant, en disent probablement bien plus long sur les valeurs et le fonctionnement d'une société, que les définitions même du concept - des définitions rarement satisfaisantes, par ailleurs systématiquement discutées aussitôt établies...
